@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/09/2026, 05:01:00 KST",
-  "totalEntries": 49,
+  "updatedAt": "09/09/2026, 06:01:01 KST",
+  "totalEntries": 50,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -185,7 +185,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Philippines",
-      "rank": 109,
+      "rank": 110,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -450,7 +450,7 @@
       "rank": 29,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+19"
     },
     {
       "title": "MUSE",
@@ -476,11 +476,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
+      "country": "Taiwan",
+      "rank": 50,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
       "country": "Kyrgyzstan",
       "rank": 59,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -844,7 +854,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Philippines",
-        "rank": 109,
+        "rank": 110,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -903,11 +913,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
+        "country": "Taiwan",
+        "rank": 50,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
         "country": "Kyrgyzstan",
         "rank": 59,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -991,7 +1011,7 @@
         "rank": 29,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+19"
       },
       {
         "title": "MUSE",
@@ -1100,7 +1120,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
