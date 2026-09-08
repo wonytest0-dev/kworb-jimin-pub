@@ -1,0 +1,61 @@
+name: Update Jimin Charts
+
+# Triggered externally by cronjob.org calling the GitHub API
+# (POST /repos/<owner>/<this-repo>/dispatches with event_type: update-charts).
+# workflow_dispatch is kept too so you can also trigger it manually from
+# the Actions tab for testing.
+on:
+  repository_dispatch:
+    types: [update-charts]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-charts
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo (public - data lives here)
+        uses: actions/checkout@v4
+
+      - name: Checkout private scraper code
+        uses: actions/checkout@v4
+        with:
+          repository: YOUR_GITHUB_USERNAME/jimin-charts-scraper
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: scraper-code
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install scraper dependencies
+        working-directory: scraper-code
+        run: npm install
+
+      - name: Install Playwright Chromium
+        working-directory: scraper-code
+        run: npx playwright install --with-deps chromium
+
+      # Runs from the repo root (this public repo), so the script's
+      # relative "data/jimin-charts.json" output lands right here.
+      - name: Run scraper
+        run: node scraper-code/scrape-jimin-charts.js
+
+      - name: Commit & push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jimin-charts.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update Jimin charts data [skip ci]"
+            git push
+          fi
