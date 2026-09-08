@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/09/2026, 06:01:01 KST",
+  "updatedAt": "09/09/2026, 07:01:07 KST",
   "totalEntries": 50,
   "totalTop1": 1,
   "services": [
@@ -174,21 +174,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Gambia",
-      "rank": 52,
+      "country": "Philippines",
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "NE"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Philippines",
-      "rank": 110,
+      "country": "Gambia",
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -437,7 +437,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 6,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -477,7 +477,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Taiwan",
-      "rank": 50,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -843,21 +843,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Gambia",
-        "rank": 52,
+        "country": "Philippines",
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "NE"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Philippines",
-        "rank": 110,
+        "country": "Gambia",
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -914,7 +914,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Taiwan",
-        "rank": 50,
+        "rank": 55,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -998,7 +998,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 6,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
