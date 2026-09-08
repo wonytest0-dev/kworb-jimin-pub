@@ -26,7 +26,7 @@ jobs:
       - name: Checkout private scraper code
         uses: actions/checkout@v4
         with:
-          repository: YOUR_GITHUB_USERNAME/jimin-charts-scraper
+          repository: wonytest0-dev/kworb-jimin
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: scraper-code
 
