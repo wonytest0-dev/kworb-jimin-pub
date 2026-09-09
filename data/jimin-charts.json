@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/09/2026, 17:01:06 KST",
+  "updatedAt": "09/09/2026, 18:01:00 KST",
   "totalEntries": 51,
   "totalTop1": 1,
   "services": [
@@ -159,6 +159,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-16"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Apple  Music",
+      "country": "Russia",
+      "rank": 197,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -447,10 +457,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 5,
+      "rank": 2,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -511,16 +521,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Taiwan",
-      "rank": 90,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -836,6 +836,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-16"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Apple  Music",
+        "country": "Russia",
+        "rank": 197,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "iTunes": [
@@ -958,16 +968,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Taiwan",
-        "rank": 90,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -1018,10 +1018,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 5,
+        "rank": 2,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
@@ -1068,7 +1068,7 @@
       "title": "Who",
       "type": "single",
       "service": "Apple  Music",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -1140,7 +1140,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
