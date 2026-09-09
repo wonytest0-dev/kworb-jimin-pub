@@ -1,10 +1,9 @@
 {
-  "updatedAt": "09/09/2026, 10:01:03 KST",
+  "updatedAt": "09/09/2026, 11:01:15 KST",
   "totalEntries": 50,
   "totalTop1": 1,
   "services": [
     "Apple Music",
-    "Apple  Music",
     "Shazam",
     "Spotify",
     "iTunes"
@@ -153,7 +152,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "country": "Belarus",
       "rank": 155,
       "isTop1": false,
@@ -486,16 +485,6 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Taiwan",
-      "rank": 60,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Nepal",
       "rank": 62,
       "isTop1": false,
@@ -506,11 +495,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Laos",
-      "rank": 87,
+      "country": "Taiwan",
+      "rank": 62,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Laos",
+      "rank": 86,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "="
     }
   ],
   "byService": {
@@ -816,16 +815,76 @@
         "movement24h": "-19"
       }
     ],
-    "Apple  Music": [
+    "Apple Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple  Music",
+        "service": "Apple Music",
         "country": "Belarus",
         "rank": 155,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-16"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 50,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-28"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 109,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-35"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 2,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Norway",
+        "rank": 6,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+106"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 31,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+18"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Costa Rica",
+        "rank": 125,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-32"
       }
     ],
     "iTunes": [
@@ -923,16 +982,6 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Taiwan",
-        "rank": 60,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Nepal",
         "rank": 62,
         "isTop1": false,
@@ -943,11 +992,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Laos",
-        "rank": 87,
+        "country": "Taiwan",
+        "rank": 62,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Laos",
+        "rank": 86,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
       }
     ],
     "Shazam": [
@@ -960,68 +1019,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+15"
-      }
-    ],
-    "Apple Music": [
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 50,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-28"
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 109,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-35"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 2,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Norway",
-        "rank": 6,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+106"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 31,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+18"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 125,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-32"
       }
     ]
   },
@@ -1047,7 +1044,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
