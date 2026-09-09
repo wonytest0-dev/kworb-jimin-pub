@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/09/2026, 22:01:09 KST",
+  "updatedAt": "09/09/2026, 23:01:19 KST",
   "totalEntries": 50,
   "totalTop1": 1,
   "services": [
@@ -185,7 +185,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Philippines",
-      "rank": 150,
+      "rank": 171,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -305,7 +305,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 29,
+      "rank": 30,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -854,7 +854,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Philippines",
-        "rank": 150,
+        "rank": 171,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -884,7 +884,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 29,
+        "rank": 30,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
