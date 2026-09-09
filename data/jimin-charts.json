@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10/09/2026, 01:01:18 KST",
-  "totalEntries": 51,
+  "updatedAt": "10/09/2026, 02:01:12 KST",
+  "totalEntries": 50,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -180,16 +180,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Philippines",
-      "rank": 196,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-110"
     },
     {
       "title": "Who",
@@ -861,16 +851,6 @@
         "movement24h": "="
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Philippines",
-        "rank": 196,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-110"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -1079,7 +1059,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
