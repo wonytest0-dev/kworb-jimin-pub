@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/09/2026, 21:01:03 KST",
-  "totalEntries": 51,
+  "updatedAt": "09/09/2026, 22:01:09 KST",
+  "totalEntries": 50,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -163,16 +163,6 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
-      "country": "Russia",
-      "rank": 197,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
       "rank": 13,
@@ -195,7 +185,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Philippines",
-      "rank": 125,
+      "rank": 150,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -836,16 +826,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-16"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Apple  Music",
-        "country": "Russia",
-        "rank": 197,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "iTunes": [
@@ -874,7 +854,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Philippines",
-        "rank": 125,
+        "rank": 150,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1068,7 +1048,7 @@
       "title": "Who",
       "type": "single",
       "service": "Apple  Music",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
