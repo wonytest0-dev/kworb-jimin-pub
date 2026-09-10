@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/09/2026, 13:01:01 KST",
+  "updatedAt": "10/09/2026, 14:01:07 KST",
   "totalEntries": 48,
   "totalTop1": 1,
   "services": [
@@ -255,21 +255,21 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "country": "Chile",
-      "rank": 47,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "iTunes",
       "country": "Micronesia",
       "rank": 52,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Like Crazy",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Chile",
+      "rank": 56,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Be Mine",
@@ -854,21 +854,21 @@
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
-        "country": "Chile",
-        "rank": 47,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 52,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Chile",
+        "rank": 56,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
