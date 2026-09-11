@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/09/2026, 22:01:06 KST",
+  "updatedAt": "11/09/2026, 23:01:05 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 52,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-3"
     },
     {
       "title": "Who",
@@ -805,10 +805,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 52,
+        "rank": 55,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-3"
       },
       {
         "title": "Like Crazy",
