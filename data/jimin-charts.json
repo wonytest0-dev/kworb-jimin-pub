@@ -1,10 +1,9 @@
 {
-  "updatedAt": "12/09/2026, 23:01:06 KST",
+  "updatedAt": "13/09/2026, 00:01:06 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
     "Apple Music",
-    "Apple  Music",
     "Shazam",
     "Spotify",
     "iTunes"
@@ -143,7 +142,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "country": "Belarus",
       "rank": 200,
       "isTop1": false,
@@ -168,7 +167,7 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -417,10 +416,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 24,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-11"
     },
     {
       "title": "MUSE",
@@ -430,7 +429,7 @@
       "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-18"
+      "movement24h": "-16"
     },
     {
       "title": "MUSE",
@@ -776,16 +775,76 @@
         "movement24h": "+5"
       }
     ],
-    "Apple  Music": [
+    "Apple Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple  Music",
+        "service": "Apple Music",
         "country": "Belarus",
         "rank": 200,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-35"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 128,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-27"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 44,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-15"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 2,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 25,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-11"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Norway",
+        "rank": 26,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-16"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Maldives",
+        "rank": 69,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "iTunes": [
@@ -807,7 +866,7 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -901,68 +960,6 @@
         "movementLive": null,
         "movement24h": "+11"
       }
-    ],
-    "Apple Music": [
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 128,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-27"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 44,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-15"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 2,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 24,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-10"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Norway",
-        "rank": 26,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-18"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Maldives",
-        "rank": 69,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      }
     ]
   },
   "summary": [
@@ -989,7 +986,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
