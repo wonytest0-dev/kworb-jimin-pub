@@ -1,9 +1,10 @@
 {
-  "updatedAt": "12/09/2026, 10:01:04 KST",
+  "updatedAt": "12/09/2026, 11:01:01 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
     "Apple Music",
+    "Apple  Music",
     "Deezer",
     "Shazam",
     "Spotify",
@@ -143,7 +144,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple Music",
+      "service": "Apple  Music",
       "country": "Belarus",
       "rank": 200,
       "isTop1": false,
@@ -165,10 +166,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 55,
+      "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "Who",
@@ -235,10 +236,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 37,
+      "rank": 36,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -477,10 +478,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 69,
+      "rank": 64,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "+9"
     },
     {
       "title": "MUSE",
@@ -786,17 +787,133 @@
         "movement24h": "+5"
       }
     ],
-    "Apple Music": [
+    "Apple  Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple Music",
+        "service": "Apple  Music",
         "country": "Belarus",
         "rank": 200,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-35"
+      }
+    ],
+    "iTunes": [
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Guinea-Bissau",
+        "rank": 13,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
       },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Gambia",
+        "rank": 54,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-2"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Cape Verde",
+        "rank": 22,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Guinea-Bissau",
+        "rank": 19,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Niger",
+        "rank": 36,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+1"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Micronesia",
+        "rank": 52,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Micronesia",
+        "rank": 47,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Nepal",
+        "rank": 62,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Kyrgyzstan",
+        "rank": 64,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+9"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Laos",
+        "rank": 86,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      }
+    ],
+    "Shazam": [
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Shazam",
+        "country": "Japan",
+        "rank": 44,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+15"
+      }
+    ],
+    "Apple Music": [
       {
         "title": "Like Crazy",
         "type": "single",
@@ -858,120 +975,6 @@
         "movement24h": "NE"
       }
     ],
-    "iTunes": [
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Guinea-Bissau",
-        "rank": 13,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Gambia",
-        "rank": 55,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-3"
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Cape Verde",
-        "rank": 22,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Guinea-Bissau",
-        "rank": 19,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Niger",
-        "rank": 37,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Micronesia",
-        "rank": 52,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Micronesia",
-        "rank": 47,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Nepal",
-        "rank": 62,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 69,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+4"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Laos",
-        "rank": 86,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      }
-    ],
-    "Shazam": [
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Shazam",
-        "country": "Japan",
-        "rank": 44,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+15"
-      }
-    ],
     "Deezer": [
       {
         "title": "Like Crazy",
@@ -1009,7 +1012,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple Music",
+      "service": "Apple  Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
