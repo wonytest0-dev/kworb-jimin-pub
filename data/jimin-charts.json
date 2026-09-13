@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/09/2026, 07:01:05 KST",
+  "updatedAt": "14/09/2026, 08:01:04 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
@@ -186,7 +186,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 69,
+      "rank": 73,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -196,7 +196,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Indonesia",
-      "rank": 142,
+      "rank": 153,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -428,10 +428,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 35,
+      "rank": 34,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -815,7 +815,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 69,
+        "rank": 73,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -825,7 +825,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Indonesia",
-        "rank": 142,
+        "rank": 153,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -961,10 +961,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 35,
+        "rank": 34,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
