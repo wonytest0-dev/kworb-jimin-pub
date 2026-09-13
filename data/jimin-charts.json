@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/09/2026, 23:01:03 KST",
+  "updatedAt": "14/09/2026, 00:01:10 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
@@ -441,7 +441,7 @@
       "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -467,21 +467,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 62,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+2"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Nepal",
       "rank": 62,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Kyrgyzstan",
+      "rank": 63,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -874,21 +874,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 62,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+2"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Nepal",
         "rank": 62,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Kyrgyzstan",
+        "rank": 63,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -962,7 +962,7 @@
         "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
