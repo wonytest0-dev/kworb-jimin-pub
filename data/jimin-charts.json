@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/09/2026, 18:03:22 KST",
+  "updatedAt": "13/09/2026, 19:01:11 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
@@ -166,7 +166,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 26,
+      "rank": 40,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -805,7 +805,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 26,
+        "rank": 40,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
