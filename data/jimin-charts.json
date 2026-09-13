@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/09/2026, 06:01:04 KST",
+  "updatedAt": "14/09/2026, 07:01:05 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
@@ -196,7 +196,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Indonesia",
-      "rank": 132,
+      "rank": 142,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -427,21 +427,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Norway",
-      "rank": 35,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+11"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
       "country": "Russia",
       "rank": 35,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Norway",
+      "rank": 38,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+8"
     },
     {
       "title": "MUSE",
@@ -825,7 +825,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Indonesia",
-        "rank": 132,
+        "rank": 142,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -960,21 +960,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Norway",
-        "rank": 35,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+11"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
         "country": "Russia",
         "rank": 35,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Norway",
+        "rank": 38,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+8"
       },
       {
         "title": "MUSE",
