@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/09/2026, 05:01:09 KST",
+  "updatedAt": "15/09/2026, 06:01:05 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
@@ -427,10 +427,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 39,
+      "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-10"
     },
     {
       "title": "MUSE",
@@ -958,10 +958,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 39,
+        "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-10"
       },
       {
         "title": "MUSE",
