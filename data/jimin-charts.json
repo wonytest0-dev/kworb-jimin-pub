@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15/09/2026, 06:01:05 KST",
-  "totalEntries": 48,
+  "updatedAt": "15/09/2026, 07:01:07 KST",
+  "totalEntries": 49,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -456,6 +456,16 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
+      "country": "Taiwan",
+      "rank": 32,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
       "country": "Micronesia",
       "rank": 47,
       "isTop1": false,
@@ -863,6 +873,16 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
+        "country": "Taiwan",
+        "rank": 32,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
         "country": "Micronesia",
         "rank": 47,
         "isTop1": false,
@@ -1082,7 +1102,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
