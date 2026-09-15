@@ -1,10 +1,9 @@
 {
-  "updatedAt": "16/09/2026, 04:01:09 KST",
-  "totalEntries": 49,
+  "updatedAt": "16/09/2026, 05:01:36 KST",
+  "totalEntries": 50,
   "totalTop1": 2,
   "services": [
     "Apple Music",
-    "Apple  Music",
     "Deezer",
     "Shazam",
     "Spotify",
@@ -35,31 +34,31 @@
       "title": "Who",
       "type": "single",
       "service": "Spotify",
+      "country": "Belarus",
+      "rank": 185,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Spotify",
       "country": "South Korea",
       "rank": 5,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "="
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Spotify",
-      "country": "Belarus",
-      "rank": 8,
+      "country": "Venezuela",
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Costa Rica",
-      "rank": 19,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+30"
+      "movement24h": "+34"
     },
     {
       "title": "Who",
@@ -69,92 +68,92 @@
       "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "="
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Spotify",
       "country": "Taiwan",
-      "rank": 27,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Venezuela",
-      "rank": 41,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-11"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Thailand",
-      "rank": 52,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-12"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Kazakhstan",
-      "rank": 54,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-21"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Vietnam",
-      "rank": 77,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+53"
+      "movement24h": "+2"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Spotify",
       "country": "Japan",
-      "rank": 101,
+      "rank": 64,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-35"
+      "movement24h": "+37"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Costa Rica",
+      "rank": 68,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-49"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Thailand",
+      "rank": 74,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-22"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Vietnam",
+      "rank": 92,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-15"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Kazakhstan",
+      "rank": 98,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-44"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Spotify",
       "country": "Czech Republic",
-      "rank": 108,
+      "rank": 122,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+25"
+      "movement24h": "-14"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Spotify",
       "country": "Paraguay",
-      "rank": 125,
+      "rank": 140,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-71"
+      "movement24h": "-15"
     },
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "country": "Belarus",
       "rank": 127,
       "isTop1": false,
@@ -225,11 +224,21 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "Spotify",
-      "country": "Chile",
-      "rank": 139,
+      "country": "Belarus",
+      "rank": 89,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+11"
+      "movement24h": "NE"
+    },
+    {
+      "title": "Like Crazy",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Chile",
+      "rank": 90,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+49"
     },
     {
       "title": "Like Crazy",
@@ -286,30 +295,30 @@
       "type": "single",
       "service": "Spotify",
       "country": "Belarus",
-      "rank": 38,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Vietnam",
-      "rank": 133,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "+26"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "Spotify",
       "country": "South Korea",
-      "rank": 149,
+      "rank": 108,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+41"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Vietnam",
+      "rank": 169,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-36"
     },
     {
       "title": "Be Mine",
@@ -438,10 +447,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 25,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+9"
+      "movement24h": "+6"
     },
     {
       "title": "MUSE",
@@ -530,31 +539,31 @@
         "title": "Who",
         "type": "single",
         "service": "Spotify",
+        "country": "Belarus",
+        "rank": 185,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Spotify",
         "country": "South Korea",
         "rank": 5,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "="
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Spotify",
-        "country": "Belarus",
-        "rank": 8,
+        "country": "Venezuela",
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Costa Rica",
-        "rank": 19,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+30"
+        "movement24h": "+34"
       },
       {
         "title": "Who",
@@ -564,127 +573,137 @@
         "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "="
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Spotify",
         "country": "Taiwan",
-        "rank": 27,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Venezuela",
-        "rank": 41,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-11"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Thailand",
-        "rank": 52,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-12"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Kazakhstan",
-        "rank": 54,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-21"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Vietnam",
-        "rank": 77,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+53"
+        "movement24h": "+2"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Spotify",
         "country": "Japan",
-        "rank": 101,
+        "rank": 64,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-35"
+        "movement24h": "+37"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Costa Rica",
+        "rank": 68,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-49"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Thailand",
+        "rank": 74,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-22"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Vietnam",
+        "rank": 92,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-15"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Kazakhstan",
+        "rank": 98,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-44"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Spotify",
         "country": "Czech Republic",
-        "rank": 108,
+        "rank": 122,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+25"
+        "movement24h": "-14"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Spotify",
         "country": "Paraguay",
-        "rank": 125,
+        "rank": 140,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-71"
+        "movement24h": "-15"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Belarus",
+        "rank": 89,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Like Crazy",
         "type": "single",
         "service": "Spotify",
         "country": "Chile",
-        "rank": 139,
+        "rank": 90,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+11"
+        "movement24h": "+49"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "Spotify",
         "country": "Belarus",
-        "rank": 38,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Vietnam",
-        "rank": 133,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+26"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "Spotify",
         "country": "South Korea",
-        "rank": 149,
+        "rank": 108,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+41"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Vietnam",
+        "rank": 169,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-36"
       },
       {
         "title": "MUSE",
@@ -787,16 +806,76 @@
         "movement24h": "+5"
       }
     ],
-    "Apple  Music": [
+    "Apple Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple  Music",
+        "service": "Apple Music",
         "country": "Belarus",
         "rank": 127,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-7"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 105,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+57"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 36,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-18"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 3,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-1"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 28,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+6"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Norway",
+        "rank": 57,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-18"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Costa Rica",
+        "rank": 74,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+125"
       }
     ],
     "iTunes": [
@@ -944,68 +1023,6 @@
         "movementLive": null,
         "movement24h": "NE"
       }
-    ],
-    "Apple Music": [
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 105,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+57"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 36,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-18"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-1"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 25,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+9"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Norway",
-        "rank": 57,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-18"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 74,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+125"
-      }
     ]
   },
   "summary": [
@@ -1032,7 +1049,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
@@ -1065,7 +1082,7 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "Spotify",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
