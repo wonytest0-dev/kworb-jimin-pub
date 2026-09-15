@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/09/2026, 16:01:03 KST",
+  "updatedAt": "15/09/2026, 17:01:22 KST",
   "totalEntries": 50,
   "totalTop1": 2,
   "services": [
@@ -174,21 +174,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Brazil",
-      "rank": 7,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Guinea-Bissau",
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Brazil",
+      "rank": 22,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -427,10 +427,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 14,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+12"
+      "movement24h": "+13"
     },
     {
       "title": "MUSE",
@@ -823,21 +823,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Brazil",
-        "rank": 7,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Guinea-Bissau",
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Brazil",
+        "rank": 22,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Who",
@@ -988,10 +988,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 14,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+12"
+        "movement24h": "+13"
       },
       {
         "title": "MUSE",
