@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/09/2026, 09:01:00 KST",
+  "updatedAt": "16/09/2026, 10:00:58 KST",
   "totalEntries": 50,
   "totalTop1": 2,
   "services": [
@@ -175,21 +175,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Brazil",
-      "rank": 53,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Gambia",
       "rank": 55,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Brazil",
+      "rank": 57,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -834,21 +834,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Brazil",
-        "rank": 53,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Gambia",
         "rank": 55,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Brazil",
+        "rank": 57,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Like Crazy",
