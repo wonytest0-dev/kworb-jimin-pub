@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16/09/2026, 14:01:02 KST",
-  "totalEntries": 50,
+  "updatedAt": "16/09/2026, 15:01:04 KST",
+  "totalEntries": 49,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -180,16 +180,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Brazil",
-      "rank": 136,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -448,20 +438,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 21,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+10"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 58,
+      "rank": 36,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -841,16 +831,6 @@
         "movement24h": "-1"
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Brazil",
-        "rank": 136,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -1001,20 +981,20 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 21,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+10"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 58,
+        "rank": 36,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -1061,7 +1041,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
