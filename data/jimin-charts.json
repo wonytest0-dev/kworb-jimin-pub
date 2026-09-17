@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17/09/2026, 15:00:59 KST",
-  "totalEntries": 45,
+  "updatedAt": "17/09/2026, 16:01:11 KST",
+  "totalEntries": 44,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 31,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+28"
+      "movement24h": "+16"
     },
     {
       "title": "Who",
@@ -256,7 +256,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 182,
+      "rank": 183,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -371,7 +371,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+10"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -452,16 +452,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Mexico",
-      "rank": 142,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -785,7 +775,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 182,
+        "rank": 183,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -829,16 +819,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Mexico",
-        "rank": 142,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -847,10 +827,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 31,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+28"
+        "movement24h": "+16"
       }
     ],
     "Deezer": [
@@ -884,7 +864,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+10"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -1023,7 +1003,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
