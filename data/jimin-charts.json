@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17/09/2026, 21:01:00 KST",
-  "totalEntries": 46,
+  "updatedAt": "17/09/2026, 22:01:01 KST",
+  "totalEntries": 44,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -130,16 +130,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-35"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Apple  Music",
-      "country": "Russia",
-      "rank": 173,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -422,16 +412,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Norway",
-      "rank": 178,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-143"
     },
     {
       "title": "MUSE",
@@ -727,16 +707,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-35"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Apple  Music",
-        "country": "Russia",
-        "rank": 173,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "iTunes": [
@@ -935,16 +905,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Norway",
-        "rank": 178,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-143"
       }
     ]
   },
@@ -981,7 +941,7 @@
       "title": "Who",
       "type": "single",
       "service": "Apple  Music",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -1037,7 +997,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
