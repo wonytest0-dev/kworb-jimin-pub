@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/09/2026, 13:00:57 KST",
+  "updatedAt": "17/09/2026, 14:01:07 KST",
   "totalEntries": 45,
   "totalTop1": 1,
   "services": [
@@ -256,7 +256,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 154,
+      "rank": 158,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -458,7 +458,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Mexico",
-      "rank": 123,
+      "rank": 142,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -785,7 +785,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 154,
+        "rank": 158,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -835,7 +835,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Mexico",
-        "rank": 123,
+        "rank": 142,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
