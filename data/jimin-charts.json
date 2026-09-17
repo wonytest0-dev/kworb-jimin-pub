@@ -1,7 +1,7 @@
 {
-  "updatedAt": "17/09/2026, 20:01:13 KST",
-  "totalEntries": 44,
-  "totalTop1": 1,
+  "updatedAt": "17/09/2026, 21:01:00 KST",
+  "totalEntries": 46,
+  "totalTop1": 2,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Russia",
-      "rank": 174,
+      "rank": 173,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -176,10 +176,30 @@
       "type": "single",
       "service": "Deezer",
       "country": "Japan",
-      "rank": 39,
+      "rank": 1,
+      "isTop1": true,
+      "movementLive": null,
+      "movement24h": "+38"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Singapore",
+      "rank": 53,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Philippines",
+      "rank": 79,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Be Mine",
@@ -368,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 10,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -411,7 +431,7 @@
       "rank": 178,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-154"
+      "movement24h": "-143"
     },
     {
       "title": "MUSE",
@@ -713,7 +733,7 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Russia",
-        "rank": 174,
+        "rank": 173,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -839,10 +859,30 @@
         "type": "single",
         "service": "Deezer",
         "country": "Japan",
-        "rank": 39,
+        "rank": 1,
+        "isTop1": true,
+        "movementLive": null,
+        "movement24h": "+38"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Singapore",
+        "rank": 53,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "NE"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Philippines",
+        "rank": 79,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Apple Music": [
@@ -861,10 +901,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 10,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -904,11 +944,21 @@
         "rank": 178,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-154"
+        "movement24h": "-143"
       }
     ]
   },
   "summary": [
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "totalEntries": 3,
+      "totalTop1": 1,
+      "countriesTop1": [
+        "Japan"
+      ]
+    },
     {
       "title": "MUSE",
       "type": "album",
@@ -947,14 +997,6 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
