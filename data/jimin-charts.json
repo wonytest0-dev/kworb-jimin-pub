@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17/09/2026, 16:01:11 KST",
-  "totalEntries": 44,
+  "updatedAt": "17/09/2026, 17:00:59 KST",
+  "totalEntries": 43,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -250,16 +250,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Vietnam",
-      "rank": 183,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "albums": [
@@ -368,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 11,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -771,16 +761,6 @@
         "movement24h": "="
       },
       {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Vietnam",
-        "rank": 183,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
@@ -861,10 +841,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 11,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -987,7 +967,7 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
