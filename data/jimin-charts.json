@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/09/2026, 15:00:58 KST",
+  "updatedAt": "18/09/2026, 16:01:14 KST",
   "totalEntries": 43,
   "totalTop1": 2,
   "services": [
@@ -146,10 +146,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 28,
+      "rank": 30,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "-2"
     },
     {
       "title": "Who",
@@ -381,7 +381,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -797,10 +797,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 28,
+        "rank": 30,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "-2"
       }
     ],
     "Deezer": [
@@ -864,7 +864,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
