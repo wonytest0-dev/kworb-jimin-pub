@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19/09/2026, 03:01:01 KST",
-  "totalEntries": 41,
+  "updatedAt": "19/09/2026, 04:01:17 KST",
+  "totalEntries": 40,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Belarus",
-      "rank": 75,
+      "rank": 56,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-32"
+      "movement24h": "+19"
     },
     {
       "title": "Who",
@@ -236,10 +236,10 @@
       "type": "single",
       "service": "Apple Music",
       "country": "Belarus",
-      "rank": 167,
+      "rank": 192,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-82"
+      "movement24h": "-25"
     }
   ],
   "albums": [
@@ -361,17 +361,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Costa Rica",
-      "rank": 65,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+7"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -663,10 +653,10 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Belarus",
-        "rank": 75,
+        "rank": 56,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-32"
+        "movement24h": "+19"
       }
     ],
     "iTunes": [
@@ -801,10 +791,10 @@
         "type": "single",
         "service": "Apple Music",
         "country": "Belarus",
-        "rank": 167,
+        "rank": 192,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-82"
+        "movement24h": "-25"
       },
       {
         "title": "MUSE",
@@ -824,17 +814,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 65,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+7"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -935,7 +915,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
