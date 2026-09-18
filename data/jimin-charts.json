@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/09/2026, 16:01:14 KST",
-  "totalEntries": 43,
+  "updatedAt": "18/09/2026, 17:00:57 KST",
+  "totalEntries": 44,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -230,6 +230,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Like Crazy",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Brazil",
+      "rank": 183,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Be Mine",
@@ -751,6 +761,16 @@
         "movement24h": "="
       },
       {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Brazil",
+        "rank": 183,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
@@ -953,7 +973,7 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
