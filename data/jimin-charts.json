@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/09/2026, 13:01:05 KST",
+  "updatedAt": "19/09/2026, 14:00:59 KST",
   "totalEntries": 41,
   "totalTop1": 0,
   "services": [
@@ -378,7 +378,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Hong Kong",
-      "rank": 45,
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -735,7 +735,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Hong Kong",
-        "rank": 45,
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
