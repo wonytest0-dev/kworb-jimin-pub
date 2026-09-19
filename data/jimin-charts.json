@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19/09/2026, 11:00:57 KST",
-  "totalEntries": 40,
+  "updatedAt": "19/09/2026, 12:01:01 KST",
+  "totalEntries": 41,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -149,7 +149,7 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -209,7 +209,7 @@
       "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -372,6 +372,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+29"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Hong Kong",
+      "rank": 45,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -678,7 +688,7 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -688,7 +698,7 @@
         "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -719,6 +729,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Hong Kong",
+        "rank": 45,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -811,10 +831,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -913,7 +933,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
