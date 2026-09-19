@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/09/2026, 12:01:01 KST",
+  "updatedAt": "19/09/2026, 13:01:05 KST",
   "totalEntries": 41,
   "totalTop1": 0,
   "services": [
@@ -159,7 +159,7 @@
       "rank": 30,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+9"
+      "movement24h": "-2"
     },
     {
       "title": "Who",
@@ -361,7 +361,7 @@
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -401,7 +401,7 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -758,7 +758,7 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -790,7 +790,7 @@
         "rank": 30,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+9"
+        "movement24h": "-2"
       }
     ],
     "Deezer": [
@@ -834,7 +834,7 @@
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
