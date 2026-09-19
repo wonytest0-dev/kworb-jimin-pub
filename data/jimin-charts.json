@@ -1,7 +1,7 @@
 {
-  "updatedAt": "20/09/2026, 02:01:07 KST",
+  "updatedAt": "20/09/2026, 03:01:08 KST",
   "totalEntries": 44,
-  "totalTop1": 0,
+  "totalTop1": 1,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Malaysia",
-      "rank": 94,
+      "rank": 115,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,20 +378,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Belarus",
-      "rank": 4,
-      "isTop1": false,
+      "rank": 1,
+      "isTop1": true,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 19,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-9"
     },
     {
       "title": "MUSE",
@@ -725,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Malaysia",
-        "rank": 94,
+        "rank": 115,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -881,20 +881,20 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Belarus",
-        "rank": 4,
-        "isTop1": false,
+        "rank": 1,
+        "isTop1": true,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 19,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-9"
       },
       {
         "title": "MUSE",
@@ -909,6 +909,16 @@
     ]
   },
   "summary": [
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "totalEntries": 3,
+      "totalTop1": 1,
+      "countriesTop1": [
+        "Belarus"
+      ]
+    },
     {
       "title": "Who",
       "type": "single",
@@ -986,14 +996,6 @@
       "type": "album",
       "service": "Spotify",
       "totalEntries": 10,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
