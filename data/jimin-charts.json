@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20/09/2026, 05:00:59 KST",
-  "totalEntries": 43,
+  "updatedAt": "20/09/2026, 06:01:00 KST",
+  "totalEntries": 44,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -135,8 +135,18 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
+      "country": "Philippines",
+      "rank": 123,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
       "country": "Malaysia",
-      "rank": 136,
+      "rank": 139,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 23,
+      "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-15"
     },
     {
       "title": "MUSE",
@@ -411,7 +421,7 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -438,7 +448,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Hong Kong",
-      "rank": 143,
+      "rank": 159,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -704,8 +714,18 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
+        "country": "Philippines",
+        "rank": 123,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
         "country": "Malaysia",
-        "rank": 136,
+        "rank": 139,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -768,7 +788,7 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -795,7 +815,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Hong Kong",
-        "rank": 143,
+        "rank": 159,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -871,10 +891,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 23,
+        "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-15"
       },
       {
         "title": "MUSE",
@@ -919,7 +939,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
