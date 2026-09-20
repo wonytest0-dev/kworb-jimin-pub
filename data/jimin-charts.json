@@ -1,7 +1,7 @@
 {
-  "updatedAt": "20/09/2026, 23:01:01 KST",
-  "totalEntries": 42,
-  "totalTop1": 1,
+  "updatedAt": "21/09/2026, 00:01:05 KST",
+  "totalEntries": 43,
+  "totalTop1": 2,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Indonesia",
-      "rank": 166,
+      "rank": 191,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -155,21 +155,31 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Japan",
-      "rank": 9,
-      "isTop1": false,
+      "country": "Argentina",
+      "rank": 1,
+      "isTop1": true,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+12"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Argentina",
-      "rank": 13,
+      "country": "Croatia",
+      "rank": 34,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Japan",
+      "rank": 53,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-44"
     },
     {
       "title": "Like Crazy",
@@ -225,11 +235,11 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "Deezer",
-      "country": "Honduras",
-      "rank": 35,
+      "country": "Argentina",
+      "rank": 4,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "NE"
     },
     {
       "title": "Be Mine",
@@ -378,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 18,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-5"
     },
     {
       "title": "MUSE",
@@ -695,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Indonesia",
-        "rank": 166,
+        "rank": 191,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -798,31 +808,41 @@
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Japan",
-        "rank": 9,
-        "isTop1": false,
+        "country": "Argentina",
+        "rank": 1,
+        "isTop1": true,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+12"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Argentina",
-        "rank": 13,
+        "country": "Croatia",
+        "rank": 34,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "NE"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Japan",
+        "rank": 53,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-44"
       },
       {
         "title": "Like Crazy",
         "type": "single",
         "service": "Deezer",
-        "country": "Honduras",
-        "rank": 35,
+        "country": "Argentina",
+        "rank": 4,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "NE"
       }
     ],
     "Apple Music": [
@@ -851,10 +871,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 18,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-5"
       },
       {
         "title": "MUSE",
@@ -869,6 +889,16 @@
     ]
   },
   "summary": [
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "totalEntries": 3,
+      "totalTop1": 1,
+      "countriesTop1": [
+        "Argentina"
+      ]
+    },
     {
       "title": "MUSE",
       "type": "album",
@@ -908,14 +938,6 @@
       "type": "single",
       "service": "Shazam",
       "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
-      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
