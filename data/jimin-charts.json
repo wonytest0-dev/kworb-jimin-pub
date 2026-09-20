@@ -1,5 +1,5 @@
 {
-  "updatedAt": "20/09/2026, 21:01:03 KST",
+  "updatedAt": "20/09/2026, 22:01:03 KST",
   "totalEntries": 42,
   "totalTop1": 1,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Indonesia",
-      "rank": 132,
+      "rank": 142,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -695,7 +695,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Indonesia",
-        "rank": 132,
+        "rank": 142,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
