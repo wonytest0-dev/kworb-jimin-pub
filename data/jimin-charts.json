@@ -1,5 +1,5 @@
 {
-  "updatedAt": "20/09/2026, 19:01:03 KST",
+  "updatedAt": "20/09/2026, 20:01:02 KST",
   "totalEntries": 42,
   "totalTop1": 1,
   "services": [
@@ -130,6 +130,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Indonesia",
+      "rank": 104,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -368,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 19,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-6"
     },
     {
       "title": "MUSE",
@@ -422,16 +432,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Hong Kong",
-      "rank": 193,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-138"
     }
   ],
   "byService": {
@@ -691,6 +691,16 @@
         "movement24h": "="
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Indonesia",
+        "rank": 104,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -769,16 +779,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Hong Kong",
-        "rank": 193,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-138"
       }
     ],
     "Shazam": [
@@ -851,10 +851,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 19,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-6"
       },
       {
         "title": "MUSE",
@@ -899,7 +899,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -971,7 +971,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
