@@ -1,5 +1,5 @@
 {
-  "updatedAt": "20/09/2026, 17:01:07 KST",
+  "updatedAt": "20/09/2026, 18:00:58 KST",
   "totalEntries": 42,
   "totalTop1": 1,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -159,7 +159,7 @@
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -219,7 +219,7 @@
       "rank": 35,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Be Mine",
@@ -431,7 +431,7 @@
       "rank": 189,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-142"
+      "movement24h": "-134"
     }
   ],
   "byService": {
@@ -778,7 +778,7 @@
         "rank": 189,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-142"
+        "movement24h": "-134"
       }
     ],
     "Shazam": [
@@ -802,7 +802,7 @@
         "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "="
       },
       {
         "title": "Who",
@@ -812,7 +812,7 @@
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -822,7 +822,7 @@
         "rank": 35,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       }
     ],
     "Apple Music": [
