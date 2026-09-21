@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21/09/2026, 08:01:06 KST",
-  "totalEntries": 46,
+  "updatedAt": "21/09/2026, 09:01:11 KST",
+  "totalEntries": 45,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 75,
+      "rank": 84,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -230,16 +230,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Kazakhstan",
-      "rank": 91,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Like Crazy",
@@ -411,7 +401,7 @@
       "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+10"
     },
     {
       "title": "MUSE",
@@ -745,7 +735,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 75,
+        "rank": 84,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -789,16 +779,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Kazakhstan",
-        "rank": 91,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -924,7 +904,7 @@
         "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+10"
       },
       {
         "title": "MUSE",
@@ -1003,7 +983,7 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
