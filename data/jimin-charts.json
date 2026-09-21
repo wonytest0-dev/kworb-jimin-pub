@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/09/2026, 10:01:09 KST",
+  "updatedAt": "21/09/2026, 11:01:01 KST",
   "totalEntries": 45,
   "totalTop1": 1,
   "services": [
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 34,
+      "rank": 33,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -765,10 +765,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 34,
+        "rank": 33,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
