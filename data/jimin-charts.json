@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/09/2026, 05:01:07 KST",
+  "updatedAt": "22/09/2026, 06:01:07 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -391,7 +391,7 @@
       "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+17"
+      "movement24h": "+14"
     },
     {
       "title": "MUSE",
@@ -884,7 +884,7 @@
         "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+17"
+        "movement24h": "+14"
       }
     ]
   },
