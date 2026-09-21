@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/09/2026, 23:01:39 KST",
+  "updatedAt": "22/09/2026, 00:01:09 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -159,7 +159,7 @@
       "rank": 64,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-55"
+      "movement24h": "-11"
     },
     {
       "title": "Like Crazy",
@@ -219,7 +219,7 @@
       "rank": 1,
       "isTop1": true,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "+3"
     },
     {
       "title": "Be Mine",
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 12,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -822,7 +822,7 @@
         "rank": 64,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-55"
+        "movement24h": "-11"
       },
       {
         "title": "Like Crazy",
@@ -832,7 +832,7 @@
         "rank": 1,
         "isTop1": true,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+3"
       }
     ],
     "Apple Music": [
@@ -861,10 +861,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 12,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
