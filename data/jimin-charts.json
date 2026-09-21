@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21/09/2026, 17:00:52 KST",
-  "totalEntries": 44,
+  "updatedAt": "21/09/2026, 18:01:01 KST",
+  "totalEntries": 43,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -145,18 +145,8 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Argentina",
-      "rank": 1,
-      "isTop1": true,
-      "movementLive": null,
-      "movement24h": "+12"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
-      "country": "Croatia",
-      "rank": 34,
+      "country": "Hungary",
+      "rank": 5,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -166,10 +156,10 @@
       "type": "single",
       "service": "Deezer",
       "country": "Japan",
-      "rank": 53,
+      "rank": 64,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-44"
+      "movement24h": "-55"
     },
     {
       "title": "Like Crazy",
@@ -189,7 +179,7 @@
       "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -226,8 +216,8 @@
       "type": "single",
       "service": "Deezer",
       "country": "Argentina",
-      "rank": 4,
-      "isTop1": false,
+      "rank": 1,
+      "isTop1": true,
       "movementLive": null,
       "movement24h": "NE"
     },
@@ -388,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 12,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+10"
+      "movement24h": "+8"
     },
     {
       "title": "MUSE",
@@ -728,7 +718,7 @@
         "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -818,18 +808,8 @@
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Argentina",
-        "rank": 1,
-        "isTop1": true,
-        "movementLive": null,
-        "movement24h": "+12"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Croatia",
-        "rank": 34,
+        "country": "Hungary",
+        "rank": 5,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -839,18 +819,18 @@
         "type": "single",
         "service": "Deezer",
         "country": "Japan",
-        "rank": 53,
+        "rank": 64,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-44"
+        "movement24h": "-55"
       },
       {
         "title": "Like Crazy",
         "type": "single",
         "service": "Deezer",
         "country": "Argentina",
-        "rank": 4,
-        "isTop1": false,
+        "rank": 1,
+        "isTop1": true,
         "movementLive": null,
         "movement24h": "NE"
       }
@@ -881,10 +861,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 12,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+10"
+        "movement24h": "+8"
       },
       {
         "title": "MUSE",
@@ -910,10 +890,10 @@
   },
   "summary": [
     {
-      "title": "Who",
+      "title": "Like Crazy",
       "type": "single",
       "service": "Deezer",
-      "totalEntries": 3,
+      "totalEntries": 1,
       "totalTop1": 1,
       "countriesTop1": [
         "Argentina"
@@ -952,6 +932,14 @@
       "countriesTop1": []
     },
     {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "totalEntries": 2,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
       "title": "Like Crazy",
       "type": "single",
       "service": "Spotify",
@@ -964,14 +952,6 @@
       "type": "single",
       "service": "iTunes",
       "totalEntries": 4,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "Deezer",
-      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
