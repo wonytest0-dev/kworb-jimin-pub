@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/09/2026, 09:01:05 KST",
+  "updatedAt": "22/09/2026, 10:01:04 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -407,21 +407,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Micronesia",
-      "rank": 47,
+      "country": "Kyrgyzstan",
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+7"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 53,
+      "country": "Micronesia",
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -438,10 +438,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 86,
+      "rank": 85,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     }
   ],
   "byService": {
@@ -784,21 +784,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Micronesia",
-        "rank": 47,
+        "country": "Kyrgyzstan",
+        "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+7"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 53,
+        "country": "Micronesia",
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -815,10 +815,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 86,
+        "rank": 85,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       }
     ],
     "Shazam": [
