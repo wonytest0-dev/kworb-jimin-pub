@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/09/2026, 08:01:12 KST",
+  "updatedAt": "22/09/2026, 09:01:05 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 72,
+      "rank": 78,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -391,14 +391,14 @@
       "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+14"
+      "movement24h": "+12"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Denmark",
-      "rank": 33,
+      "rank": 36,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -725,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 72,
+        "rank": 78,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -775,7 +775,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Denmark",
-        "rank": 33,
+        "rank": 36,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -884,7 +884,7 @@
         "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+14"
+        "movement24h": "+12"
       }
     ]
   },
