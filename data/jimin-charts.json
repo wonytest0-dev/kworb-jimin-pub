@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/09/2026, 11:01:13 KST",
+  "updatedAt": "22/09/2026, 12:00:58 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -219,7 +219,7 @@
       "rank": 33,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -411,7 +411,7 @@
       "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+7"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -758,7 +758,7 @@
         "rank": 33,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -788,7 +788,7 @@
         "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+7"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
