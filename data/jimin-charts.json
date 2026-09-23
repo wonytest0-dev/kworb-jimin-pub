@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/09/2026, 01:01:15 KST",
-  "totalEntries": 43,
+  "updatedAt": "24/09/2026, 02:01:08 KST",
+  "totalEntries": 42,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -432,16 +432,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Denmark",
-      "rank": 181,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-103"
     }
   ],
   "byService": {
@@ -799,16 +789,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Denmark",
-        "rank": 181,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-103"
       }
     ],
     "Shazam": [
@@ -983,7 +963,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
