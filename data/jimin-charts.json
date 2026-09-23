@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/09/2026, 21:01:09 KST",
+  "updatedAt": "23/09/2026, 22:01:09 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -401,7 +401,7 @@
       "rank": 41,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -438,10 +438,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Denmark",
-      "rank": 169,
+      "rank": 175,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-103"
+      "movement24h": "-109"
     }
   ],
   "byService": {
@@ -768,7 +768,7 @@
         "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
@@ -805,10 +805,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Denmark",
-        "rank": 169,
+        "rank": 175,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-103"
+        "movement24h": "-109"
       }
     ],
     "Shazam": [
