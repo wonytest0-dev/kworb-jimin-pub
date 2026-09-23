@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/09/2026, 20:01:06 KST",
+  "updatedAt": "23/09/2026, 21:01:09 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -441,7 +441,7 @@
       "rank": 169,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-110"
+      "movement24h": "-103"
     }
   ],
   "byService": {
@@ -808,7 +808,7 @@
         "rank": 169,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-110"
+        "movement24h": "-103"
       }
     ],
     "Shazam": [
