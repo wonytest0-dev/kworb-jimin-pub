@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/09/2026, 06:01:08 KST",
-  "totalEntries": 47,
+  "updatedAt": "25/09/2026, 07:01:01 KST",
+  "totalEntries": 48,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -428,7 +428,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 40,
+      "rank": 31,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -462,6 +462,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Taiwan",
+      "rank": 58,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -844,6 +854,16 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
+        "country": "Taiwan",
+        "rank": 58,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
         "country": "Nepal",
         "rank": 62,
         "isTop1": false,
@@ -951,7 +971,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 40,
+        "rank": 31,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1079,7 +1099,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
