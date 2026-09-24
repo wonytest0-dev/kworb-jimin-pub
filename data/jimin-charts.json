@@ -1,5 +1,5 @@
 {
-  "updatedAt": "24/09/2026, 12:01:06 KST",
+  "updatedAt": "24/09/2026, 13:01:04 KST",
   "totalEntries": 44,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 56,
+      "rank": 57,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -391,7 +391,7 @@
       "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -725,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 56,
+        "rank": 57,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -884,7 +884,7 @@
         "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
