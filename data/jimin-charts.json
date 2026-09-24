@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/09/2026, 20:01:06 KST",
-  "totalEntries": 44,
+  "updatedAt": "24/09/2026, 21:01:05 KST",
+  "totalEntries": 46,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -165,8 +165,18 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Peru",
-      "rank": 3,
+      "country": "Japan",
+      "rank": 12,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+68"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Chile",
+      "rank": 85,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -236,7 +246,7 @@
       "type": "single",
       "service": "Deezer",
       "country": "Argentina",
-      "rank": 3,
+      "rank": 5,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -388,10 +398,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 9,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -412,6 +422,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+20"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Norway",
+      "rank": 166,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -828,8 +848,18 @@
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Peru",
-        "rank": 3,
+        "country": "Japan",
+        "rank": 12,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+68"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Chile",
+        "rank": 85,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -839,7 +869,7 @@
         "type": "single",
         "service": "Deezer",
         "country": "Argentina",
-        "rank": 3,
+        "rank": 5,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -881,10 +911,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 9,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -905,6 +935,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+20"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Norway",
+        "rank": 166,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ]
   },
@@ -913,7 +953,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 1,
       "countriesTop1": [
         "Myanmar"
@@ -955,7 +995,7 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
