@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/09/2026, 05:01:12 KST",
+  "updatedAt": "25/09/2026, 06:01:08 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 22,
+      "rank": 30,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -179,7 +179,7 @@
       "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+68"
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -421,7 +421,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -765,7 +765,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 22,
+        "rank": 30,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -882,7 +882,7 @@
         "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+68"
+        "movement24h": "NE"
       },
       {
         "title": "Who",
@@ -944,7 +944,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
