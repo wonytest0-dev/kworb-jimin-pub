@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/09/2026, 07:01:02 KST",
-  "totalEntries": 45,
+  "updatedAt": "26/09/2026, 08:01:05 KST",
+  "totalEntries": 44,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -150,16 +150,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Romania",
-      "rank": 195,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-165"
     },
     {
       "title": "Who",
@@ -398,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 21,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-11"
     },
     {
       "title": "MUSE",
@@ -691,16 +681,6 @@
         "movement24h": "="
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Romania",
-        "rank": 195,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-165"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -911,10 +891,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 21,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-11"
       },
       {
         "title": "MUSE",
@@ -949,7 +929,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
