@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/09/2026, 06:01:09 KST",
+  "updatedAt": "26/09/2026, 07:01:02 KST",
   "totalEntries": 45,
   "totalTop1": 0,
   "services": [
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 171,
+      "rank": 195,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-141"
+      "movement24h": "-165"
     },
     {
       "title": "Who",
@@ -437,21 +437,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Spain",
-      "rank": 60,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Nepal",
       "rank": 62,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Spain",
+      "rank": 79,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 171,
+        "rank": 195,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-141"
+        "movement24h": "-165"
       },
       {
         "title": "Like Crazy",
@@ -794,21 +794,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Spain",
-        "rank": 60,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Nepal",
         "rank": 62,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Spain",
+        "rank": 79,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
