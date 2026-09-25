@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/09/2026, 11:00:59 KST",
+  "updatedAt": "25/09/2026, 12:01:22 KST",
   "totalEntries": 49,
   "totalTop1": 1,
   "services": [
@@ -166,7 +166,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "New Zealand",
-      "rank": 146,
+      "rank": 154,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -805,7 +805,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "New Zealand",
-        "rank": 146,
+        "rank": 154,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
