@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/09/2026, 05:01:09 KST",
+  "updatedAt": "26/09/2026, 06:01:09 KST",
   "totalEntries": 45,
   "totalTop1": 0,
   "services": [
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 163,
+      "rank": 171,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-145"
+      "movement24h": "-141"
     },
     {
       "title": "Who",
@@ -199,7 +199,7 @@
       "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 9,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+31"
+      "movement24h": "+20"
     },
     {
       "title": "MUSE",
@@ -418,10 +418,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 44,
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 163,
+        "rank": 171,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-145"
+        "movement24h": "-141"
       },
       {
         "title": "Like Crazy",
@@ -708,7 +708,7 @@
         "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -775,10 +775,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 44,
+        "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
@@ -901,10 +901,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 9,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+31"
+        "movement24h": "+20"
       },
       {
         "title": "MUSE",
