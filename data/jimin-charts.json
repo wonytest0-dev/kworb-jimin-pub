@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/09/2026, 01:01:21 KST",
-  "totalEntries": 47,
+  "updatedAt": "26/09/2026, 02:01:05 KST",
+  "totalEntries": 45,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -298,100 +298,80 @@
       "type": "album",
       "service": "Spotify",
       "country": "Belarus",
-      "rank": 7,
+      "rank": 2,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Spotify",
-      "country": "Singapore",
-      "rank": 15,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Spotify",
-      "country": "Chile",
-      "rank": 23,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
       "country": "Kazakhstan",
-      "rank": 37,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-17"
+      "movement24h": "+17"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
-      "country": "Taiwan",
-      "rank": 49,
+      "country": "Singapore",
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-17"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Spotify",
-      "country": "Vietnam",
-      "rank": 53,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-9"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
       "country": "Venezuela",
-      "rank": 58,
+      "rank": 39,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+20"
+      "movement24h": "+19"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
       "country": "Japan",
-      "rank": 71,
+      "rank": 83,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-16"
+      "movement24h": "-12"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
       "country": "Thailand",
-      "rank": 121,
+      "rank": 91,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-38"
+      "movement24h": "+30"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Spotify",
+      "country": "Taiwan",
+      "rank": 108,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-59"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
       "country": "Philippines",
-      "rank": 163,
+      "rank": 161,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+24"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -448,10 +428,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 43,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -641,100 +621,80 @@
         "type": "album",
         "service": "Spotify",
         "country": "Belarus",
-        "rank": 7,
+        "rank": 2,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Spotify",
-        "country": "Singapore",
-        "rank": 15,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Spotify",
-        "country": "Chile",
-        "rank": 23,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Spotify",
         "country": "Kazakhstan",
-        "rank": 37,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-17"
+        "movement24h": "+17"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Spotify",
-        "country": "Taiwan",
-        "rank": 49,
+        "country": "Singapore",
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-17"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Spotify",
-        "country": "Vietnam",
-        "rank": 53,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-9"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Spotify",
         "country": "Venezuela",
-        "rank": 58,
+        "rank": 39,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+20"
+        "movement24h": "+19"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Spotify",
         "country": "Japan",
-        "rank": 71,
+        "rank": 83,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-16"
+        "movement24h": "-12"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Spotify",
         "country": "Thailand",
-        "rank": 121,
+        "rank": 91,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-38"
+        "movement24h": "+30"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Spotify",
+        "country": "Taiwan",
+        "rank": 108,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-59"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Spotify",
         "country": "Philippines",
-        "rank": 163,
+        "rank": 161,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+24"
+        "movement24h": "+2"
       }
     ],
     "Apple  Music": [
@@ -835,10 +795,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 43,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
@@ -1071,7 +1031,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "Spotify",
-      "totalEntries": 10,
+      "totalEntries": 8,
       "totalTop1": 0,
       "countriesTop1": []
     },
