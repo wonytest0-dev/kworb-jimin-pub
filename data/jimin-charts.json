@@ -1,10 +1,9 @@
 {
-  "updatedAt": "25/09/2026, 12:01:22 KST",
+  "updatedAt": "25/09/2026, 13:01:03 KST",
   "totalEntries": 49,
   "totalTop1": 1,
   "services": [
     "Apple Music",
-    "Apple  Music",
     "Deezer",
     "Shazam",
     "Spotify",
@@ -124,7 +123,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "country": "Myanmar",
       "rank": 118,
       "isTop1": false,
@@ -146,7 +145,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 48,
+      "rank": 49,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -166,7 +165,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "New Zealand",
-      "rank": 154,
+      "rank": 158,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -488,7 +487,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Taiwan",
-      "rank": 67,
+      "rank": 69,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -757,16 +756,76 @@
         "movement24h": "+24"
       }
     ],
-    "Apple  Music": [
+    "Apple Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple  Music",
+        "service": "Apple Music",
         "country": "Myanmar",
         "rank": 118,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Myanmar",
+        "rank": 157,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Myanmar",
+        "rank": 32,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+95"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Myanmar",
+        "rank": 1,
+        "isTop1": true,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 11,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+3"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Norway",
+        "rank": 27,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Costa Rica",
+        "rank": 41,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+9"
       }
     ],
     "iTunes": [
@@ -785,7 +844,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 48,
+        "rank": 49,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -805,7 +864,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "New Zealand",
-        "rank": 154,
+        "rank": 158,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -885,7 +944,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Taiwan",
-        "rank": 67,
+        "rank": 69,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -944,68 +1003,6 @@
         "movementLive": null,
         "movement24h": "NE"
       }
-    ],
-    "Apple Music": [
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Myanmar",
-        "rank": 157,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Myanmar",
-        "rank": 32,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+95"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Myanmar",
-        "rank": 1,
-        "isTop1": true,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 11,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+3"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Norway",
-        "rank": 27,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 41,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+9"
-      }
     ]
   },
   "summary": [
@@ -1030,7 +1027,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
