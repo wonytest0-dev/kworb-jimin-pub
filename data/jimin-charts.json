@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/09/2026, 10:01:03 KST",
+  "updatedAt": "25/09/2026, 11:00:59 KST",
   "totalEntries": 49,
   "totalTop1": 1,
   "services": [
@@ -166,7 +166,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "New Zealand",
-      "rank": 145,
+      "rank": 146,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -458,10 +458,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 41,
+      "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -805,7 +805,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "New Zealand",
-        "rank": 145,
+        "rank": 146,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -855,10 +855,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 41,
+        "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
