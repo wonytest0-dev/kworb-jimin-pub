@@ -1,7 +1,7 @@
 {
-  "updatedAt": "26/09/2026, 17:00:59 KST",
+  "updatedAt": "26/09/2026, 18:02:12 KST",
   "totalEntries": 45,
-  "totalTop1": 0,
+  "totalTop1": 1,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "Deezer",
       "country": "Japan",
-      "rank": 50,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-38"
+      "movement24h": "+30"
     },
     {
       "title": "Like Crazy",
@@ -226,10 +226,10 @@
       "type": "single",
       "service": "Deezer",
       "country": "Argentina",
-      "rank": 30,
-      "isTop1": false,
+      "rank": 1,
+      "isTop1": true,
       "movementLive": null,
-      "movement24h": "-25"
+      "movement24h": "+29"
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -391,7 +391,7 @@
       "rank": 4,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -401,7 +401,7 @@
       "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -458,10 +458,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 123,
+      "rank": 126,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-22"
+      "movement24h": "-112"
     }
   ],
   "byService": {
@@ -815,10 +815,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 123,
+        "rank": 126,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-22"
+        "movement24h": "-112"
       }
     ],
     "Shazam": [
@@ -839,20 +839,20 @@
         "type": "single",
         "service": "Deezer",
         "country": "Japan",
-        "rank": 50,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-38"
+        "movement24h": "+30"
       },
       {
         "title": "Like Crazy",
         "type": "single",
         "service": "Deezer",
         "country": "Argentina",
-        "rank": 30,
-        "isTop1": false,
+        "rank": 1,
+        "isTop1": true,
         "movementLive": null,
-        "movement24h": "-25"
+        "movement24h": "+29"
       }
     ],
     "Apple Music": [
@@ -904,7 +904,7 @@
         "rank": 4,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -914,7 +914,7 @@
         "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
@@ -929,6 +929,16 @@
     ]
   },
   "summary": [
+    {
+      "title": "Like Crazy",
+      "type": "single",
+      "service": "Deezer",
+      "totalEntries": 1,
+      "totalTop1": 1,
+      "countriesTop1": [
+        "Argentina"
+      ]
+    },
     {
       "title": "Who",
       "type": "single",
@@ -982,14 +992,6 @@
       "type": "single",
       "service": "iTunes",
       "totalEntries": 4,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "Deezer",
-      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
