@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/09/2026, 12:01:03 KST",
-  "totalEntries": 46,
+  "updatedAt": "26/09/2026, 13:01:02 KST",
+  "totalEntries": 45,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -150,16 +150,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+1"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Luxembourg",
-      "rank": 90,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -411,7 +401,7 @@
       "rank": 21,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-11"
     },
     {
       "title": "MUSE",
@@ -701,16 +691,6 @@
         "movement24h": "+1"
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Luxembourg",
-        "rank": 90,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -934,7 +914,7 @@
         "rank": 21,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-11"
       },
       {
         "title": "MUSE",
@@ -969,7 +949,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
