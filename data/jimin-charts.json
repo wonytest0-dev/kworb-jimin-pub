@@ -1,6 +1,6 @@
 {
-  "updatedAt": "27/09/2026, 03:01:07 KST",
-  "totalEntries": 46,
+  "updatedAt": "27/09/2026, 04:01:09 KST",
+  "totalEntries": 45,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -126,10 +126,10 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Myanmar",
-      "rank": 92,
+      "rank": 167,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-61"
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -186,10 +186,10 @@
       "type": "single",
       "service": "Apple Music",
       "country": "Myanmar",
-      "rank": 30,
+      "rank": 180,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-23"
+      "movement24h": "NE"
     },
     {
       "title": "Like Crazy",
@@ -242,54 +242,44 @@
       "movement24h": "+29"
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Closer Than This",
       "type": "single",
       "service": "Apple Music",
       "country": "Myanmar",
-      "rank": 7,
+      "rank": 3,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "+2"
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Closer Than This",
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 13,
+      "rank": 16,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Closer Than This",
       "type": "single",
       "service": "iTunes",
-      "country": "Laos",
-      "rank": 51,
+      "country": "Micronesia",
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+8"
+      "movement24h": "="
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Closer Than This",
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 52,
+      "rank": 56,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+1"
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Cape Verde",
-      "rank": 58,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+3"
     }
   ],
   "albums": [
@@ -381,17 +371,7 @@
       "rank": 2,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 3,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -407,11 +387,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
-      "rank": 19,
+      "country": "Belarus",
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-17"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Russia",
+      "rank": 20,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -673,10 +663,10 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Myanmar",
-        "rank": 92,
+        "rank": 167,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-61"
+        "movement24h": "NE"
       },
       {
         "title": "Who",
@@ -751,44 +741,34 @@
         "movement24h": "="
       },
       {
-        "title": "Smeraldo Garden Marching Band",
+        "title": "Closer Than This",
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 13,
+        "rank": 16,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
       },
       {
-        "title": "Smeraldo Garden Marching Band",
+        "title": "Closer Than This",
         "type": "single",
         "service": "iTunes",
-        "country": "Laos",
-        "rank": 51,
+        "country": "Micronesia",
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+8"
+        "movement24h": "="
       },
       {
-        "title": "Smeraldo Garden Marching Band",
+        "title": "Closer Than This",
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 52,
+        "rank": 56,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+1"
-      },
-      {
-        "title": "Smeraldo Garden Marching Band",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Cape Verde",
-        "rank": 58,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -871,20 +851,20 @@
         "type": "single",
         "service": "Apple Music",
         "country": "Myanmar",
-        "rank": 30,
+        "rank": 180,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-23"
+        "movement24h": "NE"
       },
       {
-        "title": "Smeraldo Garden Marching Band",
+        "title": "Closer Than This",
         "type": "single",
         "service": "Apple Music",
         "country": "Myanmar",
-        "rank": 7,
+        "rank": 3,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -894,17 +874,7 @@
         "rank": 2,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -920,11 +890,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
-        "rank": 19,
+        "country": "Belarus",
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-17"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 20,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
@@ -1016,7 +996,7 @@
       "countriesTop1": []
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Closer Than This",
       "type": "single",
       "service": "Apple Music",
       "totalEntries": 1,
@@ -1024,10 +1004,10 @@
       "countriesTop1": []
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Closer Than This",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
