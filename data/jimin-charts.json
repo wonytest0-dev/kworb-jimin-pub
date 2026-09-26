@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/09/2026, 13:01:02 KST",
+  "updatedAt": "26/09/2026, 14:00:58 KST",
   "totalEntries": 45,
   "totalTop1": 0,
   "services": [
@@ -458,7 +458,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 115,
+      "rank": 123,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -815,7 +815,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 115,
+        "rank": 123,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
