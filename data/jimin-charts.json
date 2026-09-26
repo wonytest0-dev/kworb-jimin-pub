@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/09/2026, 08:01:05 KST",
-  "totalEntries": 44,
+  "updatedAt": "26/09/2026, 09:01:08 KST",
+  "totalEntries": 45,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -154,6 +154,16 @@
     {
       "title": "Who",
       "type": "single",
+      "service": "iTunes",
+      "country": "Luxembourg",
+      "rank": 70,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
       "service": "Shazam",
       "country": "Japan",
       "rank": 38,
@@ -186,10 +196,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Cape Verde",
-      "rank": 25,
+      "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -378,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 11,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+20"
+      "movement24h": "+15"
     },
     {
       "title": "MUSE",
@@ -437,21 +447,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Spain",
-      "rank": 79,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Laos",
       "rank": 85,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Spain",
+      "rank": 87,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -681,14 +691,24 @@
         "movement24h": "="
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Luxembourg",
+        "rank": 70,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
         "country": "Cape Verde",
-        "rank": 25,
+        "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -784,21 +804,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Spain",
-        "rank": 79,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Laos",
         "rank": 85,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Spain",
+        "rank": 87,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -881,10 +901,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 11,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+20"
+        "movement24h": "+15"
       },
       {
         "title": "MUSE",
@@ -929,7 +949,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
