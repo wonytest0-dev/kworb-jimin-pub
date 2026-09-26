@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/09/2026, 11:01:06 KST",
+  "updatedAt": "26/09/2026, 12:01:03 KST",
   "totalEntries": 46,
   "totalTop1": 0,
   "services": [
@@ -269,7 +269,7 @@
       "rank": 51,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+9"
+      "movement24h": "+8"
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -398,20 +398,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 12,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+15"
+      "movement24h": "+9"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 22,
+      "rank": 21,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-10"
     },
     {
       "title": "MUSE",
@@ -431,7 +431,7 @@
       "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -468,7 +468,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 102,
+      "rank": 115,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -768,7 +768,7 @@
         "rank": 51,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+9"
+        "movement24h": "+8"
       },
       {
         "title": "Smeraldo Garden Marching Band",
@@ -798,7 +798,7 @@
         "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -835,7 +835,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 102,
+        "rank": 115,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -921,20 +921,20 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 12,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+15"
+        "movement24h": "+9"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 22,
+        "rank": 21,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-10"
       },
       {
         "title": "MUSE",
