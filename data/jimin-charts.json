@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/09/2026, 18:02:12 KST",
+  "updatedAt": "26/09/2026, 19:01:01 KST",
   "totalEntries": 45,
   "totalTop1": 1,
   "services": [
@@ -458,10 +458,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 126,
+      "rank": 128,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-112"
+      "movement24h": "-114"
     }
   ],
   "byService": {
@@ -815,10 +815,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 126,
+        "rank": 128,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-112"
+        "movement24h": "-114"
       }
     ],
     "Shazam": [
