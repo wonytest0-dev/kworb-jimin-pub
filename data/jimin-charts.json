@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/09/2026, 08:01:01 KST",
+  "updatedAt": "27/09/2026, 09:01:05 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -179,7 +179,7 @@
       "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+4"
     },
     {
       "title": "Like Crazy",
@@ -199,7 +199,7 @@
       "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -361,6 +361,16 @@
       "rank": 8,
       "isTop1": false,
       "movementLive": null,
+      "movement24h": "+4"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Russia",
+      "rank": 19,
+      "isTop1": false,
+      "movementLive": null,
       "movement24h": "+3"
     },
     {
@@ -372,16 +382,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-17"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Russia",
-      "rank": 21,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -407,21 +407,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 47,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-2"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Micronesia",
       "rank": 47,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Kyrgyzstan",
+      "rank": 48,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -698,7 +698,7 @@
         "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+4"
       },
       {
         "title": "Like Crazy",
@@ -718,7 +718,7 @@
         "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -734,21 +734,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 47,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-2"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 47,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Kyrgyzstan",
+        "rank": 48,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
@@ -844,6 +844,16 @@
         "rank": 8,
         "isTop1": false,
         "movementLive": null,
+        "movement24h": "+4"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 19,
+        "isTop1": false,
+        "movementLive": null,
         "movement24h": "+3"
       },
       {
@@ -855,16 +865,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-17"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 21,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
       },
       {
         "title": "MUSE",
