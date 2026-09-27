@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/09/2026, 06:01:08 KST",
+  "updatedAt": "28/09/2026, 07:01:04 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 38,
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -705,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 38,
+        "rank": 45,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
