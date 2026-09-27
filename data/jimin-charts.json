@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/09/2026, 11:01:01 KST",
+  "updatedAt": "27/09/2026, 12:01:05 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -139,7 +139,7 @@
       "rank": 53,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -179,7 +179,7 @@
       "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -358,7 +358,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 8,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+4"
@@ -368,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 19,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -688,7 +688,7 @@
         "rank": 53,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -698,7 +698,7 @@
         "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -841,7 +841,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 8,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+4"
@@ -851,10 +851,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 19,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
