@@ -1,5 +1,5 @@
 {
-  "updatedAt": "29/09/2026, 01:01:08 KST",
+  "updatedAt": "29/09/2026, 02:01:09 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -276,7 +276,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 174,
+      "rank": 194,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 23,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-10"
     },
     {
       "title": "MUSE",
@@ -765,7 +765,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 174,
+        "rank": 194,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -869,10 +869,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 23,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-10"
       },
       {
         "title": "MUSE",
