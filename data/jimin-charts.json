@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/09/2026, 15:01:11 KST",
+  "updatedAt": "28/09/2026, 16:01:05 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 66,
+      "rank": 106,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 51,
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "Who",
@@ -715,7 +715,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 66,
+        "rank": 106,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -807,10 +807,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 51,
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-1"
       }
     ],
     "Deezer": [
