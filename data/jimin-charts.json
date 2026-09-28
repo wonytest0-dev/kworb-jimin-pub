@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/09/2026, 14:01:07 KST",
+  "updatedAt": "28/09/2026, 15:01:11 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -145,21 +145,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Vietnam",
-      "rank": 50,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Gambia",
       "rank": 52,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+1"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Vietnam",
+      "rank": 66,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -378,20 +378,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 15,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-5"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 21,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -704,21 +704,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Vietnam",
-        "rank": 50,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Gambia",
         "rank": 52,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+1"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Vietnam",
+        "rank": 66,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Like Crazy",
@@ -871,20 +871,20 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 15,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-5"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 21,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
