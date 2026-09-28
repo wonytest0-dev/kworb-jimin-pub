@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/09/2026, 09:01:03 KST",
+  "updatedAt": "28/09/2026, 10:01:08 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 49,
+      "rank": 50,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 21,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -428,10 +428,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 50,
+      "rank": 49,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -705,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 49,
+        "rank": 50,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -775,10 +775,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 50,
+        "rank": 49,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -881,10 +881,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 21,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
