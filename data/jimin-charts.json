@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/09/2026, 20:01:04 KST",
+  "updatedAt": "28/09/2026, 21:01:01 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 169,
+      "rank": 186,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -368,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 8,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-7"
     },
     {
       "title": "MUSE",
@@ -421,7 +421,7 @@
       "rank": 49,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -705,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 169,
+        "rank": 186,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -768,7 +768,7 @@
         "rank": 49,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -839,10 +839,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 8,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-7"
       },
       {
         "title": "MUSE",
