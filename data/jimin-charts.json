@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/09/2026, 06:01:01 KST",
-  "totalEntries": 43,
+  "updatedAt": "29/09/2026, 07:01:03 KST",
+  "totalEntries": 44,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -275,8 +275,18 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
+      "country": "Peru",
+      "rank": 54,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
       "country": "Luxembourg",
-      "rank": 38,
+      "rank": 65,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -754,8 +764,18 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
+        "country": "Peru",
+        "rank": 54,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
         "country": "Luxembourg",
-        "rank": 38,
+        "rank": 65,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -983,7 +1003,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
