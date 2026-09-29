@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/09/2026, 06:01:07 KST",
-  "totalEntries": 47,
+  "updatedAt": "30/09/2026, 07:01:09 KST",
+  "totalEntries": 46,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -280,16 +280,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Peru",
-      "rank": 191,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-137"
     }
   ],
   "albums": [
@@ -428,7 +418,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 11,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -438,7 +428,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 18,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -458,10 +448,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 50,
+      "rank": 51,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -781,21 +771,11 @@
         "movement24h": "NE"
       },
       {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Peru",
-        "rank": 191,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-137"
-      },
-      {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 11,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -805,7 +785,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 18,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -825,10 +805,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 50,
+        "rank": 51,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -1063,7 +1043,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
