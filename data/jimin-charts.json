@@ -1,5 +1,5 @@
 {
-  "updatedAt": "29/09/2026, 18:01:02 KST",
+  "updatedAt": "29/09/2026, 19:01:08 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -300,16 +300,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Mexico",
-      "rank": 174,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "albums": [
@@ -408,10 +398,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 14,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -437,8 +427,18 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
+      "country": "Poland",
+      "rank": 2,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
       "country": "France",
-      "rank": 25,
+      "rank": 33,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -811,11 +811,11 @@
         "movement24h": "NE"
       },
       {
-        "title": "Be Mine",
-        "type": "single",
+        "title": "MUSE",
+        "type": "album",
         "service": "iTunes",
-        "country": "Mexico",
-        "rank": 174,
+        "country": "Poland",
+        "rank": 2,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -825,7 +825,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "France",
-        "rank": 25,
+        "rank": 33,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -941,10 +941,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 14,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -1071,7 +1071,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -1087,7 +1087,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
