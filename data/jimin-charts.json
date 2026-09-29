@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/09/2026, 17:01:12 KST",
-  "totalEntries": 46,
+  "updatedAt": "29/09/2026, 18:01:02 KST",
+  "totalEntries": 47,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -162,6 +162,16 @@
       "movement24h": "-2"
     },
     {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Japan",
+      "rank": 8,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
       "title": "Like Crazy",
       "type": "single",
       "service": "Spotify",
@@ -229,7 +239,7 @@
       "rank": 3,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "="
     },
     {
       "title": "Be Mine",
@@ -286,7 +296,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Peru",
-      "rank": 120,
+      "rank": 119,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -398,7 +408,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
@@ -408,10 +418,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 25,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-12"
     },
     {
       "title": "MUSE",
@@ -795,7 +805,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Peru",
-        "rank": 120,
+        "rank": 119,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -873,6 +883,28 @@
         "movement24h": "-2"
       }
     ],
+    "Deezer": [
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Japan",
+        "rank": 8,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Argentina",
+        "rank": 3,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      }
+    ],
     "Apple Music": [
       {
         "title": "Like Crazy",
@@ -909,7 +941,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
@@ -919,10 +951,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 25,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-12"
       },
       {
         "title": "MUSE",
@@ -933,18 +965,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+50"
-      }
-    ],
-    "Deezer": [
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Argentina",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+2"
       }
     ]
   },
@@ -987,6 +1007,14 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
+      "totalEntries": 1,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
