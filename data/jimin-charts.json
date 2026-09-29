@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/09/2026, 00:01:13 KST",
+  "updatedAt": "30/09/2026, 01:01:13 KST",
   "totalEntries": 49,
   "totalTop1": 1,
   "services": [
@@ -136,10 +136,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 14,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Who",
@@ -206,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 20,
+      "rank": 21,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -296,17 +296,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 127,
+      "rank": 141,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+47"
+      "movement24h": "+33"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Peru",
-      "rank": 161,
+      "rank": 163,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -411,7 +411,7 @@
       "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -438,7 +438,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 7,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -487,21 +487,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "France",
-      "rank": 82,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Laos",
       "rank": 85,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "France",
+      "rank": 99,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -755,10 +755,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 14,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Who",
@@ -785,10 +785,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 20,
+        "rank": 21,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -825,17 +825,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 127,
+        "rank": 141,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+47"
+        "movement24h": "+33"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Peru",
-        "rank": 161,
+        "rank": 163,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -845,7 +845,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 7,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -894,21 +894,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "France",
-        "rank": 82,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Laos",
         "rank": 85,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "France",
+        "rank": 99,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -984,7 +984,7 @@
         "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
