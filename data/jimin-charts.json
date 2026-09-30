@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 04:01:33 KST",
+  "updatedAt": "01/10/2026, 05:06:14 KST",
   "totalEntries": 44,
   "totalTop1": 1,
   "services": [
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 136,
+      "rank": 157,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 16,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+12"
+      "movement24h": "+11"
     },
     {
       "title": "MUSE",
@@ -392,16 +392,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+91"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Poland",
-      "rank": 44,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-35"
     },
     {
       "title": "MUSE",
@@ -422,6 +412,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Poland",
+      "rank": 60,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-51"
     },
     {
       "title": "MUSE",
@@ -705,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 136,
+        "rank": 157,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -754,16 +754,6 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Poland",
-        "rank": 44,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-35"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 47,
         "isTop1": false,
@@ -779,6 +769,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-1"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Poland",
+        "rank": 60,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-51"
       },
       {
         "title": "MUSE",
@@ -891,10 +891,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 16,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+12"
+        "movement24h": "+11"
       },
       {
         "title": "MUSE",
