@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 01:01:23 KST",
+  "updatedAt": "01/10/2026, 02:01:07 KST",
   "totalEntries": 44,
   "totalTop1": 1,
   "services": [
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 111,
+      "rank": 124,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -398,10 +398,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 42,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-34"
+      "movement24h": "-36"
     },
     {
       "title": "MUSE",
@@ -448,10 +448,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 105,
+      "rank": 111,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-91"
+      "movement24h": "-97"
     }
   ],
   "byService": {
@@ -705,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 111,
+        "rank": 124,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -755,10 +755,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 42,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-34"
+        "movement24h": "-36"
       },
       {
         "title": "MUSE",
@@ -805,10 +805,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 105,
+        "rank": 111,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-91"
+        "movement24h": "-97"
       }
     ],
     "Shazam": [
