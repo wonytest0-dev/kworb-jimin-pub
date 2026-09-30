@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/09/2026, 15:01:06 KST",
+  "updatedAt": "30/09/2026, 16:01:07 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 54,
+      "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "+6"
     },
     {
       "title": "Who",
@@ -286,7 +286,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 171,
+      "rank": 189,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -398,10 +398,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 18,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -428,7 +428,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 21,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -785,7 +785,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 171,
+        "rank": 189,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -795,7 +795,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 21,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -857,10 +857,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 54,
+        "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "+6"
       }
     ],
     "Deezer": [
@@ -941,10 +941,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 18,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
