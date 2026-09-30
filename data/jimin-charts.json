@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/09/2026, 08:01:03 KST",
+  "updatedAt": "30/09/2026, 09:01:04 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -276,7 +276,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 107,
+      "rank": 108,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -418,7 +418,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 14,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -428,7 +428,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 22,
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -765,7 +765,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 107,
+        "rank": 108,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -775,7 +775,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 14,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -785,7 +785,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 22,
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
