@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/09/2026, 12:01:01 KST",
+  "updatedAt": "30/09/2026, 13:01:06 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 183,
+      "rank": 184,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -286,7 +286,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 144,
+      "rank": 149,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -401,7 +401,7 @@
       "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -735,7 +735,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 183,
+        "rank": 184,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -785,7 +785,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 144,
+        "rank": 149,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -944,7 +944,7 @@
         "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
