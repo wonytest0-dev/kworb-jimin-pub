@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/10/2026, 06:01:07 KST",
+  "updatedAt": "02/10/2026, 07:01:17 KST",
   "totalEntries": 44,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Finland",
-      "rank": 87,
+      "rank": 112,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,20 +378,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 25,
+      "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Brunei Darussalam",
-      "rank": 43,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-33"
     },
     {
       "title": "MUSE",
@@ -695,7 +695,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Finland",
-        "rank": 87,
+        "rank": 112,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -881,20 +881,20 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 25,
+        "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Brunei Darussalam",
-        "rank": 43,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-33"
       },
       {
         "title": "MUSE",
