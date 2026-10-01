@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 15:01:04 KST",
+  "updatedAt": "01/10/2026, 16:01:10 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -159,7 +159,7 @@
       "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -367,21 +367,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Brunei Darussalam",
-      "rank": 17,
+      "country": "Russia",
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
-      "rank": 19,
+      "country": "Brunei Darussalam",
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+7"
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -790,7 +790,7 @@
         "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "="
       }
     ],
     "Deezer": [
@@ -860,21 +860,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Brunei Darussalam",
-        "rank": 17,
+        "country": "Russia",
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
-        "rank": 19,
+        "country": "Brunei Darussalam",
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+7"
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
