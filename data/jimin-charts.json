@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 11:01:03 KST",
+  "updatedAt": "01/10/2026, 12:01:04 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 51,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 51,
+      "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -427,21 +427,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Poland",
-      "rank": 81,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-61"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Laos",
       "rank": 85,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Poland",
+      "rank": 103,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-82"
     }
   ],
   "byService": {
@@ -688,7 +688,7 @@
         "rank": 51,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -745,10 +745,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 51,
+        "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -764,21 +764,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Poland",
-        "rank": 81,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-61"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Laos",
         "rank": 85,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Poland",
+        "rank": 103,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-82"
       }
     ],
     "Shazam": [
