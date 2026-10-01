@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 08:01:07 KST",
+  "updatedAt": "01/10/2026, 09:01:05 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -381,7 +381,7 @@
       "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "+8"
     },
     {
       "title": "MUSE",
@@ -411,7 +411,7 @@
       "rank": 51,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -428,10 +428,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 77,
+      "rank": 81,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-63"
+      "movement24h": "-61"
     },
     {
       "title": "MUSE",
@@ -748,7 +748,7 @@
         "rank": 51,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -765,10 +765,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 77,
+        "rank": 81,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-63"
+        "movement24h": "-61"
       },
       {
         "title": "MUSE",
@@ -874,7 +874,7 @@
         "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "+8"
       },
       {
         "title": "MUSE",
