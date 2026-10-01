@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 20:01:03 KST",
+  "updatedAt": "01/10/2026, 21:01:11 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -169,7 +169,7 @@
       "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-44"
+      "movement24h": "-14"
     },
     {
       "title": "Like Crazy",
@@ -368,7 +368,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 16,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
@@ -441,7 +441,7 @@
       "rank": 108,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-85"
+      "movement24h": "-71"
     }
   ],
   "byService": {
@@ -778,7 +778,7 @@
         "rank": 108,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-85"
+        "movement24h": "-71"
       }
     ],
     "Shazam": [
@@ -802,7 +802,7 @@
         "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-44"
+        "movement24h": "-14"
       }
     ],
     "Apple Music": [
@@ -861,7 +861,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 16,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
