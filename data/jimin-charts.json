@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02/10/2026, 00:01:27 KST",
-  "totalEntries": 43,
+  "updatedAt": "02/10/2026, 01:02:14 KST",
+  "totalEntries": 44,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -150,6 +150,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Finland",
+      "rank": 55,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -368,17 +378,17 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "-7"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Brunei Darussalam",
-      "rank": 22,
+      "rank": 36,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -438,10 +448,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 119,
+      "rank": 121,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-77"
+      "movement24h": "-79"
     }
   ],
   "byService": {
@@ -691,6 +701,16 @@
         "movement24h": "="
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Finland",
+        "rank": 55,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -775,10 +795,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 119,
+        "rank": 121,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-77"
+        "movement24h": "-79"
       }
     ],
     "Shazam": [
@@ -861,17 +881,17 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "-7"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Brunei Darussalam",
-        "rank": 22,
+        "rank": 36,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -919,7 +939,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
