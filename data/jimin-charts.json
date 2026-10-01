@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/10/2026, 01:02:14 KST",
+  "updatedAt": "02/10/2026, 02:01:31 KST",
   "totalEntries": 44,
   "totalTop1": 1,
   "services": [
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 24,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-8"
     },
     {
       "title": "MUSE",
@@ -448,10 +448,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 121,
+      "rank": 131,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-79"
+      "movement24h": "-89"
     }
   ],
   "byService": {
@@ -795,10 +795,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 121,
+        "rank": 131,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-79"
+        "movement24h": "-89"
       }
     ],
     "Shazam": [
@@ -881,10 +881,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 24,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-8"
       },
       {
         "title": "MUSE",
