@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/10/2026, 12:01:04 KST",
+  "updatedAt": "01/10/2026, 13:01:01 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -368,7 +368,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Brunei Darussalam",
-      "rank": 14,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,7 +378,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 25,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+7"
@@ -438,10 +438,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 103,
+      "rank": 107,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-82"
+      "movement24h": "-86"
     }
   ],
   "byService": {
@@ -775,10 +775,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 103,
+        "rank": 107,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-82"
+        "movement24h": "-86"
       }
     ],
     "Shazam": [
@@ -861,7 +861,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Brunei Darussalam",
-        "rank": 14,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -871,7 +871,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 25,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+7"
