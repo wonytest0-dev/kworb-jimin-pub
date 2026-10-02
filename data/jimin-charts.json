@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/10/2026, 21:01:01 KST",
+  "updatedAt": "02/10/2026, 22:01:03 KST",
   "totalEntries": 44,
   "totalTop1": 1,
   "services": [
@@ -437,21 +437,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Belgium",
-      "rank": 151,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Poland",
       "rank": 185,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-71"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Belgium",
+      "rank": 198,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -774,21 +774,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Belgium",
-        "rank": 151,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Poland",
         "rank": 185,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-71"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Belgium",
+        "rank": 198,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Shazam": [
