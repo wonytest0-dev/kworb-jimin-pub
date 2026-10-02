@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02/10/2026, 09:01:11 KST",
-  "totalEntries": 44,
+  "updatedAt": "02/10/2026, 10:01:04 KST",
+  "totalEntries": 45,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Finland",
-      "rank": 125,
+      "rank": 133,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -206,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 29,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 27,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -447,11 +447,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Poland",
-      "rank": 148,
+      "country": "Belgium",
+      "rank": 122,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-67"
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Poland",
+      "rank": 166,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-85"
     }
   ],
   "byService": {
@@ -695,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Finland",
-        "rank": 125,
+        "rank": 133,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -725,10 +735,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 29,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -784,11 +794,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Poland",
-        "rank": 148,
+        "country": "Belgium",
+        "rank": 122,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-67"
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Poland",
+        "rank": 166,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-85"
       }
     ],
     "Shazam": [
@@ -881,10 +901,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 27,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
@@ -1003,7 +1023,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
