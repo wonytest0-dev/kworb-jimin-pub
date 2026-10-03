@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/10/2026, 13:00:58 KST",
+  "updatedAt": "03/10/2026, 14:01:03 KST",
   "totalEntries": 41,
   "totalTop1": 1,
   "services": [
@@ -357,21 +357,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Bhutan",
-      "rank": 26,
+      "country": "Russia",
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
-      "rank": 30,
+      "country": "Bhutan",
+      "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-14"
     },
     {
       "title": "MUSE",
@@ -820,21 +820,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Bhutan",
-        "rank": 26,
+        "country": "Russia",
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
-        "rank": 30,
+        "country": "Bhutan",
+        "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-14"
       },
       {
         "title": "MUSE",
