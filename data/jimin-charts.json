@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03/10/2026, 17:01:02 KST",
-  "totalEntries": 41,
+  "updatedAt": "03/10/2026, 18:00:54 KST",
+  "totalEntries": 43,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -144,6 +144,16 @@
     {
       "title": "Who",
       "type": "single",
+      "service": "iTunes",
+      "country": "Indonesia",
+      "rank": 106,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
       "service": "Shazam",
       "country": "Japan",
       "rank": 41,
@@ -156,10 +166,20 @@
       "type": "single",
       "service": "Deezer",
       "country": "Japan",
-      "rank": 21,
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+31"
+      "movement24h": "-2"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Argentina",
+      "rank": 61,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Like Crazy",
@@ -358,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 23,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-9"
     },
     {
       "title": "MUSE",
@@ -661,6 +681,16 @@
         "movement24h": "="
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Indonesia",
+        "rank": 106,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -759,10 +789,20 @@
         "type": "single",
         "service": "Deezer",
         "country": "Japan",
-        "rank": 21,
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+31"
+        "movement24h": "-2"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Argentina",
+        "rank": 61,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Apple Music": [
@@ -821,10 +861,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 23,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-9"
       },
       {
         "title": "MUSE",
@@ -879,7 +919,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -895,7 +935,7 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
