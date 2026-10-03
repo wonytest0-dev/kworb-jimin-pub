@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03/10/2026, 22:01:02 KST",
-  "totalEntries": 44,
+  "updatedAt": "03/10/2026, 23:01:36 KST",
+  "totalEntries": 43,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -144,16 +144,6 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "iTunes",
-      "country": "Indonesia",
-      "rank": 196,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
       "service": "Shazam",
       "country": "Japan",
       "rank": 41,
@@ -276,7 +266,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Brazil",
-      "rank": 173,
+      "rank": 179,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -691,16 +681,6 @@
         "movement24h": "="
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Indonesia",
-        "rank": 196,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -745,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Brazil",
-        "rank": 173,
+        "rank": 179,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -939,7 +919,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
