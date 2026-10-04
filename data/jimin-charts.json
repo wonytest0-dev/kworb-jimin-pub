@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 11:01:03 KST",
+  "updatedAt": "04/10/2026, 12:01:01 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -209,7 +209,7 @@
       "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -286,7 +286,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Brazil",
-      "rank": 73,
+      "rank": 87,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -387,21 +387,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 22,
+      "country": "Russia",
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-16"
+      "movement24h": "+14"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
-      "rank": 28,
+      "country": "Belarus",
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "-16"
     },
     {
       "title": "MUSE",
@@ -748,7 +748,7 @@
         "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -795,7 +795,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Brazil",
-        "rank": 73,
+        "rank": 87,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -920,21 +920,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 22,
+        "country": "Russia",
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-16"
+        "movement24h": "+14"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
-        "rank": 28,
+        "country": "Belarus",
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "-16"
       },
       {
         "title": "MUSE",
