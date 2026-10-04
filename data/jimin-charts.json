@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 10:01:01 KST",
+  "updatedAt": "04/10/2026, 11:01:03 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -437,11 +437,11 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Taiwan",
-      "rank": 39,
+      "country": "Kyrgyzstan",
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -457,11 +457,11 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 49,
+      "country": "Taiwan",
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -804,11 +804,11 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Taiwan",
-        "rank": 39,
+        "country": "Kyrgyzstan",
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -824,11 +824,11 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 49,
+        "country": "Taiwan",
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
