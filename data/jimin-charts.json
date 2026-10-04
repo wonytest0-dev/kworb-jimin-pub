@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 09:01:02 KST",
+  "updatedAt": "04/10/2026, 10:01:01 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 94,
+      "rank": 106,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -177,46 +177,6 @@
       "service": "Deezer",
       "country": "Argentina",
       "rank": 61,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Belarus",
-      "rank": 19,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+13"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "country": "South Korea",
-      "rank": 83,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+5"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Apple Music",
-      "country": "Myanmar",
-      "rank": 12,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-2"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Brazil",
-      "rank": 56,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -286,7 +246,47 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 78,
+      "rank": 87,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Spotify",
+      "country": "Belarus",
+      "rank": 19,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+13"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Spotify",
+      "country": "South Korea",
+      "rank": 83,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+5"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Apple Music",
+      "country": "Myanmar",
+      "rank": 12,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-2"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Brazil",
+      "rank": 73,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -587,6 +587,16 @@
         "movement24h": "-106"
       },
       {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Belarus",
+        "rank": 161,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Be Mine",
         "type": "single",
         "service": "Spotify",
@@ -605,16 +615,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+5"
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Belarus",
-        "rank": 161,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -735,17 +735,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 94,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Brazil",
-        "rank": 56,
+        "rank": 106,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -795,7 +785,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 78,
+        "rank": 87,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Brazil",
+        "rank": 73,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -887,16 +887,6 @@
     ],
     "Apple Music": [
       {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Myanmar",
-        "rank": 12,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-2"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "Apple Music",
@@ -905,6 +895,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-57"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Myanmar",
+        "rank": 12,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -1020,30 +1020,6 @@
       "countriesTop1": []
     },
     {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "totalEntries": 2,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Apple Music",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
       "title": "Like Crazy",
       "type": "single",
       "service": "Spotify",
@@ -1064,6 +1040,30 @@
       "type": "single",
       "service": "iTunes",
       "totalEntries": 5,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Spotify",
+      "totalEntries": 2,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Apple Music",
+      "totalEntries": 1,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
