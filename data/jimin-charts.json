@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04/10/2026, 14:00:55 KST",
-  "totalEntries": 47,
+  "updatedAt": "04/10/2026, 15:01:02 KST",
+  "totalEntries": 46,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 114,
+      "rank": 151,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -246,7 +246,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 94,
+      "rank": 131,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -280,16 +280,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-2"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Brazil",
-      "rank": 87,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "albums": [
@@ -458,7 +448,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Taiwan",
-      "rank": 52,
+      "rank": 60,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -735,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 114,
+        "rank": 151,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -785,17 +775,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 94,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Brazil",
-        "rank": 87,
+        "rank": 131,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -825,7 +805,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Taiwan",
-        "rank": 52,
+        "rank": 60,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1055,14 +1035,6 @@
       "title": "Be Mine",
       "type": "single",
       "service": "Apple Music",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
