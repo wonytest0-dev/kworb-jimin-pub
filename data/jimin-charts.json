@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 16:01:07 KST",
+  "updatedAt": "04/10/2026, 17:00:59 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 154,
+      "rank": 174,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -226,10 +226,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 28,
+      "rank": 29,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -246,7 +246,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 132,
+      "rank": 152,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+8"
+      "movement24h": "+15"
     },
     {
       "title": "MUSE",
@@ -725,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 154,
+        "rank": 174,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -755,10 +755,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 28,
+        "rank": 29,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -775,7 +775,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 132,
+        "rank": 152,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -901,10 +901,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+8"
+        "movement24h": "+15"
       },
       {
         "title": "MUSE",
