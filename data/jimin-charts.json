@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/10/2026, 01:01:14 KST",
+  "updatedAt": "05/10/2026, 02:01:00 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 13,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+11"
+      "movement24h": "+12"
     },
     {
       "title": "MUSE",
@@ -428,7 +428,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Turkey",
-      "rank": 10,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -467,21 +467,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "France",
-      "rank": 79,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Laos",
       "rank": 85,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "France",
+      "rank": 95,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -795,7 +795,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Turkey",
-        "rank": 10,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -834,21 +834,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "France",
-        "rank": 79,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Laos",
         "rank": 85,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "France",
+        "rank": 95,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -921,10 +921,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 13,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+11"
+        "movement24h": "+12"
       },
       {
         "title": "MUSE",
