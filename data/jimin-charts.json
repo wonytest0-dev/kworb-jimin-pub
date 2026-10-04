@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 21:01:00 KST",
+  "updatedAt": "04/10/2026, 22:01:00 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -245,8 +245,8 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "country": "Indonesia",
-      "rank": 163,
+      "country": "Colombia",
+      "rank": 169,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -255,8 +255,8 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "country": "Colombia",
-      "rank": 169,
+      "country": "Indonesia",
+      "rank": 174,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 11,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+8"
+      "movement24h": "+9"
     },
     {
       "title": "MUSE",
@@ -784,8 +784,8 @@
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
-        "country": "Indonesia",
-        "rank": 163,
+        "country": "Colombia",
+        "rank": 169,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -794,8 +794,8 @@
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
-        "country": "Colombia",
-        "rank": 169,
+        "country": "Indonesia",
+        "rank": 174,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -921,10 +921,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 11,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+8"
+        "movement24h": "+9"
       },
       {
         "title": "MUSE",
