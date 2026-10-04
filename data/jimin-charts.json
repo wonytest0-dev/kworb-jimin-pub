@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 15:01:02 KST",
+  "updatedAt": "04/10/2026, 16:01:07 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 151,
+      "rank": 154,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 41,
+      "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "-7"
     },
     {
       "title": "Who",
@@ -246,7 +246,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 131,
+      "rank": 132,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -447,21 +447,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Taiwan",
-      "rank": 60,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Nepal",
       "rank": 62,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Taiwan",
+      "rank": 78,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -725,7 +725,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 151,
+        "rank": 154,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -775,7 +775,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 131,
+        "rank": 132,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -804,21 +804,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Taiwan",
-        "rank": 60,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Nepal",
         "rank": 62,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Taiwan",
+        "rank": 78,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -837,10 +837,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 41,
+        "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "-7"
       }
     ],
     "Deezer": [
