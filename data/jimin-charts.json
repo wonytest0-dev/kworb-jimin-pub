@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/10/2026, 22:01:00 KST",
+  "updatedAt": "04/10/2026, 23:01:05 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 191,
+      "rank": 193,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -246,7 +246,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 169,
+      "rank": 171,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -256,7 +256,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Indonesia",
-      "rank": 174,
+      "rank": 194,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -438,7 +438,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Turkey",
-      "rank": 42,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -735,7 +735,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 191,
+        "rank": 193,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -785,7 +785,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 169,
+        "rank": 171,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -795,7 +795,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Indonesia",
-        "rank": 174,
+        "rank": 194,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -805,7 +805,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Turkey",
-        "rank": 42,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
