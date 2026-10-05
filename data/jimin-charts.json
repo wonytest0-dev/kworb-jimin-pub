@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/10/2026, 04:01:14 KST",
+  "updatedAt": "06/10/2026, 05:11:33 KST",
   "totalEntries": 44,
   "totalTop1": 2,
   "services": [
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 16,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Turkey",
-      "rank": 31,
+      "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-17"
+      "movement24h": "-18"
     },
     {
       "title": "MUSE",
@@ -745,10 +745,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Turkey",
-        "rank": 31,
+        "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-17"
+        "movement24h": "-18"
       },
       {
         "title": "MUSE",
@@ -881,10 +881,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 16,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
