@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05/10/2026, 21:01:01 KST",
-  "totalEntries": 42,
+  "updatedAt": "05/10/2026, 22:01:09 KST",
+  "totalEntries": 41,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -110,16 +110,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-34"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Apple  Music",
-      "country": "Russia",
-      "rank": 186,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -236,7 +226,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Indonesia",
-      "rank": 147,
+      "rank": 161,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -378,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -647,16 +637,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-34"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Apple  Music",
-        "country": "Russia",
-        "rank": 186,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "iTunes": [
@@ -725,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Indonesia",
-        "rank": 147,
+        "rank": 161,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -861,10 +841,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-4"
       }
     ]
   },
@@ -891,7 +871,7 @@
       "title": "Who",
       "type": "single",
       "service": "Apple  Music",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
