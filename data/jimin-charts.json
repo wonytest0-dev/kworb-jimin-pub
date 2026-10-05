@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/10/2026, 10:01:37 KST",
+  "updatedAt": "05/10/2026, 11:01:03 KST",
   "totalEntries": 41,
   "totalTop1": 1,
   "services": [
@@ -377,21 +377,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Micronesia",
+      "country": "Kyrgyzstan",
       "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 48,
+      "country": "Micronesia",
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -714,21 +714,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Micronesia",
+        "country": "Kyrgyzstan",
         "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 48,
+        "country": "Micronesia",
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
