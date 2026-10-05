@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/10/2026, 00:01:18 KST",
+  "updatedAt": "06/10/2026, 01:01:12 KST",
   "totalEntries": 40,
   "totalTop1": 1,
   "services": [
@@ -361,7 +361,7 @@
       "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Turkey",
-      "rank": 132,
+      "rank": 139,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-122"
+      "movement24h": "-129"
     }
   ],
   "byService": {
@@ -735,10 +735,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Turkey",
-        "rank": 132,
+        "rank": 139,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-122"
+        "movement24h": "-129"
       }
     ],
     "Shazam": [
@@ -824,7 +824,7 @@
         "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-4"
       }
     ]
   },
