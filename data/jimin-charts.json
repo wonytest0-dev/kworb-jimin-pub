@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/10/2026, 08:01:03 KST",
+  "updatedAt": "06/10/2026, 09:01:05 KST",
   "totalEntries": 45,
   "totalTop1": 2,
   "services": [
@@ -209,7 +209,7 @@
       "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -411,7 +411,7 @@
       "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-27"
+      "movement24h": "-22"
     },
     {
       "title": "MUSE",
@@ -428,10 +428,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 51,
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -718,7 +718,7 @@
         "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -758,7 +758,7 @@
         "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-27"
+        "movement24h": "-22"
       },
       {
         "title": "MUSE",
@@ -775,10 +775,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 51,
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
