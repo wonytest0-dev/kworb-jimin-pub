@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06/10/2026, 20:01:04 KST",
-  "totalEntries": 44,
+  "updatedAt": "06/10/2026, 21:01:04 KST",
+  "totalEntries": 43,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -155,21 +155,11 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Peru",
-      "rank": 24,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "="
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
       "country": "Japan",
-      "rank": 27,
+      "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+21"
     },
     {
       "title": "Like Crazy",
@@ -381,7 +371,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
@@ -451,7 +441,7 @@
       "rank": 103,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-37"
+      "movement24h": "-10"
     }
   ],
   "byService": {
@@ -788,7 +778,7 @@
         "rank": 103,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-37"
+        "movement24h": "-10"
       }
     ],
     "Shazam": [
@@ -808,21 +798,11 @@
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Peru",
-        "rank": 24,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Deezer",
         "country": "Japan",
-        "rank": 27,
+        "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+21"
       }
     ],
     "Apple Music": [
@@ -884,7 +864,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
@@ -948,7 +928,7 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
