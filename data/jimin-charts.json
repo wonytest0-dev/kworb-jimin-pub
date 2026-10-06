@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/10/2026, 10:01:13 KST",
+  "updatedAt": "06/10/2026, 11:01:03 KST",
   "totalEntries": 45,
   "totalTop1": 2,
   "services": [
@@ -126,10 +126,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 15,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 21,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 15,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Who",
@@ -725,10 +725,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 21,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
