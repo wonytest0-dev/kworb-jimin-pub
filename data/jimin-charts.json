@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/10/2026, 14:00:58 KST",
+  "updatedAt": "06/10/2026, 15:01:03 KST",
   "totalEntries": 44,
   "totalTop1": 2,
   "services": [
@@ -407,16 +407,6 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Turkey",
-      "rank": 45,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-22"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Micronesia",
       "rank": 47,
       "isTop1": false,
@@ -432,6 +422,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-5"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Turkey",
+      "rank": 57,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-15"
     },
     {
       "title": "MUSE",
@@ -744,16 +744,6 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Turkey",
-        "rank": 45,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-22"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 47,
         "isTop1": false,
@@ -769,6 +759,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-5"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Turkey",
+        "rank": 57,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-15"
       },
       {
         "title": "MUSE",
