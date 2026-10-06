@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/10/2026, 09:01:05 KST",
+  "updatedAt": "06/10/2026, 10:01:13 KST",
   "totalEntries": 45,
   "totalTop1": 2,
   "services": [
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Turkey",
-      "rank": 42,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-22"
+      "movement24h": "-24"
     },
     {
       "title": "MUSE",
@@ -458,7 +458,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Japan",
-      "rank": 185,
+      "rank": 192,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -755,10 +755,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Turkey",
-        "rank": 42,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-22"
+        "movement24h": "-24"
       },
       {
         "title": "MUSE",
@@ -805,7 +805,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Japan",
-        "rank": 185,
+        "rank": 192,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
