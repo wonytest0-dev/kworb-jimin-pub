@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06/10/2026, 17:01:05 KST",
-  "totalEntries": 44,
+  "updatedAt": "06/10/2026, 18:01:02 KST",
+  "totalEntries": 45,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -120,6 +120,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Apple  Music",
+      "country": "Russia",
+      "rank": 167,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+22"
     },
     {
       "title": "Who",
@@ -367,21 +377,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 10,
+      "country": "Russia",
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
+      "country": "Belarus",
       "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -441,7 +451,7 @@
       "rank": 67,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-25"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -677,6 +687,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Apple  Music",
+        "country": "Russia",
+        "rank": 167,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+22"
       }
     ],
     "iTunes": [
@@ -778,7 +798,7 @@
         "rank": 67,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-25"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -870,21 +890,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 10,
+        "country": "Russia",
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
+        "country": "Belarus",
         "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -924,7 +944,7 @@
       "title": "Who",
       "type": "single",
       "service": "Apple  Music",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
