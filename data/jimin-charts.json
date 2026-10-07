@@ -1,5 +1,5 @@
 {
-  "updatedAt": "07/10/2026, 09:01:07 KST",
+  "updatedAt": "07/10/2026, 10:00:59 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -196,10 +196,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Cape Verde",
-      "rank": 25,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Cape Verde",
-        "rank": 25,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
