@@ -1,5 +1,5 @@
 {
-  "updatedAt": "07/10/2026, 17:01:42 KST",
+  "updatedAt": "07/10/2026, 18:01:02 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Malaysia",
-      "rank": 137,
+      "rank": 134,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -381,7 +381,7 @@
       "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Malaysia",
-        "rank": 137,
+        "rank": 134,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -864,7 +864,7 @@
         "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
