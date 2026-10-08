@@ -1,5 +1,5 @@
 {
-  "updatedAt": "08/10/2026, 08:05:50 KST",
+  "updatedAt": "08/10/2026, 09:01:03 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -136,10 +136,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 50,
+      "rank": 49,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -209,7 +209,7 @@
       "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -398,7 +398,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 17,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-2"
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 50,
+        "rank": 49,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -708,7 +708,7 @@
         "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -891,7 +891,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 17,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-2"
