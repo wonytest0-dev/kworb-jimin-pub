@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/10/2026, 02:01:01 KST",
-  "totalEntries": 42,
+  "updatedAt": "09/10/2026, 03:01:17 KST",
+  "totalEntries": 41,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Belarus",
-      "rank": 33,
+      "rank": 59,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-26"
     },
     {
       "title": "Who",
@@ -186,10 +186,10 @@
       "type": "single",
       "service": "Apple Music",
       "country": "Belarus",
-      "rank": 68,
+      "rank": 127,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-59"
     },
     {
       "title": "Like Crazy",
@@ -250,16 +250,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+38"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 121,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-26"
     },
     {
       "title": "Be Mine",
@@ -357,21 +347,11 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Belarus",
+      "country": "Myanmar",
       "rank": 2,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Myanmar",
-      "rank": 3,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -382,6 +362,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Belarus",
+      "rank": 34,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-32"
     },
     {
       "title": "MUSE",
@@ -653,10 +643,10 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Belarus",
-        "rank": 33,
+        "rank": 59,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-26"
       }
     ],
     "iTunes": [
@@ -801,20 +791,10 @@
         "type": "single",
         "service": "Apple Music",
         "country": "Belarus",
-        "rank": 68,
+        "rank": 127,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 121,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-26"
+        "movement24h": "-59"
       },
       {
         "title": "Be Mine",
@@ -830,21 +810,11 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Belarus",
+        "country": "Myanmar",
         "rank": 2,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Myanmar",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -855,6 +825,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-1"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 34,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-32"
       },
       {
         "title": "MUSE",
@@ -945,7 +925,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "Apple Music",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
