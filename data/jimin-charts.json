@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/10/2026, 05:01:04 KST",
-  "totalEntries": 42,
+  "updatedAt": "09/10/2026, 06:01:04 KST",
+  "totalEntries": 43,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -222,44 +222,54 @@
       "movement24h": "="
     },
     {
-      "title": "Be Mine",
+      "title": "Smeraldo Garden Marching Band",
       "type": "single",
-      "service": "Spotify",
-      "country": "Belarus",
-      "rank": 7,
+      "service": "Apple Music",
+      "country": "Myanmar",
+      "rank": 5,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+4"
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Guinea-Bissau",
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
     },
     {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "country": "South Korea",
-      "rank": 165,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-82"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Apple Music",
-      "country": "Myanmar",
-      "rank": 120,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+30"
-    },
-    {
-      "title": "Be Mine",
+      "title": "Smeraldo Garden Marching Band",
       "type": "single",
       "service": "iTunes",
-      "country": "Philippines",
-      "rank": 134,
+      "country": "Laos",
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-1"
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Gambia",
+      "rank": 48,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+1"
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Cape Verde",
+      "rank": 61,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-1"
     }
   ],
   "albums": [
@@ -358,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 12,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -408,10 +418,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 49,
+      "rank": 50,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -525,26 +535,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+29"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Belarus",
-        "rank": 7,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Spotify",
-        "country": "South Korea",
-        "rank": 165,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-82"
       },
       {
         "title": "MUSE",
@@ -711,14 +701,44 @@
         "movement24h": "="
       },
       {
-        "title": "Be Mine",
+        "title": "Smeraldo Garden Marching Band",
         "type": "single",
         "service": "iTunes",
-        "country": "Philippines",
-        "rank": 134,
+        "country": "Guinea-Bissau",
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
+      },
+      {
+        "title": "Smeraldo Garden Marching Band",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Laos",
+        "rank": 45,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-1"
+      },
+      {
+        "title": "Smeraldo Garden Marching Band",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Gambia",
+        "rank": 48,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+1"
+      },
+      {
+        "title": "Smeraldo Garden Marching Band",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Cape Verde",
+        "rank": 61,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -735,10 +755,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 49,
+        "rank": 50,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -807,14 +827,14 @@
         "movement24h": "-59"
       },
       {
-        "title": "Be Mine",
+        "title": "Smeraldo Garden Marching Band",
         "type": "single",
         "service": "Apple Music",
         "country": "Myanmar",
-        "rank": 120,
+        "rank": 5,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+30"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
@@ -831,10 +851,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 12,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
@@ -934,15 +954,7 @@
       "countriesTop1": []
     },
     {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "totalEntries": 2,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
+      "title": "Smeraldo Garden Marching Band",
       "type": "single",
       "service": "Apple Music",
       "totalEntries": 1,
@@ -950,10 +962,10 @@
       "countriesTop1": []
     },
     {
-      "title": "Be Mine",
+      "title": "Smeraldo Garden Marching Band",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 1,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
