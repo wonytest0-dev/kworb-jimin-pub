@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/10/2026, 20:00:59 KST",
+  "updatedAt": "09/10/2026, 21:01:08 KST",
   "totalEntries": 45,
   "totalTop1": 0,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 186,
+      "rank": 196,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -269,7 +269,7 @@
       "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 17,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-11"
     },
     {
       "title": "MUSE",
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 186,
+        "rank": 196,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -748,7 +748,7 @@
         "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-1"
       },
       {
         "title": "Smeraldo Garden Marching Band",
@@ -891,10 +891,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 17,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-11"
       },
       {
         "title": "MUSE",
