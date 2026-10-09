@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10/10/2026, 03:01:01 KST",
-  "totalEntries": 41,
+  "updatedAt": "10/10/2026, 04:01:10 KST",
+  "totalEntries": 40,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Belarus",
-      "rank": 59,
+      "rank": 73,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-26"
+      "movement24h": "-14"
     },
     {
       "title": "Who",
@@ -180,16 +180,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-14"
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 127,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-59"
     },
     {
       "title": "Like Crazy",
@@ -348,10 +338,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Myanmar",
-      "rank": 2,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "-6"
     },
     {
       "title": "MUSE",
@@ -361,7 +351,7 @@
       "rank": 39,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-27"
+      "movement24h": "-26"
     },
     {
       "title": "MUSE",
@@ -643,10 +633,10 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Belarus",
-        "rank": 59,
+        "rank": 73,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-26"
+        "movement24h": "-14"
       }
     ],
     "iTunes": [
@@ -787,16 +777,6 @@
     ],
     "Apple Music": [
       {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 127,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-59"
-      },
-      {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
@@ -811,10 +791,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Myanmar",
-        "rank": 2,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "-6"
       },
       {
         "title": "MUSE",
@@ -824,7 +804,7 @@
         "rank": 39,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-27"
+        "movement24h": "-26"
       },
       {
         "title": "MUSE",
@@ -893,14 +873,6 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "Spotify",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "Apple Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
