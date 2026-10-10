@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/10/2026, 20:01:01 KST",
+  "updatedAt": "10/10/2026, 21:01:04 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -337,10 +337,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 23,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -377,10 +377,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 46,
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -407,10 +407,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 87,
+      "rank": 90,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-5"
     }
   ],
   "byService": {
@@ -704,10 +704,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 46,
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -734,10 +734,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 87,
+        "rank": 90,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-5"
       }
     ],
     "Shazam": [
@@ -788,10 +788,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 23,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
