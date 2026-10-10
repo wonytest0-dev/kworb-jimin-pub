@@ -1,11 +1,10 @@
 {
-  "updatedAt": "10/10/2026, 17:01:04 KST",
-  "totalEntries": 42,
+  "updatedAt": "10/10/2026, 18:01:00 KST",
+  "totalEntries": 41,
   "totalTop1": 0,
   "services": [
     "Apple Music",
     "Apple  Music",
-    "Deezer",
     "Shazam",
     "Spotify",
     "iTunes"
@@ -162,24 +161,34 @@
       "movement24h": "NE"
     },
     {
-      "title": "Who",
+      "title": "Be Mine",
       "type": "single",
-      "service": "Deezer",
-      "country": "Argentina",
-      "rank": 18,
+      "service": "Spotify",
+      "country": "Belarus",
+      "rank": 9,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-2"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Spotify",
+      "country": "South Korea",
+      "rank": 90,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+75"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Thailand",
+      "rank": 149,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
-      "country": "Japan",
-      "rank": 52,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-18"
     },
     {
       "title": "Like Crazy",
@@ -230,26 +239,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "country": "Belarus",
-      "rank": 9,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-2"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "country": "South Korea",
-      "rank": 90,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+75"
     }
   ],
   "albums": [
@@ -358,17 +347,17 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 27,
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-7"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 48,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -527,16 +516,6 @@
         "movement24h": "-66"
       },
       {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "Spotify",
-        "country": "Belarus",
-        "rank": 60,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-14"
-      },
-      {
         "title": "Be Mine",
         "type": "single",
         "service": "Spotify",
@@ -555,6 +534,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+75"
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "Spotify",
+        "country": "Belarus",
+        "rank": 60,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-14"
       },
       {
         "title": "MUSE",
@@ -681,6 +670,16 @@
         "movement24h": "="
       },
       {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Thailand",
+        "rank": 149,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -783,28 +782,6 @@
         "movement24h": "NE"
       }
     ],
-    "Deezer": [
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Argentina",
-        "rank": 18,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Japan",
-        "rank": 52,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-18"
-      }
-    ],
     "Apple Music": [
       {
         "title": "MUSE",
@@ -831,17 +808,17 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 27,
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-7"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 48,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -902,10 +879,18 @@
       "countriesTop1": []
     },
     {
-      "title": "Who",
+      "title": "Be Mine",
       "type": "single",
-      "service": "Deezer",
+      "service": "Spotify",
       "totalEntries": 2,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -922,14 +907,6 @@
       "type": "single",
       "service": "iTunes",
       "totalEntries": 4,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Spotify",
-      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
