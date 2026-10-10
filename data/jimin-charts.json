@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/10/2026, 03:01:12 KST",
+  "updatedAt": "11/10/2026, 04:01:04 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -115,10 +115,10 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Belarus",
-      "rank": 73,
+      "rank": 96,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-23"
     },
     {
       "title": "Who",
@@ -367,20 +367,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 36,
+      "rank": 31,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Costa Rica",
-      "rank": 95,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-26"
+      "movement24h": "+8"
     },
     {
       "title": "MUSE",
@@ -391,6 +381,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-17"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Venezuela",
+      "rank": 194,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -652,10 +652,10 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Belarus",
-        "rank": 73,
+        "rank": 96,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-23"
       }
     ],
     "iTunes": [
@@ -838,20 +838,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 36,
+        "rank": 31,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 95,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-26"
+        "movement24h": "+8"
       },
       {
         "title": "MUSE",
@@ -862,6 +852,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-17"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Venezuela",
+        "rank": 194,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ]
   },
