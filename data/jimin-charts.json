@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/10/2026, 21:01:04 KST",
+  "updatedAt": "10/10/2026, 22:01:01 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -337,10 +337,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 22,
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -407,10 +407,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 90,
+      "rank": 89,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-4"
     }
   ],
   "byService": {
@@ -734,10 +734,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 90,
+        "rank": 89,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-4"
       }
     ],
     "Shazam": [
@@ -788,10 +788,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 22,
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
