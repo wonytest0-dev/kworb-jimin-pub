@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/10/2026, 18:01:00 KST",
+  "updatedAt": "11/10/2026, 19:00:58 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -165,10 +165,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Bulgaria",
-      "rank": 200,
+      "rank": 185,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+15"
     },
     {
       "title": "Like Crazy",
@@ -796,10 +796,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Bulgaria",
-        "rank": 200,
+        "rank": 185,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+15"
       }
     ],
     "Apple Music": [
