@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11/10/2026, 19:00:58 KST",
-  "totalEntries": 43,
+  "updatedAt": "11/10/2026, 20:00:59 KST",
+  "totalEntries": 44,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -145,7 +145,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Singapore",
-      "rank": 63,
+      "rank": 93,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -377,10 +377,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 14,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+9"
+      "movement24h": "+12"
     },
     {
       "title": "MUSE",
@@ -441,6 +441,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-2"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Japan",
+      "rank": 198,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -694,7 +704,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Singapore",
-        "rank": 63,
+        "rank": 93,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -778,6 +788,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-2"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Japan",
+        "rank": 198,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -858,10 +878,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 14,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+9"
+        "movement24h": "+12"
       },
       {
         "title": "MUSE",
@@ -978,7 +998,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
