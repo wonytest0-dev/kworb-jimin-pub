@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/10/2026, 15:01:02 KST",
+  "updatedAt": "11/10/2026, 16:01:13 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -145,10 +145,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 79,
+      "rank": 69,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "+10"
     },
     {
       "title": "Who",
@@ -158,7 +158,7 @@
       "rank": 200,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -367,10 +367,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+24"
+      "movement24h": "+14"
     },
     {
       "title": "MUSE",
@@ -766,10 +766,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 79,
+        "rank": 69,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "+10"
       },
       {
         "title": "Who",
@@ -779,7 +779,7 @@
         "rank": 200,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       }
     ],
     "Apple Music": [
@@ -838,10 +838,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+24"
+        "movement24h": "+14"
       },
       {
         "title": "MUSE",
