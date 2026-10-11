@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/10/2026, 09:01:00 KST",
+  "updatedAt": "11/10/2026, 10:01:02 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -357,7 +357,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 18,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -396,18 +396,18 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Micronesia",
-      "rank": 47,
+      "country": "Kyrgyzstan",
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 48,
+      "country": "Micronesia",
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
@@ -723,18 +723,18 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Micronesia",
-        "rank": 47,
+        "country": "Kyrgyzstan",
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 48,
+        "country": "Micronesia",
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
@@ -828,7 +828,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 18,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
