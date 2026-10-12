@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/10/2026, 01:01:01 KST",
+  "updatedAt": "13/10/2026, 02:01:06 KST",
   "totalEntries": 47,
   "totalTop1": 0,
   "services": [
@@ -437,21 +437,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 47,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-1"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Micronesia",
       "rank": 47,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Kyrgyzstan",
+      "rank": 48,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -794,21 +794,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 47,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-1"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 47,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Kyrgyzstan",
+        "rank": 48,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
