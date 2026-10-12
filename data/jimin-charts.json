@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12/10/2026, 15:01:01 KST",
-  "totalEntries": 49,
+  "updatedAt": "12/10/2026, 16:01:01 KST",
+  "totalEntries": 48,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -156,20 +156,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 69,
+      "rank": 67,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+10"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Shazam",
-      "country": "Bulgaria",
-      "rank": 185,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+15"
+      "movement24h": "+2"
     },
     {
       "title": "Who",
@@ -438,20 +428,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 10,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 18,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -867,20 +857,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 69,
+        "rank": 67,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+10"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Shazam",
-        "country": "Bulgaria",
-        "rank": 185,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+15"
+        "movement24h": "+2"
       }
     ],
     "Deezer": [
@@ -991,20 +971,20 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 10,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 18,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "-1"
       }
     ]
   },
@@ -1037,7 +1017,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
