@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13/10/2026, 03:01:18 KST",
-  "totalEntries": 45,
+  "updatedAt": "13/10/2026, 04:01:06 KST",
+  "totalEntries": 47,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -367,26 +367,6 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Myanmar",
-      "rank": 3,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+2"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 6,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-4"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
       "country": "Norway",
       "rank": 10,
       "isTop1": false,
@@ -398,10 +378,50 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-2"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Myanmar",
+      "rank": 28,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-25"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Belarus",
+      "rank": 39,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-33"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Cyprus",
+      "rank": 139,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Costa Rica",
+      "rank": 146,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -880,26 +900,6 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Myanmar",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+2"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 6,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-4"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
         "country": "Norway",
         "rank": 10,
         "isTop1": false,
@@ -911,10 +911,50 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-2"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Myanmar",
+        "rank": 28,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-25"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 39,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-33"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Cyprus",
+        "rank": 139,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Costa Rica",
+        "rank": 146,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -1013,7 +1053,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "totalEntries": 5,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
