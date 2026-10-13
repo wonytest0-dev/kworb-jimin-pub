@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/10/2026, 12:01:07 KST",
+  "updatedAt": "13/10/2026, 13:01:08 KST",
   "totalEntries": 53,
   "totalTop1": 2,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 2,
+      "rank": 77,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -146,10 +146,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 14,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -326,10 +326,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Guinea-Bissau",
-      "rank": 20,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -448,10 +448,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 17,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -795,7 +795,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 2,
+        "rank": 77,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -805,10 +805,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 14,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Who",
@@ -885,10 +885,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Guinea-Bissau",
-        "rank": 20,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -1031,10 +1031,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 17,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
