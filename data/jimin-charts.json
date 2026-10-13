@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/10/2026, 18:01:03 KST",
+  "updatedAt": "13/10/2026, 19:01:04 KST",
   "totalEntries": 52,
   "totalTop1": 2,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 90,
+      "rank": 94,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -785,7 +785,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 90,
+        "rank": 94,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
