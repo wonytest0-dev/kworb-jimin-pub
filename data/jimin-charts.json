@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/10/2026, 15:01:03 KST",
+  "updatedAt": "13/10/2026, 16:02:37 KST",
   "totalEntries": 53,
   "totalTop1": 2,
   "services": [
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 67,
+      "rank": 57,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+10"
     },
     {
       "title": "Who",
@@ -437,21 +437,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Norway",
-      "rank": 18,
+      "country": "Russia",
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
+      "country": "Norway",
       "rank": 18,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-10"
     },
     {
       "title": "MUSE",
@@ -957,10 +957,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 67,
+        "rank": 57,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+10"
       }
     ],
     "Deezer": [
@@ -1020,21 +1020,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Norway",
-        "rank": 18,
+        "country": "Russia",
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
+        "country": "Norway",
         "rank": 18,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-10"
       },
       {
         "title": "MUSE",
