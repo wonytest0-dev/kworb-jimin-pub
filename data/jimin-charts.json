@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13/10/2026, 11:01:06 KST",
-  "totalEntries": 54,
+  "updatedAt": "13/10/2026, 12:01:07 KST",
+  "totalEntries": 53,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -265,7 +265,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Botswana",
+      "country": "Gambia",
       "rank": 4,
       "isTop1": false,
       "movementLive": null,
@@ -275,8 +275,8 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Gambia",
-      "rank": 4,
+      "country": "Botswana",
+      "rank": 5,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -448,10 +448,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 19,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -518,7 +518,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 51,
+      "rank": 50,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-5"
@@ -542,16 +542,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Russia",
-      "rank": 183,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -854,7 +844,7 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Botswana",
+        "country": "Gambia",
         "rank": 4,
         "isTop1": false,
         "movementLive": null,
@@ -864,8 +854,8 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Gambia",
-        "rank": 4,
+        "country": "Botswana",
+        "rank": 5,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -935,7 +925,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 51,
+        "rank": 50,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-5"
@@ -959,16 +949,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Russia",
-        "rank": 183,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -1051,10 +1031,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 19,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
@@ -1213,7 +1193,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
