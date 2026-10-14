@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/10/2026, 16:01:08 KST",
+  "updatedAt": "14/10/2026, 17:01:05 KST",
   "totalEntries": 56,
   "totalTop1": 1,
   "services": [
@@ -165,8 +165,8 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Malaysia",
-      "rank": 172,
+      "country": "Singapore",
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -255,16 +255,6 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Panama",
-      "rank": 3,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-2"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
       "country": "Uzbekistan",
       "rank": 3,
       "isTop1": false,
@@ -275,8 +265,18 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
+      "country": "Panama",
+      "rank": 7,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-6"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 5,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -854,8 +854,8 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Malaysia",
-        "rank": 172,
+        "country": "Singapore",
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -874,16 +874,6 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Panama",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-2"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
         "country": "Uzbekistan",
         "rank": 3,
         "isTop1": false,
@@ -894,8 +884,18 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
+        "country": "Panama",
+        "rank": 7,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-6"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 5,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
