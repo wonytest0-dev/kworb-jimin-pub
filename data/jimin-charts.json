@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/10/2026, 11:00:58 KST",
+  "updatedAt": "14/10/2026, 12:00:57 KST",
   "totalEntries": 57,
   "totalTop1": 3,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 18,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "+59"
     },
     {
       "title": "Who",
@@ -159,7 +159,7 @@
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -176,7 +176,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Malaysia",
-      "rank": 136,
+      "rank": 142,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -249,7 +249,7 @@
       "rank": 1,
       "isTop1": true,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+4"
     },
     {
       "title": "Be Mine",
@@ -339,7 +339,7 @@
       "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -521,7 +521,7 @@
       "rank": 128,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-114"
+      "movement24h": "-110"
     },
     {
       "title": "MUSE",
@@ -551,7 +551,7 @@
       "rank": 53,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -578,7 +578,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Japan",
-      "rank": 144,
+      "rank": 157,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -848,7 +848,7 @@
         "rank": 18,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+59"
       },
       {
         "title": "Who",
@@ -858,7 +858,7 @@
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Who",
@@ -875,7 +875,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Malaysia",
-        "rank": 136,
+        "rank": 142,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -888,7 +888,7 @@
         "rank": 1,
         "isTop1": true,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+4"
       },
       {
         "title": "Be Mine",
@@ -958,7 +958,7 @@
         "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -998,7 +998,7 @@
         "rank": 53,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
@@ -1025,7 +1025,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Japan",
-        "rank": 144,
+        "rank": 157,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1154,7 +1154,7 @@
         "rank": 128,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-114"
+        "movement24h": "-110"
       },
       {
         "title": "MUSE",
