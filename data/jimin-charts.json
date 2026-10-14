@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/10/2026, 13:00:57 KST",
+  "updatedAt": "14/10/2026, 14:01:00 KST",
   "totalEntries": 57,
   "totalTop1": 2,
   "services": [
@@ -176,7 +176,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Malaysia",
-      "rank": 143,
+      "rank": 146,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -497,6 +497,16 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
+      "country": "Norway",
+      "rank": 104,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-86"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
       "country": "Venezuela",
       "rank": 107,
       "isTop1": false,
@@ -512,16 +522,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Norway",
-      "rank": 128,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-110"
     },
     {
       "title": "MUSE",
@@ -578,7 +578,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Japan",
-      "rank": 157,
+      "rank": 200,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -875,7 +875,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Malaysia",
-        "rank": 143,
+        "rank": 146,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1025,7 +1025,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Japan",
-        "rank": 157,
+        "rank": 200,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1130,6 +1130,16 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
+        "country": "Norway",
+        "rank": 104,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-86"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
         "country": "Venezuela",
         "rank": 107,
         "isTop1": false,
@@ -1145,16 +1155,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Norway",
-        "rank": 128,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-110"
       },
       {
         "title": "MUSE",
