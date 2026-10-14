@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/10/2026, 05:01:06 KST",
+  "updatedAt": "15/10/2026, 06:01:03 KST",
   "totalEntries": 53,
   "totalTop1": 1,
   "services": [
@@ -139,7 +139,7 @@
       "rank": 113,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-97"
+      "movement24h": "-95"
     },
     {
       "title": "Who",
@@ -256,10 +256,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 5,
+      "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-5"
     },
     {
       "title": "Be Mine",
@@ -498,7 +498,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 28,
+      "rank": 30,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -521,7 +521,7 @@
       "rank": 53,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -798,7 +798,7 @@
         "rank": 113,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-97"
+        "movement24h": "-95"
       },
       {
         "title": "Who",
@@ -845,10 +845,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 5,
+        "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-5"
       },
       {
         "title": "Be Mine",
@@ -955,7 +955,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 28,
+        "rank": 30,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -978,7 +978,7 @@
         "rank": 53,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
