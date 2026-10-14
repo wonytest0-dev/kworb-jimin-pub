@@ -1,7 +1,7 @@
 {
-  "updatedAt": "14/10/2026, 12:00:57 KST",
+  "updatedAt": "14/10/2026, 13:00:57 KST",
   "totalEntries": 57,
-  "totalTop1": 3,
+  "totalTop1": 2,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -146,10 +146,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 18,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+59"
+      "movement24h": "+53"
     },
     {
       "title": "Who",
@@ -176,7 +176,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Malaysia",
-      "rank": 142,
+      "rank": 143,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -245,21 +245,21 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Botswana",
-      "rank": 1,
-      "isTop1": true,
-      "movementLive": null,
-      "movement24h": "+4"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
       "country": "Panama",
       "rank": 1,
       "isTop1": true,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Botswana",
+      "rank": 2,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+3"
     },
     {
       "title": "Be Mine",
@@ -461,7 +461,7 @@
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -845,10 +845,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 18,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+59"
+        "movement24h": "+53"
       },
       {
         "title": "Who",
@@ -875,20 +875,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Malaysia",
-        "rank": 142,
+        "rank": 143,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Botswana",
-        "rank": 1,
-        "isTop1": true,
-        "movementLive": null,
-        "movement24h": "+4"
       },
       {
         "title": "Be Mine",
@@ -899,6 +889,16 @@
         "isTop1": true,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Botswana",
+        "rank": 2,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+3"
       },
       {
         "title": "Be Mine",
@@ -1094,7 +1094,7 @@
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -1170,17 +1170,6 @@
   },
   "summary": [
     {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "totalEntries": 5,
-      "totalTop1": 2,
-      "countriesTop1": [
-        "Botswana",
-        "Panama"
-      ]
-    },
-    {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
@@ -1188,6 +1177,16 @@
       "totalTop1": 1,
       "countriesTop1": [
         "Uzbekistan"
+      ]
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "totalEntries": 5,
+      "totalTop1": 1,
+      "countriesTop1": [
+        "Panama"
       ]
     },
     {
