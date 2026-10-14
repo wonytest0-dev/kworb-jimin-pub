@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/10/2026, 17:01:05 KST",
+  "updatedAt": "14/10/2026, 18:01:02 KST",
   "totalEntries": 56,
   "totalTop1": 1,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 33,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+44"
+      "movement24h": "+61"
     },
     {
       "title": "Who",
@@ -199,7 +199,7 @@
       "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+27"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -209,7 +209,7 @@
       "rank": 59,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-15"
+      "movement24h": "="
     },
     {
       "title": "Be Mine",
@@ -299,7 +299,7 @@
       "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+47"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -369,7 +369,7 @@
       "rank": 40,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     }
   ],
   "albums": [
@@ -461,7 +461,7 @@
       "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -511,7 +511,7 @@
       "rank": 113,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-94"
+      "movement24h": "-92"
     },
     {
       "title": "MUSE",
@@ -838,7 +838,7 @@
         "rank": 33,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+44"
+        "movement24h": "+61"
       },
       {
         "title": "Who",
@@ -1032,7 +1032,7 @@
         "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+27"
+        "movement24h": "="
       },
       {
         "title": "Who",
@@ -1042,7 +1042,7 @@
         "rank": 59,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-15"
+        "movement24h": "="
       },
       {
         "title": "Be Mine",
@@ -1052,7 +1052,7 @@
         "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+47"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -1062,7 +1062,7 @@
         "rank": 40,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       }
     ],
     "Apple Music": [
@@ -1074,7 +1074,7 @@
         "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -1124,7 +1124,7 @@
         "rank": 113,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-94"
+        "movement24h": "-92"
       },
       {
         "title": "MUSE",
