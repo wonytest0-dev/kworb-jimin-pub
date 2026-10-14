@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/10/2026, 20:01:06 KST",
+  "updatedAt": "14/10/2026, 21:01:04 KST",
   "totalEntries": 57,
   "totalTop1": 0,
   "services": [
@@ -149,7 +149,17 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+40"
+      "movement24h": "+44"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Singapore",
+      "rank": 4,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -160,16 +170,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Singapore",
-      "rank": 23,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -326,7 +326,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Hungary",
-      "rank": 5,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -468,7 +468,7 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 10,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+3"
@@ -521,7 +521,7 @@
       "rank": 126,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-105"
+      "movement24h": "-88"
     },
     {
       "title": "MUSE",
@@ -561,7 +561,7 @@
       "rank": 53,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -848,7 +848,17 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+40"
+        "movement24h": "+44"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Singapore",
+        "rank": 4,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Who",
@@ -859,16 +869,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Singapore",
-        "rank": 23,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       },
       {
         "title": "Be Mine",
@@ -935,7 +935,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Hungary",
-        "rank": 5,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -998,7 +998,7 @@
         "rank": 53,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -1091,7 +1091,7 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 10,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+3"
@@ -1144,7 +1144,7 @@
         "rank": 126,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-105"
+        "movement24h": "-88"
       },
       {
         "title": "MUSE",
