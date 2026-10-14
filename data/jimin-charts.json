@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/10/2026, 07:01:02 KST",
+  "updatedAt": "15/10/2026, 08:01:00 KST",
   "totalEntries": 53,
   "totalTop1": 1,
   "services": [
@@ -136,10 +136,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 129,
+      "rank": 131,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-111"
+      "movement24h": "-113"
     },
     {
       "title": "Who",
@@ -488,7 +488,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 10,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -498,7 +498,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 30,
+      "rank": 36,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -795,10 +795,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 129,
+        "rank": 131,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-111"
+        "movement24h": "-113"
       },
       {
         "title": "Who",
@@ -945,7 +945,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 10,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -955,7 +955,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 30,
+        "rank": 36,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
