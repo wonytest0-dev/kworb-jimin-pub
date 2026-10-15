@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/10/2026, 11:01:01 KST",
+  "updatedAt": "15/10/2026, 12:01:00 KST",
   "totalEntries": 53,
   "totalTop1": 2,
   "services": [
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 182,
+      "rank": 196,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-164"
+      "movement24h": "-172"
     },
     {
       "title": "Who",
@@ -266,7 +266,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 6,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-5"
@@ -285,21 +285,21 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Sri Lanka",
-      "rank": 16,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-11"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
       "country": "Panama",
       "rank": 21,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-20"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Sri Lanka",
+      "rank": 23,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-18"
     },
     {
       "title": "Like Crazy",
@@ -349,7 +349,7 @@
       "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -521,7 +521,7 @@
       "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -815,10 +815,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 182,
+        "rank": 196,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-164"
+        "movement24h": "-172"
       },
       {
         "title": "Who",
@@ -855,7 +855,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 6,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-5"
@@ -874,21 +874,21 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Sri Lanka",
-        "rank": 16,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-11"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
         "country": "Panama",
         "rank": 21,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-20"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Sri Lanka",
+        "rank": 23,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-18"
       },
       {
         "title": "Like Crazy",
@@ -928,7 +928,7 @@
         "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -978,7 +978,7 @@
         "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
