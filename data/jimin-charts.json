@@ -1,7 +1,7 @@
 {
-  "updatedAt": "15/10/2026, 22:01:10 KST",
+  "updatedAt": "15/10/2026, 23:01:10 KST",
   "totalEntries": 52,
-  "totalTop1": 2,
+  "totalTop1": 1,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 47,
+      "rank": 65,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-43"
+      "movement24h": "-61"
     },
     {
       "title": "Who",
@@ -246,8 +246,8 @@
       "type": "single",
       "service": "iTunes",
       "country": "Jordan",
-      "rank": 1,
-      "isTop1": true,
+      "rank": 2,
+      "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
     },
@@ -256,10 +256,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 9,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-8"
     },
     {
       "title": "Be Mine",
@@ -518,7 +518,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 68,
+      "rank": 71,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -805,10 +805,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 47,
+        "rank": 65,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-43"
+        "movement24h": "-61"
       },
       {
         "title": "Be Mine",
@@ -825,8 +825,8 @@
         "type": "single",
         "service": "iTunes",
         "country": "Jordan",
-        "rank": 1,
-        "isTop1": true,
+        "rank": 2,
+        "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
       },
@@ -835,10 +835,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 9,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-8"
       },
       {
         "title": "Be Mine",
@@ -965,7 +965,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 68,
+        "rank": 71,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1074,10 +1074,9 @@
       "type": "single",
       "service": "iTunes",
       "totalEntries": 6,
-      "totalTop1": 2,
+      "totalTop1": 1,
       "countriesTop1": [
-        "Gambia",
-        "Jordan"
+        "Gambia"
       ]
     },
     {
