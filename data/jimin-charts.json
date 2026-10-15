@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/10/2026, 12:01:00 KST",
+  "updatedAt": "15/10/2026, 13:01:03 KST",
   "totalEntries": 53,
   "totalTop1": 2,
   "services": [
@@ -155,21 +155,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Romania",
-      "rank": 196,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-172"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Uzbekistan",
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-12"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Romania",
+      "rank": 200,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-178"
     },
     {
       "title": "Who",
@@ -286,10 +286,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Panama",
-      "rank": 21,
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-20"
+      "movement24h": "-22"
     },
     {
       "title": "Be Mine",
@@ -814,21 +814,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Romania",
-        "rank": 196,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-172"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Uzbekistan",
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-12"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Romania",
+        "rank": 200,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-178"
       },
       {
         "title": "Be Mine",
@@ -875,10 +875,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Panama",
-        "rank": 21,
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-20"
+        "movement24h": "-22"
       },
       {
         "title": "Be Mine",
