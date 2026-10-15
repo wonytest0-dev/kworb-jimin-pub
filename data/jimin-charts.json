@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/10/2026, 07:01:01 KST",
+  "updatedAt": "16/10/2026, 08:01:09 KST",
   "totalEntries": 53,
   "totalTop1": 1,
   "services": [
@@ -146,10 +146,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 138,
+      "rank": 154,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-130"
+      "movement24h": "-146"
     },
     {
       "title": "Who",
@@ -286,10 +286,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Panama",
-      "rank": 39,
+      "rank": 43,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-23"
+      "movement24h": "-27"
     },
     {
       "title": "Be Mine",
@@ -468,10 +468,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 14,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -805,10 +805,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 138,
+        "rank": 154,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-130"
+        "movement24h": "-146"
       },
       {
         "title": "Be Mine",
@@ -865,10 +865,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Panama",
-        "rank": 39,
+        "rank": 43,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-23"
+        "movement24h": "-27"
       },
       {
         "title": "Like Crazy",
@@ -1071,10 +1071,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 14,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
