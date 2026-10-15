@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/10/2026, 09:01:17 KST",
+  "updatedAt": "15/10/2026, 10:00:59 KST",
   "totalEntries": 54,
   "totalTop1": 2,
   "services": [
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 150,
+      "rank": 166,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-132"
+      "movement24h": "-148"
     },
     {
       "title": "Who",
@@ -528,10 +528,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 53,
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -825,10 +825,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 150,
+        "rank": 166,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-132"
+        "movement24h": "-148"
       },
       {
         "title": "Who",
@@ -995,10 +995,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 53,
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
