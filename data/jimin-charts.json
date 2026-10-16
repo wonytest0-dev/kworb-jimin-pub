@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/10/2026, 05:01:01 KST",
+  "updatedAt": "17/10/2026, 06:01:08 KST",
   "totalEntries": 53,
   "totalTop1": 1,
   "services": [
@@ -136,17 +136,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 84,
+      "rank": 88,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-62"
+      "movement24h": "-61"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 148,
+      "rank": 161,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -239,27 +239,27 @@
       "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-9"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Jordan",
-      "rank": 34,
+      "rank": 38,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-30"
+      "movement24h": "-33"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 41,
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-14"
     },
     {
       "title": "Be Mine",
@@ -269,24 +269,24 @@
       "rank": 66,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-29"
+      "movement24h": "-27"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 86,
+      "rank": 90,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-62"
+      "movement24h": "-61"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 172,
+      "rank": 190,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -356,10 +356,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 85,
+      "rank": 89,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-62"
+      "movement24h": "-61"
     },
     {
       "title": "Like Crazy",
@@ -468,10 +468,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -481,7 +481,7 @@
       "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+72"
+      "movement24h": "+89"
     },
     {
       "title": "MUSE",
@@ -518,10 +518,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 55,
+      "rank": 61,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-38"
+      "movement24h": "-43"
     },
     {
       "title": "MUSE",
@@ -785,17 +785,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 84,
+        "rank": 88,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-62"
+        "movement24h": "-61"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 148,
+        "rank": 161,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -818,27 +818,27 @@
         "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-9"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Jordan",
-        "rank": 34,
+        "rank": 38,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-30"
+        "movement24h": "-33"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 41,
+        "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-14"
       },
       {
         "title": "Be Mine",
@@ -848,24 +848,24 @@
         "rank": 66,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-29"
+        "movement24h": "-27"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 86,
+        "rank": 90,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-62"
+        "movement24h": "-61"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 172,
+        "rank": 190,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -915,10 +915,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 85,
+        "rank": 89,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-62"
+        "movement24h": "-61"
       },
       {
         "title": "MUSE",
@@ -928,7 +928,7 @@
         "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+72"
+        "movement24h": "+89"
       },
       {
         "title": "MUSE",
@@ -965,10 +965,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 55,
+        "rank": 61,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-38"
+        "movement24h": "-43"
       },
       {
         "title": "MUSE",
@@ -1081,10 +1081,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-4"
       }
     ]
   },
