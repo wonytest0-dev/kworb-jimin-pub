@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16/10/2026, 11:00:57 KST",
-  "totalEntries": 53,
+  "updatedAt": "16/10/2026, 12:01:02 KST",
+  "totalEntries": 52,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -144,16 +144,6 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "iTunes",
-      "country": "Romania",
-      "rank": 197,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-184"
-    },
-    {
-      "title": "Who",
-      "type": "single",
       "service": "Shazam",
       "country": "Japan",
       "rank": 42,
@@ -259,7 +249,7 @@
       "rank": 21,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-15"
+      "movement24h": "-14"
     },
     {
       "title": "Be Mine",
@@ -269,7 +259,7 @@
       "rank": 35,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-19"
+      "movement24h": "-12"
     },
     {
       "title": "Be Mine",
@@ -279,7 +269,7 @@
       "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-24"
+      "movement24h": "-21"
     },
     {
       "title": "Be Mine",
@@ -319,7 +309,7 @@
       "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -538,10 +528,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 105,
+      "rank": 106,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-69"
+      "movement24h": "-68"
     }
   ],
   "byService": {
@@ -801,16 +791,6 @@
         "movement24h": "-49"
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Romania",
-        "rank": 197,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-184"
-      },
-      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -838,7 +818,7 @@
         "rank": 21,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-15"
+        "movement24h": "-14"
       },
       {
         "title": "Be Mine",
@@ -848,7 +828,7 @@
         "rank": 35,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-19"
+        "movement24h": "-12"
       },
       {
         "title": "Be Mine",
@@ -858,7 +838,7 @@
         "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-24"
+        "movement24h": "-21"
       },
       {
         "title": "Be Mine",
@@ -878,7 +858,7 @@
         "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -975,10 +955,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 105,
+        "rank": 106,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-69"
+        "movement24h": "-68"
       }
     ],
     "Shazam": [
@@ -1119,7 +1099,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
