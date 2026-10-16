@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/10/2026, 09:01:01 KST",
+  "updatedAt": "16/10/2026, 10:01:10 KST",
   "totalEntries": 53,
   "totalTop1": 1,
   "services": [
@@ -146,10 +146,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Romania",
-      "rank": 167,
+      "rank": 176,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-154"
+      "movement24h": "-163"
     },
     {
       "title": "Who",
@@ -538,10 +538,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 103,
+      "rank": 105,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-67"
+      "movement24h": "-69"
     }
   ],
   "byService": {
@@ -805,10 +805,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Romania",
-        "rank": 167,
+        "rank": 176,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-154"
+        "movement24h": "-163"
       },
       {
         "title": "Be Mine",
@@ -975,10 +975,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 103,
+        "rank": 105,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-67"
+        "movement24h": "-69"
       }
     ],
     "Shazam": [
