@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/10/2026, 07:00:59 KST",
+  "updatedAt": "17/10/2026, 08:01:09 KST",
   "totalEntries": 52,
   "totalTop1": 1,
   "services": [
@@ -136,17 +136,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 88,
+      "rank": 90,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-61"
+      "movement24h": "-63"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 175,
+      "rank": 187,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -236,10 +236,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 24,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-10"
     },
     {
       "title": "Be Mine",
@@ -256,10 +256,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 45,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-15"
     },
     {
       "title": "Be Mine",
@@ -276,10 +276,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 90,
+      "rank": 92,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-61"
+      "movement24h": "-63"
     },
     {
       "title": "Be Mine",
@@ -346,10 +346,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 89,
+      "rank": 91,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-61"
+      "movement24h": "-63"
     },
     {
       "title": "Like Crazy",
@@ -775,17 +775,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 88,
+        "rank": 90,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-61"
+        "movement24h": "-63"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 175,
+        "rank": 187,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -805,10 +805,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 24,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-10"
       },
       {
         "title": "Be Mine",
@@ -825,10 +825,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 45,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-15"
       },
       {
         "title": "Be Mine",
@@ -845,10 +845,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 90,
+        "rank": 92,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-61"
+        "movement24h": "-63"
       },
       {
         "title": "Like Crazy",
@@ -895,10 +895,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 89,
+        "rank": 91,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-61"
+        "movement24h": "-63"
       },
       {
         "title": "MUSE",
