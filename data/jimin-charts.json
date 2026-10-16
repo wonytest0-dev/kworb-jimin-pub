@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/10/2026, 19:01:04 KST",
+  "updatedAt": "16/10/2026, 20:01:04 KST",
   "totalEntries": 55,
   "totalTop1": 0,
   "services": [
@@ -135,21 +135,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Vietnam",
-      "rank": 64,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Uzbekistan",
       "rank": 79,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-65"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Vietnam",
+      "rank": 81,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -285,21 +285,21 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Vietnam",
-      "rank": 75,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
       "country": "Uzbekistan",
       "rank": 81,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-65"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Vietnam",
+      "rank": 97,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Be Mine",
@@ -497,8 +497,18 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
+      "country": "Thailand",
+      "rank": 5,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+57"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
       "country": "Taiwan",
-      "rank": 15,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -508,10 +518,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 25,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-17"
     },
     {
       "title": "MUSE",
@@ -552,16 +562,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Thailand",
-      "rank": 116,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-54"
     }
   ],
   "byService": {
@@ -814,21 +814,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Vietnam",
-        "rank": 64,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Uzbekistan",
         "rank": 79,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-65"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Vietnam",
+        "rank": 81,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Be Mine",
@@ -884,21 +884,21 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Vietnam",
-        "rank": 75,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
         "country": "Uzbekistan",
         "rank": 81,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-65"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Vietnam",
+        "rank": 97,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Like Crazy",
@@ -954,8 +954,18 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
+        "country": "Thailand",
+        "rank": 5,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+57"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
         "country": "Taiwan",
-        "rank": 15,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -965,10 +975,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 25,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-17"
       },
       {
         "title": "MUSE",
@@ -1009,16 +1019,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Thailand",
-        "rank": 116,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-54"
       }
     ],
     "Shazam": [
