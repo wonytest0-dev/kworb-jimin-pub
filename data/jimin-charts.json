@@ -1,9 +1,10 @@
 {
-  "updatedAt": "16/10/2026, 21:01:03 KST",
+  "updatedAt": "16/10/2026, 22:01:06 KST",
   "totalEntries": 54,
   "totalTop1": 0,
   "services": [
     "Apple Music",
+    "Apple  Music",
     "Deezer",
     "Shazam",
     "Spotify",
@@ -113,7 +114,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple Music",
+      "service": "Apple  Music",
       "country": "Belarus",
       "rank": 129,
       "isTop1": false,
@@ -487,10 +488,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 5,
+      "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+63"
+      "movement24h": "+62"
     },
     {
       "title": "MUSE",
@@ -776,46 +777,16 @@
         "movement24h": "-38"
       }
     ],
-    "Apple Music": [
+    "Apple  Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple Music",
+        "service": "Apple  Music",
         "country": "Belarus",
         "rank": 129,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-60"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 2,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 12,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-2"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 127,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-28"
       }
     ],
     "iTunes": [
@@ -974,10 +945,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 5,
+        "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+63"
+        "movement24h": "+62"
       },
       {
         "title": "MUSE",
@@ -1103,6 +1074,38 @@
         "movementLive": null,
         "movement24h": "NE"
       }
+    ],
+    "Apple Music": [
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 2,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 12,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-2"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Costa Rica",
+        "rank": 127,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-28"
+      }
     ]
   },
   "summary": [
@@ -1117,7 +1120,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple Music",
+      "service": "Apple  Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
