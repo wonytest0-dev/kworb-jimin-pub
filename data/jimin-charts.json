@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/10/2026, 14:00:58 KST",
+  "updatedAt": "16/10/2026, 15:01:02 KST",
   "totalEntries": 52,
   "totalTop1": 1,
   "services": [
@@ -256,20 +256,20 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 36,
+      "rank": 38,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-13"
+      "movement24h": "-15"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Panama",
-      "rank": 51,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-28"
+      "movement24h": "-32"
     },
     {
       "title": "Be Mine",
@@ -478,10 +478,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 23,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-16"
     },
     {
       "title": "MUSE",
@@ -825,20 +825,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 36,
+        "rank": 38,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-13"
+        "movement24h": "-15"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Panama",
-        "rank": 51,
+        "rank": 55,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-28"
+        "movement24h": "-32"
       },
       {
         "title": "Be Mine",
@@ -905,10 +905,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 23,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-16"
       },
       {
         "title": "MUSE",
