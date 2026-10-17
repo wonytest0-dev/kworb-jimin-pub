@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/10/2026, 04:00:59 KST",
+  "updatedAt": "18/10/2026, 05:01:00 KST",
   "totalEntries": 52,
   "totalTop1": 1,
   "services": [
@@ -246,30 +246,30 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 52,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-14"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 54,
+      "rank": 56,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-30"
+      "movement24h": "-32"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Panama",
-      "rank": 82,
+      "rank": 85,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-20"
+      "movement24h": "-23"
     },
     {
       "title": "Be Mine",
@@ -458,17 +458,17 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 19,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-6"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 12,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -815,30 +815,30 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 52,
+        "rank": 55,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-14"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 54,
+        "rank": 56,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-30"
+        "movement24h": "-32"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Panama",
-        "rank": 82,
+        "rank": 85,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-20"
+        "movement24h": "-23"
       },
       {
         "title": "Be Mine",
@@ -905,7 +905,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 12,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1061,10 +1061,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 19,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-6"
       }
     ]
   },
