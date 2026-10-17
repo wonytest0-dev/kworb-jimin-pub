@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/10/2026, 23:01:07 KST",
+  "updatedAt": "18/10/2026, 00:00:58 KST",
   "totalEntries": 51,
   "totalTop1": 1,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 94,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-15"
+      "movement24h": "-13"
     },
     {
       "title": "Who",
@@ -249,7 +249,7 @@
       "rank": 31,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-8"
     },
     {
       "title": "Be Mine",
@@ -259,7 +259,7 @@
       "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-34"
+      "movement24h": "-23"
     },
     {
       "title": "Be Mine",
@@ -289,7 +289,7 @@
       "rank": 96,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-15"
+      "movement24h": "-13"
     },
     {
       "title": "Be Mine",
@@ -359,7 +359,7 @@
       "rank": 95,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-15"
+      "movement24h": "-13"
     }
   ],
   "albums": [
@@ -458,10 +458,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 14,
+      "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -481,7 +481,7 @@
       "rank": 50,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -511,7 +511,7 @@
       "rank": 71,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-39"
+      "movement24h": "-30"
     },
     {
       "title": "MUSE",
@@ -778,7 +778,7 @@
         "rank": 94,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-15"
+        "movement24h": "-13"
       },
       {
         "title": "Be Mine",
@@ -798,7 +798,7 @@
         "rank": 31,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-8"
       },
       {
         "title": "Be Mine",
@@ -808,7 +808,7 @@
         "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-34"
+        "movement24h": "-23"
       },
       {
         "title": "Be Mine",
@@ -838,7 +838,7 @@
         "rank": 96,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-15"
+        "movement24h": "-13"
       },
       {
         "title": "Like Crazy",
@@ -888,7 +888,7 @@
         "rank": 95,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-15"
+        "movement24h": "-13"
       },
       {
         "title": "MUSE",
@@ -908,7 +908,7 @@
         "rank": 50,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -938,7 +938,7 @@
         "rank": 71,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-39"
+        "movement24h": "-30"
       },
       {
         "title": "MUSE",
@@ -1041,10 +1041,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 14,
+        "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       }
     ]
   },
