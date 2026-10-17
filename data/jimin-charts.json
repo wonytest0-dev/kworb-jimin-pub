@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17/10/2026, 09:01:00 KST",
-  "totalEntries": 52,
+  "updatedAt": "17/10/2026, 10:00:55 KST",
+  "totalEntries": 51,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -140,16 +140,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-59"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Vietnam",
-      "rank": 189,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -498,20 +488,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 52,
+      "rank": 50,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Kazakhstan",
-      "rank": 61,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-42"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -522,6 +502,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Kazakhstan",
+      "rank": 63,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-44"
     },
     {
       "title": "MUSE",
@@ -781,16 +771,6 @@
         "movement24h": "-59"
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Vietnam",
-        "rank": 189,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -935,20 +915,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 52,
+        "rank": 50,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Kazakhstan",
-        "rank": 61,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-42"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -959,6 +929,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Kazakhstan",
+        "rank": 63,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-44"
       },
       {
         "title": "MUSE",
@@ -1099,7 +1079,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
