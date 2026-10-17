@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17/10/2026, 19:00:59 KST",
-  "totalEntries": 52,
+  "updatedAt": "17/10/2026, 20:00:54 KST",
+  "totalEntries": 51,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -236,10 +236,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 26,
+      "rank": 31,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-9"
     },
     {
       "title": "Be Mine",
@@ -256,10 +256,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 47,
+      "rank": 49,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-10"
     },
     {
       "title": "Be Mine",
@@ -522,16 +522,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Taiwan",
-      "rank": 89,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-74"
     }
   ],
   "byService": {
@@ -805,10 +795,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 26,
+        "rank": 31,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-9"
       },
       {
         "title": "Be Mine",
@@ -825,10 +815,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 47,
+        "rank": 49,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-10"
       },
       {
         "title": "Be Mine",
@@ -959,16 +949,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Taiwan",
-        "rank": 89,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-74"
       }
     ],
     "Shazam": [
@@ -1187,7 +1167,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
