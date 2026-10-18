@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/10/2026, 00:00:58 KST",
+  "updatedAt": "19/10/2026, 01:01:01 KST",
   "totalEntries": 56,
   "totalTop1": 2,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 61,
+      "rank": 64,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -306,10 +306,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 68,
+      "rank": 69,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-16"
+      "movement24h": "-17"
     },
     {
       "title": "Be Mine",
@@ -478,10 +478,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 18,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -538,10 +538,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 84,
+      "rank": 85,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-11"
     },
     {
       "title": "MUSE",
@@ -568,10 +568,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 146,
+      "rank": 158,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-84"
+      "movement24h": "-96"
     }
   ],
   "byService": {
@@ -825,7 +825,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 61,
+        "rank": 64,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -905,10 +905,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 68,
+        "rank": 69,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-16"
+        "movement24h": "-17"
       },
       {
         "title": "Like Crazy",
@@ -1005,10 +1005,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 84,
+        "rank": 85,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-11"
       },
       {
         "title": "MUSE",
@@ -1035,10 +1035,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 146,
+        "rank": 158,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-84"
+        "movement24h": "-96"
       }
     ],
     "Shazam": [
@@ -1141,10 +1141,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 18,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-1"
       }
     ]
   },
