@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/10/2026, 08:01:08 KST",
-  "totalEntries": 55,
+  "updatedAt": "18/10/2026, 09:01:01 KST",
+  "totalEntries": 54,
   "totalTop1": 3,
   "services": [
     "Apple Music",
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 97,
+      "rank": 99,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-9"
@@ -275,21 +275,21 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Sri Lanka",
-      "rank": 56,
+      "country": "Botswana",
+      "rank": 57,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-32"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Botswana",
-      "rank": 57,
+      "country": "Sri Lanka",
+      "rank": 58,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-33"
+      "movement24h": "-12"
     },
     {
       "title": "Be Mine",
@@ -299,17 +299,7 @@
       "rank": 91,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-20"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Uzbekistan",
-      "rank": 99,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-19"
     },
     {
       "title": "Be Mine",
@@ -376,7 +366,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uzbekistan",
-      "rank": 98,
+      "rank": 100,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-9"
@@ -521,7 +511,7 @@
       "rank": 50,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -538,7 +528,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 77,
+      "rank": 79,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-16"
@@ -825,7 +815,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 97,
+        "rank": 99,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-9"
@@ -874,21 +864,21 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Sri Lanka",
-        "rank": 56,
+        "country": "Botswana",
+        "rank": 57,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-32"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Botswana",
-        "rank": 57,
+        "country": "Sri Lanka",
+        "rank": 58,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-33"
+        "movement24h": "-12"
       },
       {
         "title": "Be Mine",
@@ -898,17 +888,7 @@
         "rank": 91,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-20"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Uzbekistan",
-        "rank": 99,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-19"
       },
       {
         "title": "Like Crazy",
@@ -955,7 +935,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uzbekistan",
-        "rank": 98,
+        "rank": 100,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-9"
@@ -988,7 +968,7 @@
         "rank": 50,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -1005,7 +985,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 77,
+        "rank": 79,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-16"
@@ -1133,7 +1113,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 8,
+      "totalEntries": 7,
       "totalTop1": 2,
       "countriesTop1": [
         "Niger",
