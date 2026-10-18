@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/10/2026, 01:01:01 KST",
+  "updatedAt": "19/10/2026, 02:00:59 KST",
   "totalEntries": 56,
   "totalTop1": 2,
   "services": [
@@ -488,7 +488,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 6,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -517,16 +517,6 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Spain",
-      "rank": 48,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Nepal",
       "rank": 62,
       "isTop1": false,
@@ -537,11 +527,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kazakhstan",
-      "rank": 85,
+      "country": "Spain",
+      "rank": 64,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Kazakhstan",
+      "rank": 86,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-12"
     },
     {
       "title": "MUSE",
@@ -558,10 +558,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 91,
+      "rank": 103,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-82"
+      "movement24h": "-94"
     },
     {
       "title": "MUSE",
@@ -955,7 +955,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 6,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -984,16 +984,6 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Spain",
-        "rank": 48,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Nepal",
         "rank": 62,
         "isTop1": false,
@@ -1004,11 +994,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kazakhstan",
-        "rank": 85,
+        "country": "Spain",
+        "rank": 64,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Kazakhstan",
+        "rank": 86,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-12"
       },
       {
         "title": "MUSE",
@@ -1025,10 +1025,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 91,
+        "rank": 103,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-82"
+        "movement24h": "-94"
       },
       {
         "title": "MUSE",
