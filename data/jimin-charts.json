@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/10/2026, 12:01:00 KST",
-  "totalEntries": 53,
+  "updatedAt": "18/10/2026, 13:01:05 KST",
+  "totalEntries": 54,
   "totalTop1": 4,
   "services": [
     "Apple Music",
@@ -255,6 +255,16 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
+      "country": "Antigua and Barbuda",
+      "rank": 2,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
       "country": "Gambia",
       "rank": 2,
       "isTop1": false,
@@ -286,10 +296,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 64,
+      "rank": 65,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-17"
+      "movement24h": "-18"
     },
     {
       "title": "Be Mine",
@@ -471,7 +481,7 @@
       "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-6"
     },
     {
       "title": "MUSE",
@@ -834,6 +844,16 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
+        "country": "Antigua and Barbuda",
+        "rank": 2,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
         "country": "Gambia",
         "rank": 2,
         "isTop1": false,
@@ -865,10 +885,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 64,
+        "rank": 65,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-17"
+        "movement24h": "-18"
       },
       {
         "title": "Be Mine",
@@ -1084,7 +1104,7 @@
         "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-6"
       }
     ]
   },
@@ -1093,7 +1113,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 8,
+      "totalEntries": 9,
       "totalTop1": 3,
       "countriesTop1": [
         "Niger",
