@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/10/2026, 09:01:01 KST",
+  "updatedAt": "18/10/2026, 10:00:59 KST",
   "totalEntries": 54,
   "totalTop1": 3,
   "services": [
@@ -488,7 +488,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 27,
+      "rank": 39,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -548,10 +548,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 100,
+      "rank": 101,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-87"
+      "movement24h": "-88"
     }
   ],
   "byService": {
@@ -945,7 +945,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 27,
+        "rank": 39,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -1005,10 +1005,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 100,
+        "rank": 101,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-87"
+        "movement24h": "-88"
       }
     ],
     "Shazam": [
