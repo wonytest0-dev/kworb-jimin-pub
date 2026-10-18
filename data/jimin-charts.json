@@ -1,7 +1,7 @@
 {
-  "updatedAt": "18/10/2026, 10:00:59 KST",
-  "totalEntries": 54,
-  "totalTop1": 3,
+  "updatedAt": "18/10/2026, 11:01:04 KST",
+  "totalEntries": 53,
+  "totalTop1": 4,
   "services": [
     "Apple Music",
     "Apple  Music",
@@ -136,20 +136,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 40,
+      "rank": 43,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Uzbekistan",
-      "rank": 99,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-9"
     },
     {
       "title": "Who",
@@ -255,6 +245,16 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
+      "country": "Uganda",
+      "rank": 1,
+      "isTop1": true,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
       "country": "Gambia",
       "rank": 2,
       "isTop1": false,
@@ -266,40 +266,40 @@
       "type": "single",
       "service": "iTunes",
       "country": "Jordan",
-      "rank": 49,
+      "rank": 53,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-15"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 57,
+      "rank": 58,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-32"
+      "movement24h": "-33"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 58,
+      "rank": 64,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-18"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Panama",
-      "rank": 91,
+      "rank": 92,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-19"
+      "movement24h": "-20"
     },
     {
       "title": "Be Mine",
@@ -360,16 +360,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Uzbekistan",
-      "rank": 100,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-9"
     }
   ],
   "albums": [
@@ -497,18 +487,18 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Micronesia",
-      "rank": 47,
+      "country": "Kyrgyzstan",
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Kyrgyzstan",
-      "rank": 50,
+      "country": "Micronesia",
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
@@ -805,20 +795,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 40,
+        "rank": 43,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Uzbekistan",
-        "rank": 99,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-9"
       },
       {
         "title": "Be Mine",
@@ -844,6 +824,16 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
+        "country": "Uganda",
+        "rank": 1,
+        "isTop1": true,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
         "country": "Gambia",
         "rank": 2,
         "isTop1": false,
@@ -855,40 +845,40 @@
         "type": "single",
         "service": "iTunes",
         "country": "Jordan",
-        "rank": 49,
+        "rank": 53,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-15"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 57,
+        "rank": 58,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-32"
+        "movement24h": "-33"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 58,
+        "rank": 64,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-18"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Panama",
-        "rank": 91,
+        "rank": 92,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-19"
+        "movement24h": "-20"
       },
       {
         "title": "Like Crazy",
@@ -931,16 +921,6 @@
         "movement24h": "="
       },
       {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Uzbekistan",
-        "rank": 100,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-9"
-      },
-      {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
@@ -954,18 +934,18 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Micronesia",
-        "rank": 47,
+        "country": "Kyrgyzstan",
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Kyrgyzstan",
-        "rank": 50,
+        "country": "Micronesia",
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
@@ -1113,11 +1093,12 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 7,
-      "totalTop1": 2,
+      "totalEntries": 8,
+      "totalTop1": 3,
       "countriesTop1": [
         "Niger",
-        "Saint Kitts and Nevis"
+        "Saint Kitts and Nevis",
+        "Uganda"
       ]
     },
     {
@@ -1150,7 +1131,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -1198,7 +1179,7 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
