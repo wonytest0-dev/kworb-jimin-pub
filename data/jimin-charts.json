@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/10/2026, 19:01:03 KST",
+  "updatedAt": "19/10/2026, 20:01:05 KST",
   "totalEntries": 52,
   "totalTop1": 3,
   "services": [
@@ -276,10 +276,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 74,
+      "rank": 75,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-8"
     },
     {
       "title": "Be Mine",
@@ -448,10 +448,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 12,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -528,10 +528,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 130,
+      "rank": 133,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-115"
+      "movement24h": "-118"
     }
   ],
   "byService": {
@@ -845,10 +845,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 74,
+        "rank": 75,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-8"
       },
       {
         "title": "Like Crazy",
@@ -955,10 +955,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 130,
+        "rank": 133,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-115"
+        "movement24h": "-118"
       }
     ],
     "Shazam": [
@@ -1051,10 +1051,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 12,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
