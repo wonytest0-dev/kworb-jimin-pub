@@ -1,5 +1,5 @@
 {
-  "updatedAt": "20/10/2026, 07:01:04 KST",
+  "updatedAt": "20/10/2026, 08:01:02 KST",
   "totalEntries": 51,
   "totalTop1": 3,
   "services": [
@@ -518,10 +518,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 97,
+      "rank": 108,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-71"
+      "movement24h": "-82"
     }
   ],
   "byService": {
@@ -935,10 +935,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 97,
+        "rank": 108,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-71"
+        "movement24h": "-82"
       }
     ],
     "Shazam": [
