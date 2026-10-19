@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19/10/2026, 15:01:00 KST",
-  "totalEntries": 53,
+  "updatedAt": "19/10/2026, 16:01:03 KST",
+  "totalEntries": 52,
   "totalTop1": 3,
   "services": [
     "Apple Music",
@@ -126,10 +126,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 42,
+      "rank": 41,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -139,17 +139,7 @@
       "rank": 169,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Shazam",
-      "country": "Singapore",
-      "rank": 188,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -451,7 +441,7 @@
       "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -538,10 +528,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 188,
+      "rank": 191,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-142"
+      "movement24h": "-145"
     }
   ],
   "byService": {
@@ -975,10 +965,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 188,
+        "rank": 191,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-142"
+        "movement24h": "-145"
       }
     ],
     "Shazam": [
@@ -987,10 +977,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 42,
+        "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "+1"
       },
       {
         "title": "Who",
@@ -1000,17 +990,7 @@
         "rank": 169,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Shazam",
-        "country": "Singapore",
-        "rank": 188,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       }
     ],
     "Deezer": [
@@ -1074,7 +1054,7 @@
         "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -1138,7 +1118,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
