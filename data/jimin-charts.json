@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/10/2026, 11:01:01 KST",
+  "updatedAt": "19/10/2026, 12:00:58 KST",
   "totalEntries": 53,
   "totalTop1": 3,
   "services": [
@@ -109,7 +109,7 @@
       "rank": 35,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-31"
+      "movement24h": "-30"
     },
     {
       "title": "Who",
@@ -199,7 +199,7 @@
       "rank": 1,
       "isTop1": true,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "+1"
     },
     {
       "title": "Be Mine",
@@ -239,7 +239,7 @@
       "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-6"
     },
     {
       "title": "Be Mine",
@@ -259,7 +259,7 @@
       "rank": 60,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "Be Mine",
@@ -269,7 +269,7 @@
       "rank": 60,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-7"
     },
     {
       "title": "Be Mine",
@@ -279,7 +279,7 @@
       "rank": 74,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-16"
+      "movement24h": "-9"
     },
     {
       "title": "Be Mine",
@@ -309,7 +309,7 @@
       "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-2"
     },
     {
       "title": "Like Crazy",
@@ -438,10 +438,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 24,
+      "rank": 20,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
@@ -471,7 +471,7 @@
       "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -518,7 +518,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 113,
+      "rank": 120,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -531,7 +531,7 @@
       "rank": 179,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-140"
+      "movement24h": "-138"
     },
     {
       "title": "MUSE",
@@ -541,7 +541,7 @@
       "rank": 200,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-99"
+      "movement24h": "-98"
     }
   ],
   "byService": {
@@ -758,7 +758,7 @@
         "rank": 35,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-31"
+        "movement24h": "-30"
       },
       {
         "title": "Be Mine",
@@ -768,7 +768,7 @@
         "rank": 1,
         "isTop1": true,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+1"
       },
       {
         "title": "Be Mine",
@@ -808,7 +808,7 @@
         "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-6"
       },
       {
         "title": "Be Mine",
@@ -828,7 +828,7 @@
         "rank": 60,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "Be Mine",
@@ -838,7 +838,7 @@
         "rank": 60,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-7"
       },
       {
         "title": "Be Mine",
@@ -848,7 +848,7 @@
         "rank": 74,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-16"
+        "movement24h": "-9"
       },
       {
         "title": "Like Crazy",
@@ -858,7 +858,7 @@
         "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-2"
       },
       {
         "title": "Like Crazy",
@@ -908,7 +908,7 @@
         "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -955,7 +955,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 113,
+        "rank": 120,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -968,7 +968,7 @@
         "rank": 179,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-140"
+        "movement24h": "-138"
       },
       {
         "title": "MUSE",
@@ -978,7 +978,7 @@
         "rank": 200,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-99"
+        "movement24h": "-98"
       }
     ],
     "Shazam": [
@@ -1071,10 +1071,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 24,
+        "rank": 20,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
