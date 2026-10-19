@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/10/2026, 17:00:58 KST",
+  "updatedAt": "19/10/2026, 18:01:05 KST",
   "totalEntries": 52,
   "totalTop1": 3,
   "services": [
@@ -119,7 +119,7 @@
       "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-35"
+      "movement24h": "-16"
     },
     {
       "title": "Who",
@@ -145,31 +145,31 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Argentina",
-      "rank": 5,
+      "country": "Algeria",
+      "rank": 3,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+20"
+      "movement24h": "NE"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Deezer",
       "country": "Malaysia",
-      "rank": 37,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "+13"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "country": "Japan",
-      "rank": 88,
+      "country": "Argentina",
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-39"
     },
     {
       "title": "Be Mine",
@@ -229,7 +229,7 @@
       "rank": 4,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "Be Mine",
@@ -239,27 +239,17 @@
       "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-3"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Namibia",
-      "rank": 9,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Jordan",
-      "rank": 60,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-6"
     },
     {
       "title": "Be Mine",
@@ -269,27 +259,47 @@
       "rank": 61,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Jordan",
+      "rank": 61,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-4"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 73,
+      "rank": 74,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-7"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Argentina",
+      "rank": 27,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "Deezer",
       "country": "Malaysia",
-      "rank": 36,
+      "rank": 29,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+19"
+      "movement24h": "+7"
     },
     {
       "title": "Like Crazy",
@@ -441,7 +451,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+8"
+      "movement24h": "+6"
     },
     {
       "title": "MUSE",
@@ -511,27 +521,17 @@
       "rank": 96,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-16"
+      "movement24h": "-14"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 122,
+      "rank": 130,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Russia",
-      "rank": 191,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-145"
+      "movement24h": "-115"
     }
   ],
   "byService": {
@@ -758,7 +758,7 @@
         "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-35"
+        "movement24h": "-16"
       },
       {
         "title": "Be Mine",
@@ -798,7 +798,7 @@
         "rank": 4,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "Be Mine",
@@ -808,27 +808,17 @@
         "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-3"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Namibia",
-        "rank": 9,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Jordan",
-        "rank": 60,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-6"
       },
       {
         "title": "Be Mine",
@@ -838,17 +828,27 @@
         "rank": 61,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Jordan",
+        "rank": 61,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-4"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 73,
+        "rank": 74,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-7"
       },
       {
         "title": "Like Crazy",
@@ -948,27 +948,17 @@
         "rank": 96,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-16"
+        "movement24h": "-14"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 122,
+        "rank": 130,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Russia",
-        "rank": 191,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-145"
+        "movement24h": "-115"
       }
     ],
     "Shazam": [
@@ -998,41 +988,51 @@
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Argentina",
-        "rank": 5,
+        "country": "Algeria",
+        "rank": 3,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+20"
+        "movement24h": "NE"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Deezer",
         "country": "Malaysia",
-        "rank": 37,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "+13"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Deezer",
-        "country": "Japan",
-        "rank": 88,
+        "country": "Argentina",
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-39"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Argentina",
+        "rank": 27,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "Deezer",
         "country": "Malaysia",
-        "rank": 36,
+        "rank": 29,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+19"
+        "movement24h": "+7"
       }
     ],
     "Apple Music": [
@@ -1054,7 +1054,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+8"
+        "movement24h": "+6"
       },
       {
         "title": "MUSE",
@@ -1142,7 +1142,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "Deezer",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -1174,7 +1174,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 8,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     }
