@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/10/2026, 13:01:13 KST",
+  "updatedAt": "19/10/2026, 14:01:04 KST",
   "totalEntries": 52,
   "totalTop1": 3,
   "services": [
@@ -478,10 +478,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Micronesia",
-      "rank": 47,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -498,10 +498,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 89,
+      "rank": 88,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -518,7 +518,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Spain",
-      "rank": 120,
+      "rank": 122,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -528,10 +528,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 182,
+      "rank": 188,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-141"
+      "movement24h": "-147"
     }
   ],
   "byService": {
@@ -905,10 +905,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Micronesia",
-        "rank": 47,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -925,10 +925,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 89,
+        "rank": 88,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -945,7 +945,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Spain",
-        "rank": 120,
+        "rank": 122,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -955,10 +955,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 182,
+        "rank": 188,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-141"
+        "movement24h": "-147"
       }
     ],
     "Shazam": [
