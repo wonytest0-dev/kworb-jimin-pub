@@ -1,5 +1,5 @@
 {
-  "updatedAt": "20/10/2026, 14:01:10 KST",
+  "updatedAt": "20/10/2026, 15:01:02 KST",
   "totalEntries": 51,
   "totalTop1": 3,
   "services": [
@@ -116,20 +116,20 @@
       "type": "single",
       "service": "iTunes",
       "country": "El Salvador",
-      "rank": 62,
+      "rank": 78,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-23"
+      "movement24h": "-37"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 105,
+      "rank": 144,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-124"
     },
     {
       "title": "Who",
@@ -246,10 +246,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Saint Kitts and Nevis",
-      "rank": 4,
+      "rank": 5,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -286,10 +286,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 79,
+      "rank": 82,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-8"
     },
     {
       "title": "Be Mine",
@@ -468,10 +468,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 18,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -491,7 +491,7 @@
       "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -511,7 +511,7 @@
       "rank": 88,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -521,7 +521,7 @@
       "rank": 127,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-92"
+      "movement24h": "-91"
     }
   ],
   "byService": {
@@ -745,20 +745,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "El Salvador",
-        "rank": 62,
+        "rank": 78,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-23"
+        "movement24h": "-37"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 105,
+        "rank": 144,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-124"
       },
       {
         "title": "Be Mine",
@@ -795,10 +795,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Saint Kitts and Nevis",
-        "rank": 4,
+        "rank": 5,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -835,10 +835,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 79,
+        "rank": 82,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-8"
       },
       {
         "title": "Be Mine",
@@ -908,7 +908,7 @@
         "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -928,7 +928,7 @@
         "rank": 88,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -938,7 +938,7 @@
         "rank": 127,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-92"
+        "movement24h": "-91"
       }
     ],
     "Shazam": [
@@ -1041,10 +1041,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 18,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+1"
       }
     ]
   },
