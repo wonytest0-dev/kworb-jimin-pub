@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21/10/2026, 03:01:03 KST",
-  "totalEntries": 51,
+  "updatedAt": "21/10/2026, 04:01:08 KST",
+  "totalEntries": 52,
   "totalTop1": 2,
   "services": [
     "Apple Music",
@@ -96,10 +96,10 @@
       "type": "single",
       "service": "Apple  Music",
       "country": "Belarus",
-      "rank": 49,
+      "rank": 50,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+78"
+      "movement24h": "-1"
     },
     {
       "title": "Who",
@@ -130,6 +130,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-32"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Vietnam",
+      "rank": 118,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -196,10 +206,10 @@
       "type": "single",
       "service": "Apple Music",
       "country": "Belarus",
-      "rank": 95,
+      "rank": 120,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-25"
     },
     {
       "title": "Be Mine",
@@ -461,17 +471,7 @@
       "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Mexico",
-      "rank": 37,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-6"
     },
     {
       "title": "MUSE",
@@ -492,6 +492,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Mexico",
+      "rank": 48,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -518,10 +528,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 137,
+      "rank": 144,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-56"
+      "movement24h": "-63"
     }
   ],
   "byService": {
@@ -723,10 +733,10 @@
         "type": "single",
         "service": "Apple  Music",
         "country": "Belarus",
-        "rank": 49,
+        "rank": 50,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+78"
+        "movement24h": "-1"
       }
     ],
     "iTunes": [
@@ -759,6 +769,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-32"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Vietnam",
+        "rank": 118,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Be Mine",
@@ -904,16 +924,6 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Mexico",
-        "rank": 37,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Kyrgyzstan",
         "rank": 45,
         "isTop1": false,
@@ -929,6 +939,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Mexico",
+        "rank": 48,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -955,10 +975,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 137,
+        "rank": 144,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-56"
+        "movement24h": "-63"
       }
     ],
     "Shazam": [
@@ -1021,10 +1041,10 @@
         "type": "single",
         "service": "Apple Music",
         "country": "Belarus",
-        "rank": 95,
+        "rank": 120,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-25"
       },
       {
         "title": "MUSE",
@@ -1044,7 +1064,7 @@
         "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-6"
       }
     ]
   },
@@ -1089,7 +1109,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
