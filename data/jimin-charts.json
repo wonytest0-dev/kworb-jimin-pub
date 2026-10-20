@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20/10/2026, 15:01:02 KST",
-  "totalEntries": 51,
+  "updatedAt": "20/10/2026, 16:01:05 KST",
+  "totalEntries": 50,
   "totalTop1": 3,
   "services": [
     "Apple Music",
@@ -116,40 +116,30 @@
       "type": "single",
       "service": "iTunes",
       "country": "El Salvador",
-      "rank": 78,
+      "rank": 77,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-37"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Chile",
-      "rank": 144,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-124"
+      "movement24h": "-36"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 41,
+      "rank": 39,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+2"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Shazam",
       "country": "Bulgaria",
-      "rank": 173,
+      "rank": 186,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-17"
     },
     {
       "title": "Who",
@@ -471,7 +461,7 @@
       "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -745,20 +735,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "El Salvador",
-        "rank": 78,
+        "rank": 77,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-37"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Chile",
-        "rank": 144,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-124"
+        "movement24h": "-36"
       },
       {
         "title": "Be Mine",
@@ -947,20 +927,20 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 41,
+        "rank": 39,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+2"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Shazam",
         "country": "Bulgaria",
-        "rank": 173,
+        "rank": 186,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-17"
       }
     ],
     "Deezer": [
@@ -1044,7 +1024,7 @@
         "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "-2"
       }
     ]
   },
@@ -1090,7 +1070,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
