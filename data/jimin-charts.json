@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/10/2026, 00:01:07 KST",
+  "updatedAt": "21/10/2026, 01:01:00 KST",
   "totalEntries": 51,
   "totalTop1": 2,
   "services": [
@@ -125,10 +125,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "El Salvador",
-      "rank": 79,
+      "rank": 80,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-33"
+      "movement24h": "-34"
     },
     {
       "title": "Who",
@@ -255,17 +255,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Namibia",
-      "rank": 24,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-8"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Peru",
-      "rank": 27,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -457,10 +457,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 19,
+      "rank": 25,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-7"
     },
     {
       "title": "MUSE",
@@ -752,10 +752,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 19,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-7"
       }
     ],
     "iTunes": [
@@ -784,10 +784,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "El Salvador",
-        "rank": 79,
+        "rank": 80,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-33"
+        "movement24h": "-34"
       },
       {
         "title": "Be Mine",
@@ -844,17 +844,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Namibia",
-        "rank": 24,
+        "rank": 25,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-8"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Peru",
-        "rank": 27,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
