@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/10/2026, 06:01:02 KST",
+  "updatedAt": "21/10/2026, 07:01:12 KST",
   "totalEntries": 52,
   "totalTop1": 3,
   "services": [
@@ -266,7 +266,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Peru",
-      "rank": 47,
+      "rank": 49,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -296,10 +296,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Botswana",
-      "rank": 97,
+      "rank": 100,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-13"
     },
     {
       "title": "Be Mine",
@@ -835,7 +835,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Peru",
-        "rank": 47,
+        "rank": 49,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -865,10 +865,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Botswana",
-        "rank": 97,
+        "rank": 100,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-13"
       },
       {
         "title": "Like Crazy",
