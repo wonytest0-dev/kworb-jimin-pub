@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/10/2026, 11:01:00 KST",
+  "updatedAt": "21/10/2026, 12:00:56 KST",
   "totalEntries": 51,
   "totalTop1": 3,
   "services": [
@@ -119,14 +119,14 @@
       "rank": 90,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-33"
+      "movement24h": "-28"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 160,
+      "rank": 161,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -209,7 +209,7 @@
       "rank": 1,
       "isTop1": true,
       "movementLive": null,
-      "movement24h": "+16"
+      "movement24h": "+20"
     },
     {
       "title": "Be Mine",
@@ -259,7 +259,7 @@
       "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-2"
     },
     {
       "title": "Be Mine",
@@ -279,7 +279,7 @@
       "rank": 75,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-6"
     },
     {
       "title": "Be Mine",
@@ -498,7 +498,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Mexico",
-      "rank": 77,
+      "rank": 86,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -521,7 +521,7 @@
       "rank": 174,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-53"
+      "movement24h": "-49"
     }
   ],
   "byService": {
@@ -748,14 +748,14 @@
         "rank": 90,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-33"
+        "movement24h": "-28"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 160,
+        "rank": 161,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -768,7 +768,7 @@
         "rank": 1,
         "isTop1": true,
         "movementLive": null,
-        "movement24h": "+16"
+        "movement24h": "+20"
       },
       {
         "title": "Be Mine",
@@ -818,7 +818,7 @@
         "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-2"
       },
       {
         "title": "Be Mine",
@@ -838,7 +838,7 @@
         "rank": 75,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-6"
       },
       {
         "title": "Be Mine",
@@ -935,7 +935,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Mexico",
-        "rank": 77,
+        "rank": 86,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -958,7 +958,7 @@
         "rank": 174,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-53"
+        "movement24h": "-49"
       }
     ],
     "Shazam": [
