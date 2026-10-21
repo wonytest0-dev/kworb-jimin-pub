@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21/10/2026, 18:01:05 KST",
-  "totalEntries": 48,
+  "updatedAt": "21/10/2026, 19:01:05 KST",
+  "totalEntries": 49,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -100,6 +100,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Vietnam",
+      "rank": 66,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -266,10 +276,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Peru",
-      "rank": 98,
+      "rank": 122,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-73"
+      "movement24h": "-97"
     },
     {
       "title": "Be Mine",
@@ -704,6 +714,16 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
+        "country": "Vietnam",
+        "rank": 66,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
         "country": "El Salvador",
         "rank": 100,
         "isTop1": false,
@@ -795,10 +815,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Peru",
-        "rank": 98,
+        "rank": 122,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-73"
+        "movement24h": "-97"
       },
       {
         "title": "Like Crazy",
@@ -1019,7 +1039,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
