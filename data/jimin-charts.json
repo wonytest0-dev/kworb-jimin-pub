@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21/10/2026, 15:01:01 KST",
-  "totalEntries": 51,
+  "updatedAt": "21/10/2026, 16:01:03 KST",
+  "totalEntries": 50,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -126,7 +126,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 188,
+      "rank": 189,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -136,20 +136,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 39,
+      "rank": 41,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Shazam",
-      "country": "Bulgaria",
-      "rank": 186,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-13"
+      "movement24h": "-2"
     },
     {
       "title": "Who",
@@ -356,7 +346,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 133,
+      "rank": 134,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -458,10 +448,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 28,
+      "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -508,7 +498,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Mexico",
-      "rank": 110,
+      "rank": 153,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -755,7 +745,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 188,
+        "rank": 189,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -895,7 +885,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 133,
+        "rank": 134,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -945,7 +935,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Mexico",
-        "rank": 110,
+        "rank": 153,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -967,20 +957,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 39,
+        "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Shazam",
-        "country": "Bulgaria",
-        "rank": 186,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-13"
+        "movement24h": "-2"
       }
     ],
     "Deezer": [
@@ -1041,10 +1021,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 28,
+        "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "+3"
       }
     ]
   },
@@ -1087,7 +1067,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
