@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/10/2026, 00:01:09 KST",
+  "updatedAt": "22/10/2026, 01:01:09 KST",
   "totalEntries": 47,
   "totalTop1": 1,
   "services": [
@@ -106,7 +106,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Vietnam",
-      "rank": 119,
+      "rank": 131,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -256,20 +256,20 @@
       "type": "single",
       "service": "iTunes",
       "country": "Sri Lanka",
-      "rank": 98,
+      "rank": 99,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-13"
+      "movement24h": "-14"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Peru",
-      "rank": 148,
+      "rank": 150,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-120"
+      "movement24h": "-122"
     },
     {
       "title": "Be Mine",
@@ -431,7 +431,7 @@
       "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+7"
     },
     {
       "title": "MUSE",
@@ -478,10 +478,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Poland",
-      "rank": 195,
+      "rank": 197,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-65"
+      "movement24h": "-67"
     }
   ],
   "byService": {
@@ -695,7 +695,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Vietnam",
-        "rank": 119,
+        "rank": 131,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -775,20 +775,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "Sri Lanka",
-        "rank": 98,
+        "rank": 99,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-13"
+        "movement24h": "-14"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Peru",
-        "rank": 148,
+        "rank": 150,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-120"
+        "movement24h": "-122"
       },
       {
         "title": "Like Crazy",
@@ -875,10 +875,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Poland",
-        "rank": 195,
+        "rank": 197,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-65"
+        "movement24h": "-67"
       }
     ],
     "Shazam": [
@@ -964,7 +964,7 @@
         "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+7"
       }
     ]
   },
