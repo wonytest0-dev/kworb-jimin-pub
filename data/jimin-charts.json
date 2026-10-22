@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 04:01:02 KST",
+  "updatedAt": "23/10/2026, 05:01:04 KST",
   "totalEntries": 48,
   "totalTop1": 2,
   "services": [
@@ -256,7 +256,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Kazakhstan",
-      "rank": 67,
+      "rank": 83,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -775,7 +775,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Kazakhstan",
-        "rank": 67,
+        "rank": 83,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
