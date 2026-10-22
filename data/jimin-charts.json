@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22/10/2026, 18:02:06 KST",
-  "totalEntries": 46,
+  "updatedAt": "22/10/2026, 19:01:04 KST",
+  "totalEntries": 45,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Namibia",
-      "rank": 11,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-11"
     },
     {
       "title": "Be Mine",
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -462,16 +462,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Switzerland",
-      "rank": 196,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -725,10 +715,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Namibia",
-        "rank": 11,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-11"
       },
       {
         "title": "Be Mine",
@@ -839,16 +829,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Switzerland",
-        "rank": 196,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -931,10 +911,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -1059,7 +1039,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
