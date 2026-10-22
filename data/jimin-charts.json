@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 06:10:29 KST",
+  "updatedAt": "23/10/2026, 07:01:05 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 2,
+      "rank": 3,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -256,10 +256,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Jordan",
-      "rank": 86,
+      "rank": 88,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-7"
     },
     {
       "title": "Be Mine",
@@ -306,10 +306,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 34,
+      "rank": 35,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -448,10 +448,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 43,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -725,10 +725,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 2,
+        "rank": 3,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -765,10 +765,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Jordan",
-        "rank": 86,
+        "rank": 88,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-7"
       },
       {
         "title": "Like Crazy",
@@ -795,10 +795,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 34,
+        "rank": 35,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -815,10 +815,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 43,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
