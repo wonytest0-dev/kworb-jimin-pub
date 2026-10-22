@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/10/2026, 17:02:12 KST",
+  "updatedAt": "22/10/2026, 18:02:06 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -129,7 +129,7 @@
       "rank": 3,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -139,7 +139,7 @@
       "rank": 5,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -149,7 +149,7 @@
       "rank": 72,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "="
     },
     {
       "title": "Be Mine",
@@ -239,7 +239,7 @@
       "rank": 30,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -259,7 +259,7 @@
       "rank": 92,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-65"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -279,7 +279,7 @@
       "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-2"
     },
     {
       "title": "Like Crazy",
@@ -748,7 +748,7 @@
         "rank": 30,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -768,7 +768,7 @@
         "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-2"
       },
       {
         "title": "Like Crazy",
@@ -872,7 +872,7 @@
         "rank": 3,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "Who",
@@ -882,7 +882,7 @@
         "rank": 5,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "Who",
@@ -892,7 +892,7 @@
         "rank": 72,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "="
       },
       {
         "title": "Be Mine",
@@ -902,7 +902,7 @@
         "rank": 92,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-65"
+        "movement24h": "="
       }
     ],
     "Apple Music": [
