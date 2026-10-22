@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/10/2026, 16:01:02 KST",
+  "updatedAt": "22/10/2026, 17:02:12 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -468,7 +468,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Switzerland",
-      "rank": 193,
+      "rank": 196,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -845,7 +845,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Switzerland",
-        "rank": 193,
+        "rank": 196,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
