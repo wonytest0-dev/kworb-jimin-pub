@@ -1,5 +1,5 @@
 {
-  "updatedAt": "24/10/2026, 00:06:26 KST",
+  "updatedAt": "24/10/2026, 01:01:13 KST",
   "totalEntries": 45,
   "totalTop1": 1,
   "services": [
@@ -116,7 +116,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Greece",
-      "rank": 27,
+      "rank": 35,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -236,20 +236,20 @@
       "type": "single",
       "service": "iTunes",
       "country": "Namibia",
-      "rank": 72,
+      "rank": 73,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-57"
+      "movement24h": "-58"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Jordan",
-      "rank": 97,
+      "rank": 98,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-13"
     },
     {
       "title": "Be Mine",
@@ -458,10 +458,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 87,
+      "rank": 88,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     }
   ],
   "byService": {
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Greece",
-        "rank": 27,
+        "rank": 35,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -745,20 +745,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "Namibia",
-        "rank": 72,
+        "rank": 73,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-57"
+        "movement24h": "-58"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Jordan",
-        "rank": 97,
+        "rank": 98,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-13"
       },
       {
         "title": "Like Crazy",
@@ -835,10 +835,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 87,
+        "rank": 88,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       }
     ],
     "Shazam": [
