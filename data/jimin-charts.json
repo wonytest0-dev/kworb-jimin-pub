@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 18:01:09 KST",
+  "updatedAt": "23/10/2026, 19:01:03 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
@@ -246,10 +246,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Namibia",
-      "rank": 71,
+      "rank": 72,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-58"
+      "movement24h": "-59"
     },
     {
       "title": "Be Mine",
@@ -755,10 +755,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Namibia",
-        "rank": 71,
+        "rank": 72,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-58"
+        "movement24h": "-59"
       },
       {
         "title": "Be Mine",
