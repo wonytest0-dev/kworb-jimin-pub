@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 14:09:27 KST",
+  "updatedAt": "23/10/2026, 15:01:04 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
@@ -226,10 +226,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Saint Kitts and Nevis",
-      "rank": 15,
+      "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -249,17 +249,17 @@
       "rank": 71,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-62"
+      "movement24h": "-60"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Jordan",
-      "rank": 90,
+      "rank": 97,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-12"
     },
     {
       "title": "Be Mine",
@@ -289,7 +289,7 @@
       "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -735,10 +735,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Saint Kitts and Nevis",
-        "rank": 15,
+        "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -758,17 +758,17 @@
         "rank": 71,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-62"
+        "movement24h": "-60"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Jordan",
-        "rank": 90,
+        "rank": 97,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-12"
       },
       {
         "title": "Like Crazy",
@@ -778,7 +778,7 @@
         "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
