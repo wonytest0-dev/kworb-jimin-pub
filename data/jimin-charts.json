@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 12:07:51 KST",
+  "updatedAt": "23/10/2026, 13:01:05 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
@@ -236,20 +236,20 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uganda",
-      "rank": 33,
+      "rank": 38,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-8"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
       "country": "Namibia",
-      "rank": 39,
+      "rank": 71,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-30"
+      "movement24h": "-62"
     },
     {
       "title": "Be Mine",
@@ -745,20 +745,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uganda",
-        "rank": 33,
+        "rank": 38,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-8"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Namibia",
-        "rank": 39,
+        "rank": 71,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-30"
+        "movement24h": "-62"
       },
       {
         "title": "Be Mine",
