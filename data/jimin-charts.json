@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 17:10:45 KST",
+  "updatedAt": "23/10/2026, 18:01:09 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
@@ -249,7 +249,7 @@
       "rank": 71,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-60"
+      "movement24h": "-58"
     },
     {
       "title": "Be Mine",
@@ -431,7 +431,7 @@
       "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -758,7 +758,7 @@
         "rank": 71,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-60"
+        "movement24h": "-58"
       },
       {
         "title": "Be Mine",
@@ -954,7 +954,7 @@
         "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
