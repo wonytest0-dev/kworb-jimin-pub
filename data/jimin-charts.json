@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/10/2026, 08:01:01 KST",
+  "updatedAt": "23/10/2026, 09:01:10 KST",
   "totalEntries": 47,
   "totalTop1": 2,
   "services": [
@@ -235,16 +235,6 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Namibia",
-      "rank": 33,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-25"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
       "country": "Uganda",
       "rank": 33,
       "isTop1": false,
@@ -255,11 +245,21 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "country": "Jordan",
-      "rank": 88,
+      "country": "Namibia",
+      "rank": 34,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-25"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Jordan",
+      "rank": 89,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-6"
     },
     {
       "title": "Be Mine",
@@ -431,7 +431,7 @@
       "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -744,16 +744,6 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Namibia",
-        "rank": 33,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-25"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
         "country": "Uganda",
         "rank": 33,
         "isTop1": false,
@@ -764,11 +754,21 @@
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
-        "country": "Jordan",
-        "rank": 88,
+        "country": "Namibia",
+        "rank": 34,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-25"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Jordan",
+        "rank": 89,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-6"
       },
       {
         "title": "Like Crazy",
@@ -954,7 +954,7 @@
         "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
