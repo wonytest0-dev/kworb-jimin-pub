@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/10/2026, 01:01:13 KST",
-  "totalEntries": 45,
+  "updatedAt": "24/10/2026, 02:00:59 KST",
+  "totalEntries": 46,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -117,6 +117,16 @@
       "service": "iTunes",
       "country": "Greece",
       "rank": 35,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Russia",
+      "rank": 187,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -691,6 +701,16 @@
         "movement24h": "NE"
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Russia",
+        "rank": 187,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -959,7 +979,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
