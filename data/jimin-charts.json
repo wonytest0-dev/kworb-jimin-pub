@@ -1,5 +1,5 @@
 {
-  "updatedAt": "24/10/2026, 15:01:03 KST",
+  "updatedAt": "24/10/2026, 16:01:01 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -116,7 +116,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 114,
+      "rank": 115,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -126,10 +126,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 46,
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Saint Kitts and Nevis",
-      "rank": 16,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 22,
+      "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "-10"
     },
     {
       "title": "MUSE",
@@ -645,7 +645,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 114,
+        "rank": 115,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -685,10 +685,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Saint Kitts and Nevis",
-        "rank": 16,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -797,10 +797,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 46,
+        "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "+1"
       }
     ],
     "Deezer": [
@@ -871,10 +871,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 22,
+        "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "-10"
       },
       {
         "title": "MUSE",
