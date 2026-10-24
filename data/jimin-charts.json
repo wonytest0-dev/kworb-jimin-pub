@@ -1,5 +1,5 @@
 {
-  "updatedAt": "24/10/2026, 13:01:03 KST",
+  "updatedAt": "24/10/2026, 14:01:00 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Antigua and Barbuda",
-      "rank": 5,
+      "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-4"
     },
     {
       "title": "Be Mine",
@@ -398,10 +398,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 30,
+      "rank": 31,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-8"
     },
     {
       "title": "MUSE",
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Antigua and Barbuda",
-        "rank": 5,
+        "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-4"
       },
       {
         "title": "Be Mine",
@@ -891,10 +891,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 30,
+        "rank": 31,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-8"
       },
       {
         "title": "MUSE",
