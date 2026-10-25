@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/10/2026, 05:01:00 KST",
+  "updatedAt": "26/10/2026, 06:00:56 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -340,7 +340,7 @@
       "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -350,7 +350,7 @@
       "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+19"
+      "movement24h": "+16"
     },
     {
       "title": "MUSE",
@@ -380,7 +380,7 @@
       "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
@@ -715,7 +715,7 @@
         "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
@@ -791,7 +791,7 @@
         "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
@@ -801,7 +801,7 @@
         "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+19"
+        "movement24h": "+16"
       },
       {
         "title": "MUSE",
