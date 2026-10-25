@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/10/2026, 07:00:59 KST",
+  "updatedAt": "26/10/2026, 08:01:18 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -195,10 +195,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Antigua and Barbuda",
-      "rank": 8,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-4"
     },
     {
       "title": "Be Mine",
@@ -642,10 +642,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Antigua and Barbuda",
-        "rank": 8,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-4"
       },
       {
         "title": "Be Mine",
