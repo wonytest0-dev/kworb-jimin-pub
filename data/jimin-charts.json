@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/10/2026, 08:01:04 KST",
+  "updatedAt": "25/10/2026, 09:01:33 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -209,7 +209,7 @@
       "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-2"
     },
     {
       "title": "Be Mine",
@@ -229,7 +229,7 @@
       "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -239,7 +239,7 @@
       "rank": 98,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-25"
+      "movement24h": "-23"
     },
     {
       "title": "Like Crazy",
@@ -381,7 +381,7 @@
       "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -401,7 +401,7 @@
       "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -658,7 +658,7 @@
         "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-2"
       },
       {
         "title": "Be Mine",
@@ -678,7 +678,7 @@
         "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -688,7 +688,7 @@
         "rank": 98,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-25"
+        "movement24h": "-23"
       },
       {
         "title": "Like Crazy",
@@ -738,7 +738,7 @@
         "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -854,7 +854,7 @@
         "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
