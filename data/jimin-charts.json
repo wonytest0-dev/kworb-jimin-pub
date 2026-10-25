@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/10/2026, 23:00:59 KST",
+  "updatedAt": "26/10/2026, 00:01:01 KST",
   "totalEntries": 39,
   "totalTop1": 0,
   "services": [
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 3,
+      "rank": 4,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -246,10 +246,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 31,
+      "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -605,10 +605,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 3,
+        "rank": 4,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -675,10 +675,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 31,
+        "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
