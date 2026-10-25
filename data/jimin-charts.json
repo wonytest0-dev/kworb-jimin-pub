@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/10/2026, 04:01:04 KST",
-  "totalEntries": 39,
+  "updatedAt": "26/10/2026, 05:01:00 KST",
+  "totalEntries": 40,
   "totalTop1": 0,
   "services": [
     "Apple  Music",
@@ -106,6 +106,16 @@
       "service": "iTunes",
       "country": "Ukraine",
       "rank": 49,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Russia",
+      "rank": 106,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -327,10 +337,10 @@
       "type": "album",
       "service": "Apple  Music",
       "country": "Norway",
-      "rank": 4,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -347,10 +357,10 @@
       "type": "album",
       "service": "Apple  Music",
       "country": "Belarus",
-      "rank": 19,
+      "rank": 136,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-117"
     },
     {
       "title": "MUSE",
@@ -598,6 +608,16 @@
         "movement24h": "NE"
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Russia",
+        "rank": 106,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -768,10 +788,10 @@
         "type": "album",
         "service": "Apple  Music",
         "country": "Norway",
-        "rank": 4,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -788,10 +808,10 @@
         "type": "album",
         "service": "Apple  Music",
         "country": "Belarus",
-        "rank": 19,
+        "rank": 136,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-117"
       },
       {
         "title": "MUSE",
@@ -818,7 +838,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
