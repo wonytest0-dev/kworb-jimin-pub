@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/10/2026, 11:00:59 KST",
+  "updatedAt": "25/10/2026, 12:01:01 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -209,7 +209,7 @@
       "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -239,7 +239,7 @@
       "rank": 99,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-24"
+      "movement24h": "-20"
     },
     {
       "title": "Like Crazy",
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 11,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+21"
+      "movement24h": "+14"
     },
     {
       "title": "MUSE",
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 28,
+      "rank": 22,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+9"
     },
     {
       "title": "MUSE",
@@ -658,7 +658,7 @@
         "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -688,7 +688,7 @@
         "rank": 99,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-24"
+        "movement24h": "-20"
       },
       {
         "title": "Like Crazy",
@@ -831,10 +831,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 11,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+21"
+        "movement24h": "+14"
       },
       {
         "title": "MUSE",
@@ -851,10 +851,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 28,
+        "rank": 22,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+9"
       },
       {
         "title": "MUSE",
