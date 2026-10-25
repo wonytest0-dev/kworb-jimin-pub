@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/10/2026, 16:01:02 KST",
+  "updatedAt": "25/10/2026, 17:01:08 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 45,
+      "rank": 38,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+7"
     },
     {
       "title": "Who",
@@ -206,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Antigua and Barbuda",
-      "rank": 7,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-2"
     },
     {
       "title": "Be Mine",
@@ -655,10 +655,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Antigua and Barbuda",
-        "rank": 7,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-2"
       },
       {
         "title": "Be Mine",
@@ -777,10 +777,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 45,
+        "rank": 38,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+7"
       }
     ],
     "Deezer": [
