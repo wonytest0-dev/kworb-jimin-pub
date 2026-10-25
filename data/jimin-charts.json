@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/10/2026, 10:01:06 KST",
+  "updatedAt": "25/10/2026, 11:00:59 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -276,10 +276,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 32,
+      "rank": 31,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -398,10 +398,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 46,
+      "rank": 41,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
@@ -715,10 +715,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 32,
+        "rank": 31,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -735,10 +735,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 46,
+        "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
