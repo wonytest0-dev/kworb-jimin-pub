@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/10/2026, 18:12:05 KST",
+  "updatedAt": "26/10/2026, 19:01:02 KST",
   "totalEntries": 39,
   "totalTop1": 0,
   "services": [
@@ -105,7 +105,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Ukraine",
-      "rank": 91,
+      "rank": 99,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -205,10 +205,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uganda",
-      "rank": 45,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-4"
     },
     {
       "title": "Like Crazy",
@@ -592,7 +592,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Ukraine",
-        "rank": 91,
+        "rank": 99,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -642,10 +642,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uganda",
-        "rank": 45,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-4"
       },
       {
         "title": "Like Crazy",
