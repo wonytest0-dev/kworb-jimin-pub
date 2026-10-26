@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/10/2026, 08:01:18 KST",
+  "updatedAt": "26/10/2026, 09:01:10 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -105,7 +105,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Ukraine",
-      "rank": 60,
+      "rank": 74,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -115,7 +115,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 123,
+      "rank": 128,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -188,7 +188,7 @@
       "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -602,7 +602,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Ukraine",
-        "rank": 60,
+        "rank": 74,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -612,7 +612,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 123,
+        "rank": 128,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -635,7 +635,7 @@
         "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
