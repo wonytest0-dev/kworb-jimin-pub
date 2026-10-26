@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/10/2026, 11:01:00 KST",
+  "updatedAt": "26/10/2026, 12:02:41 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -188,7 +188,7 @@
       "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-3"
     },
     {
       "title": "Be Mine",
@@ -258,7 +258,7 @@
       "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -340,7 +340,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -380,7 +380,7 @@
       "rank": 38,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+8"
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
@@ -635,7 +635,7 @@
         "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-3"
       },
       {
         "title": "Be Mine",
@@ -695,7 +695,7 @@
         "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -715,7 +715,7 @@
         "rank": 38,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+8"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
@@ -791,7 +791,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
