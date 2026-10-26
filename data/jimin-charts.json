@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/10/2026, 14:01:04 KST",
+  "updatedAt": "26/10/2026, 15:01:29 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -105,7 +105,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Ukraine",
-      "rank": 87,
+      "rank": 88,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -115,7 +115,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 148,
+      "rank": 156,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -337,10 +337,10 @@
       "type": "album",
       "service": "Apple  Music",
       "country": "Russia",
-      "rank": 8,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+14"
+      "movement24h": "+15"
     },
     {
       "title": "MUSE",
@@ -350,7 +350,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -602,7 +602,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Ukraine",
-        "rank": 87,
+        "rank": 88,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -612,7 +612,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 148,
+        "rank": 156,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -788,10 +788,10 @@
         "type": "album",
         "service": "Apple  Music",
         "country": "Russia",
-        "rank": 8,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+14"
+        "movement24h": "+15"
       },
       {
         "title": "MUSE",
@@ -801,7 +801,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
