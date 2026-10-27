@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/10/2026, 06:00:57 KST",
+  "updatedAt": "28/10/2026, 07:01:04 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Malaysia",
-      "rank": 162,
+      "rank": 188,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -226,10 +226,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Antigua and Barbuda",
-      "rank": 11,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -428,10 +428,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Micronesia",
-      "rank": 47,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Malaysia",
-        "rank": 162,
+        "rank": 188,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -705,10 +705,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Antigua and Barbuda",
-        "rank": 11,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Be Mine",
@@ -795,10 +795,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Micronesia",
-        "rank": 47,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
