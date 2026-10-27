@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/10/2026, 07:01:04 KST",
+  "updatedAt": "28/10/2026, 08:01:30 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -236,10 +236,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Saint Kitts and Nevis",
-      "rank": 22,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-5"
     },
     {
       "title": "Be Mine",
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 20,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-11"
     },
     {
       "title": "MUSE",
@@ -408,20 +408,20 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 69,
+      "rank": 138,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-50"
+      "movement24h": "-119"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 39,
+      "rank": 41,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -715,10 +715,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Saint Kitts and Nevis",
-        "rank": 22,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-5"
       },
       {
         "title": "Be Mine",
@@ -785,10 +785,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 39,
+        "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -881,10 +881,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 20,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-11"
       },
       {
         "title": "MUSE",
@@ -901,10 +901,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 69,
+        "rank": 138,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-50"
+        "movement24h": "-119"
       }
     ]
   },
