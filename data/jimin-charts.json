@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28/10/2026, 02:10:38 KST",
-  "totalEntries": 46,
+  "updatedAt": "28/10/2026, 03:01:06 KST",
+  "totalEntries": 45,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -119,7 +119,7 @@
       "rank": 94,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 56,
+      "rank": 57,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -155,18 +155,8 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Saudi Arabia",
-      "rank": 96,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-72"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Malaysia",
-      "rank": 110,
+      "rank": 135,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -266,10 +256,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 28,
+      "rank": 29,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-17"
+      "movement24h": "-18"
     },
     {
       "title": "Be Mine",
@@ -686,7 +676,7 @@
         "rank": 94,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "="
       },
       {
         "title": "Who",
@@ -715,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 56,
+        "rank": 57,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -724,18 +714,8 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Saudi Arabia",
-        "rank": 96,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-72"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Malaysia",
-        "rank": 110,
+        "rank": 135,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -775,10 +755,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 28,
+        "rank": 29,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-17"
+        "movement24h": "-18"
       },
       {
         "title": "Be Mine",
@@ -969,7 +949,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
