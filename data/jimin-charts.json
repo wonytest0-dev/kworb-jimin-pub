@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28/10/2026, 16:01:03 KST",
-  "totalEntries": 42,
+  "updatedAt": "28/10/2026, 17:01:24 KST",
+  "totalEntries": 44,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -134,12 +134,32 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Shazam",
-      "country": "Japan",
-      "rank": 33,
+      "service": "iTunes",
+      "country": "Gambia",
+      "rank": 70,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "-14"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Shazam",
+      "country": "Japan",
+      "rank": 41,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-5"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Shazam",
+      "country": "Bulgaria",
+      "rank": 174,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -661,6 +681,16 @@
         "movement24h": "="
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Gambia",
+        "rank": 70,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-14"
+      },
+      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -787,10 +817,20 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 33,
+        "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "-5"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Shazam",
+        "country": "Bulgaria",
+        "rank": 174,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Deezer": [
@@ -889,7 +929,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -897,7 +937,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
