@@ -1,5 +1,5 @@
 {
-  "updatedAt": "29/10/2026, 02:01:03 KST",
+  "updatedAt": "29/10/2026, 03:01:13 KST",
   "totalEntries": 45,
   "totalTop1": 0,
   "services": [
@@ -126,7 +126,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 3,
+      "rank": 4,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -149,7 +149,7 @@
       "rank": 70,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-13"
     },
     {
       "title": "Who",
@@ -266,10 +266,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Uganda",
-      "rank": 65,
+      "rank": 66,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-14"
+      "movement24h": "-15"
     },
     {
       "title": "Like Crazy",
@@ -411,7 +411,7 @@
       "rank": 69,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+80"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -421,7 +421,7 @@
       "rank": 98,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-32"
+      "movement24h": "-29"
     },
     {
       "title": "MUSE",
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 3,
+        "rank": 4,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -708,7 +708,7 @@
         "rank": 70,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-13"
       },
       {
         "title": "Be Mine",
@@ -745,10 +745,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Uganda",
-        "rank": 65,
+        "rank": 66,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-14"
+        "movement24h": "-15"
       },
       {
         "title": "Like Crazy",
@@ -914,7 +914,7 @@
         "rank": 69,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+80"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -924,7 +924,7 @@
         "rank": 98,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-32"
+        "movement24h": "-29"
       }
     ]
   },
