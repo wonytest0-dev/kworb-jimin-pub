@@ -1,5 +1,5 @@
 {
-  "updatedAt": "29/10/2026, 05:01:04 KST",
+  "updatedAt": "29/10/2026, 06:00:56 KST",
   "totalEntries": 45,
   "totalTop1": 0,
   "services": [
@@ -126,7 +126,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 4,
+      "rank": 8,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -149,7 +149,7 @@
       "rank": 70,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-13"
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -239,7 +239,7 @@
       "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Be Mine",
@@ -401,7 +401,7 @@
       "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -421,7 +421,7 @@
       "rank": 112,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-43"
+      "movement24h": "+26"
     },
     {
       "title": "MUSE",
@@ -431,7 +431,7 @@
       "rank": 41,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -451,7 +451,7 @@
       "rank": 62,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -461,7 +461,7 @@
       "rank": 83,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     }
   ],
   "byService": {
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 4,
+        "rank": 8,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -708,7 +708,7 @@
         "rank": 70,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-13"
+        "movement24h": "NE"
       },
       {
         "title": "Be Mine",
@@ -728,7 +728,7 @@
         "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Be Mine",
@@ -798,7 +798,7 @@
         "rank": 41,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -818,7 +818,7 @@
         "rank": 62,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -828,7 +828,7 @@
         "rank": 83,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       }
     ],
     "Shazam": [
@@ -904,7 +904,7 @@
         "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -924,7 +924,7 @@
         "rank": 112,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-43"
+        "movement24h": "+26"
       }
     ]
   },
