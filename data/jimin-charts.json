@@ -1,5 +1,5 @@
 {
-  "updatedAt": "29/10/2026, 21:01:07 KST",
+  "updatedAt": "29/10/2026, 22:00:58 KST",
   "totalEntries": 41,
   "totalTop1": 0,
   "services": [
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 17,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -821,10 +821,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 17,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
