@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/10/2026, 18:01:03 KST",
-  "totalEntries": 42,
+  "updatedAt": "29/10/2026, 19:01:09 KST",
+  "totalEntries": 41,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 14,
+      "rank": 18,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -166,10 +166,10 @@
       "type": "single",
       "service": "Deezer",
       "country": "Argentina",
-      "rank": 4,
+      "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+32"
+      "movement24h": "+9"
     },
     {
       "title": "Be Mine",
@@ -230,16 +230,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-4"
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Deezer",
-      "country": "Argentina",
-      "rank": 41,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Like Crazy",
@@ -665,7 +655,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 14,
+        "rank": 18,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -799,20 +789,10 @@
         "type": "single",
         "service": "Deezer",
         "country": "Argentina",
-        "rank": 4,
+        "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+32"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Argentina",
-        "rank": 41,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "+9"
       }
     ],
     "Apple Music": [
@@ -930,14 +910,6 @@
       "type": "single",
       "service": "iTunes",
       "totalEntries": 2,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "Deezer",
-      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
