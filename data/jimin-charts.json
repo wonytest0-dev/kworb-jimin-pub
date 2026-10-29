@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/10/2026, 16:01:08 KST",
-  "totalEntries": 43,
+  "updatedAt": "29/10/2026, 17:01:17 KST",
+  "totalEntries": 42,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -156,20 +156,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 41,
+      "rank": 49,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Shazam",
-      "country": "Bulgaria",
-      "rank": 174,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-16"
     },
     {
       "title": "Who",
@@ -378,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 15,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+8"
     },
     {
       "title": "MUSE",
@@ -797,20 +787,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 41,
+        "rank": 49,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Shazam",
-        "country": "Bulgaria",
-        "rank": 174,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-16"
       }
     ],
     "Deezer": [
@@ -861,10 +841,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 15,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+8"
       },
       {
         "title": "MUSE",
@@ -917,7 +897,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
