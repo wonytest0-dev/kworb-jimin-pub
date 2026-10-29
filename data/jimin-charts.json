@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/10/2026, 10:01:00 KST",
-  "totalEntries": 45,
+  "updatedAt": "29/10/2026, 11:00:59 KST",
+  "totalEntries": 43,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -126,7 +126,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 11,
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -147,16 +147,6 @@
       "service": "iTunes",
       "country": "Gambia",
       "rank": 70,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Israel",
-      "rank": 91,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -246,20 +236,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Antigua and Barbuda",
-      "rank": 12,
+      "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Saint Kitts and Nevis",
-      "rank": 25,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-4"
     },
     {
       "title": "Be Mine",
@@ -306,10 +286,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 32,
+      "rank": 31,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -428,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 41,
+      "rank": 40,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -685,7 +665,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 11,
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -711,16 +691,6 @@
         "movement24h": "NE"
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Israel",
-        "rank": 91,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -735,20 +705,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Antigua and Barbuda",
-        "rank": 12,
+        "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Saint Kitts and Nevis",
-        "rank": 25,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-4"
       },
       {
         "title": "Like Crazy",
@@ -775,10 +735,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 32,
+        "rank": 31,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -795,10 +755,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 41,
+        "rank": 40,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -949,7 +909,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -989,7 +949,7 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
