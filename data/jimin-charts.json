@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/10/2026, 06:00:54 KST",
+  "updatedAt": "31/10/2026, 07:01:02 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -136,10 +136,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 42,
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-40"
+      "movement24h": "-50"
     },
     {
       "title": "Who",
@@ -351,7 +351,7 @@
       "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -655,10 +655,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 42,
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-40"
+        "movement24h": "-50"
       },
       {
         "title": "Who",
@@ -804,7 +804,7 @@
         "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
