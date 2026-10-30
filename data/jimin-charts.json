@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/10/2026, 02:01:04 KST",
+  "updatedAt": "31/10/2026, 03:01:03 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 33,
+      "rank": 37,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -156,7 +156,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 168,
+      "rank": 199,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 21,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -371,7 +371,7 @@
       "rank": 58,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -645,7 +645,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 33,
+        "rank": 37,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -665,7 +665,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 168,
+        "rank": 199,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -811,10 +811,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 21,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -824,7 +824,7 @@
         "rank": 58,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "="
       }
     ]
   },
