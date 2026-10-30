@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/10/2026, 19:00:56 KST",
+  "updatedAt": "30/10/2026, 20:00:58 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -169,7 +169,7 @@
       "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "+3"
     },
     {
       "title": "Who",
@@ -179,7 +179,7 @@
       "rank": 181,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 40,
+      "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -715,10 +715,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 40,
+        "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -760,7 +760,7 @@
         "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "+3"
       },
       {
         "title": "Who",
@@ -770,7 +770,7 @@
         "rank": 181,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "NE"
       }
     ],
     "Deezer": [
