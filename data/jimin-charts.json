@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31/10/2026, 04:01:00 KST",
-  "totalEntries": 41,
+  "updatedAt": "31/10/2026, 05:00:57 KST",
+  "totalEntries": 40,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 37,
+      "rank": 42,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -150,16 +150,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+1"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Russia",
-      "rank": 199,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -358,10 +348,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Belarus",
-      "rank": 2,
+      "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -378,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Costa Rica",
-      "rank": 58,
+      "rank": 177,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-119"
     },
     {
       "title": "MUSE",
@@ -665,7 +655,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 37,
+        "rank": 42,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -679,16 +669,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+1"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Russia",
-        "rank": 199,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       },
       {
         "title": "Like Crazy",
@@ -821,10 +801,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Belarus",
-        "rank": 2,
+        "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -841,10 +821,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Costa Rica",
-        "rank": 58,
+        "rank": 177,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-119"
       }
     ]
   },
@@ -869,7 +849,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
