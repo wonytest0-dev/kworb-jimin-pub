@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/10/2026, 20:00:58 KST",
+  "updatedAt": "30/10/2026, 21:00:58 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -126,7 +126,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 6,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -155,8 +155,8 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Luxembourg",
-      "rank": 94,
+      "country": "Russia",
+      "rank": 96,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -361,7 +361,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+7"
     },
     {
       "title": "MUSE",
@@ -635,7 +635,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 6,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -664,8 +664,8 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Luxembourg",
-        "rank": 94,
+        "country": "Russia",
+        "rank": 96,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -814,7 +814,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+7"
       },
       {
         "title": "MUSE",
