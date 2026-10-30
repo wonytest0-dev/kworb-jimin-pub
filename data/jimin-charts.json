@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/10/2026, 05:00:57 KST",
+  "updatedAt": "31/10/2026, 06:00:54 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -139,7 +139,7 @@
       "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-40"
     },
     {
       "title": "Who",
@@ -658,7 +658,7 @@
         "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-40"
       },
       {
         "title": "Who",
