@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/10/2026, 23:00:53 KST",
+  "updatedAt": "01/11/2026, 00:00:58 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 99,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-89"
+      "movement24h": "-81"
     },
     {
       "title": "Who",
@@ -698,7 +698,7 @@
         "rank": 99,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-89"
+        "movement24h": "-81"
       },
       {
         "title": "Like Crazy",
