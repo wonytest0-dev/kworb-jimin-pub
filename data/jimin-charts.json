@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/10/2026, 18:01:03 KST",
+  "updatedAt": "31/10/2026, 19:00:57 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -146,17 +146,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 85,
+      "rank": 87,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-79"
+      "movement24h": "-81"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 138,
+      "rank": 174,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 20,
+      "rank": 19,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-8"
     },
     {
       "title": "MUSE",
@@ -665,17 +665,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 85,
+        "rank": 87,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-79"
+        "movement24h": "-81"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 138,
+        "rank": 174,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -811,10 +811,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 20,
+        "rank": 19,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-8"
       },
       {
         "title": "MUSE",
