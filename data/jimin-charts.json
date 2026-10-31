@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31/10/2026, 16:01:02 KST",
-  "totalEntries": 41,
+  "updatedAt": "31/10/2026, 17:01:00 KST",
+  "totalEntries": 40,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -146,17 +146,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bulgaria",
-      "rank": 84,
+      "rank": 85,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-78"
+      "movement24h": "-79"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 107,
+      "rank": 138,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -166,20 +166,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 46,
+      "rank": 57,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Shazam",
-      "country": "Bulgaria",
-      "rank": 181,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-8"
     },
     {
       "title": "Who",
@@ -675,17 +665,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bulgaria",
-        "rank": 84,
+        "rank": 85,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-78"
+        "movement24h": "-79"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 107,
+        "rank": 138,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -777,20 +767,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 46,
+        "rank": 57,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Shazam",
-        "country": "Bulgaria",
-        "rank": 181,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-8"
       }
     ],
     "Deezer": [
@@ -877,7 +857,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
