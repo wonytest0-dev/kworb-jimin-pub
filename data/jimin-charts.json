@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/11/2026, 09:00:58 KST",
+  "updatedAt": "01/11/2026, 10:01:00 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 43,
+      "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -735,10 +735,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 43,
+        "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
