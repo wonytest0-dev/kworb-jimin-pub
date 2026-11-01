@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/11/2026, 06:01:11 KST",
+  "updatedAt": "02/11/2026, 07:01:00 KST",
   "totalEntries": 42,
   "totalTop1": 0,
   "services": [
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 35,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -391,7 +391,7 @@
       "rank": 180,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-121"
     },
     {
       "title": "MUSE",
@@ -675,7 +675,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 35,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -864,7 +864,7 @@
         "rank": 180,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-121"
       }
     ]
   },
