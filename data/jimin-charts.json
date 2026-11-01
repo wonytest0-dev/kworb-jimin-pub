@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/11/2026, 02:01:01 KST",
+  "updatedAt": "02/11/2026, 03:00:53 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -119,7 +119,7 @@
       "rank": 77,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+48"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -136,7 +136,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Chile",
-      "rank": 29,
+      "rank": 30,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -229,7 +229,7 @@
       "rank": 146,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+26"
+      "movement24h": "="
     },
     {
       "title": "Be Mine",
@@ -666,7 +666,7 @@
         "rank": 77,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+48"
+        "movement24h": "="
       }
     ],
     "iTunes": [
@@ -685,7 +685,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Chile",
-        "rank": 29,
+        "rank": 30,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -844,7 +844,7 @@
         "rank": 146,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+26"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
