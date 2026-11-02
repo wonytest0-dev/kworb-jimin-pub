@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/11/2026, 20:01:18 KST",
+  "updatedAt": "02/11/2026, 21:01:08 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -146,7 +146,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "India",
-      "rank": 116,
+      "rank": 171,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -338,10 +338,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 11,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+3"
     },
     {
       "title": "MUSE",
@@ -665,7 +665,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "India",
-        "rank": 116,
+        "rank": 171,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -791,10 +791,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 11,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+3"
       },
       {
         "title": "MUSE",
