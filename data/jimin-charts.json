@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/11/2026, 19:01:00 KST",
+  "updatedAt": "02/11/2026, 20:01:18 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -156,10 +156,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 60,
+      "rank": 57,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+3"
     },
     {
       "title": "Who",
@@ -757,10 +757,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 60,
+        "rank": 57,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+3"
       }
     ],
     "Deezer": [
