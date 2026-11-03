@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/11/2026, 22:01:04 KST",
+  "updatedAt": "03/11/2026, 23:00:57 KST",
   "totalEntries": 39,
   "totalTop1": 0,
   "services": [
@@ -145,7 +145,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 196,
+      "rank": 197,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -225,10 +225,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Micronesia",
-      "rank": 52,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-3"
     },
     {
       "title": "Be Mine",
@@ -347,7 +347,7 @@
       "type": "album",
       "service": "Apple  Music",
       "country": "Russia",
-      "rank": 9,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+2"
@@ -377,10 +377,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Micronesia",
-      "rank": 46,
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -652,7 +652,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 196,
+        "rank": 197,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -692,10 +692,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Micronesia",
-        "rank": 52,
+        "rank": 55,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
@@ -712,10 +712,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Micronesia",
-        "rank": 46,
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -788,7 +788,7 @@
         "type": "album",
         "service": "Apple  Music",
         "country": "Russia",
-        "rank": 9,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+2"
