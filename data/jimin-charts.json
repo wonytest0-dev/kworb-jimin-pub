@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/11/2026, 16:01:04 KST",
+  "updatedAt": "03/11/2026, 17:01:05 KST",
   "totalEntries": 39,
   "totalTop1": 0,
   "services": [
@@ -135,17 +135,17 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 69,
+      "rank": 70,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 105,
+      "rank": 137,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -155,10 +155,10 @@
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 57,
+      "rank": 56,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+4"
     },
     {
       "title": "Who",
@@ -347,10 +347,10 @@
       "type": "album",
       "service": "Apple  Music",
       "country": "Russia",
-      "rank": 10,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -642,17 +642,17 @@
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 69,
+        "rank": 70,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 105,
+        "rank": 137,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -744,10 +744,10 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 57,
+        "rank": 56,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+4"
       }
     ],
     "Deezer": [
@@ -788,10 +788,10 @@
         "type": "album",
         "service": "Apple  Music",
         "country": "Russia",
-        "rank": 10,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
