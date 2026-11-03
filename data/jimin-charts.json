@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/11/2026, 19:01:02 KST",
+  "updatedAt": "03/11/2026, 20:01:09 KST",
   "totalEntries": 39,
   "totalTop1": 0,
   "services": [
@@ -145,7 +145,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 190,
+      "rank": 195,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -158,7 +158,7 @@
       "rank": 56,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+4"
+      "movement24h": "+1"
     },
     {
       "title": "Who",
@@ -347,10 +347,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 10,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -652,7 +652,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 190,
+        "rank": 195,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -747,7 +747,7 @@
         "rank": 56,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+4"
+        "movement24h": "+1"
       }
     ],
     "Deezer": [
@@ -788,10 +788,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 10,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
