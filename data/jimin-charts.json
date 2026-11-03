@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04/11/2026, 00:01:08 KST",
-  "totalEntries": 39,
+  "updatedAt": "04/11/2026, 01:01:05 KST",
+  "totalEntries": 38,
   "totalTop1": 0,
   "services": [
     "Apple  Music",
@@ -139,16 +139,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
-      "country": "Colombia",
-      "rank": 197,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -648,16 +638,6 @@
         "movement24h": "-1"
       },
       {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
-        "country": "Colombia",
-        "rank": 197,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
@@ -818,7 +798,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
