@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03/11/2026, 14:01:00 KST",
-  "totalEntries": 41,
+  "updatedAt": "03/11/2026, 15:00:59 KST",
+  "totalEntries": 40,
   "totalTop1": 0,
   "services": [
     "Apple  Music",
@@ -145,7 +145,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Colombia",
-      "rank": 93,
+      "rank": 105,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -155,7 +155,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "France",
-      "rank": 122,
+      "rank": 143,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -411,16 +411,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Canada",
-      "rank": 130,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -672,7 +662,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Colombia",
-        "rank": 93,
+        "rank": 105,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -682,7 +672,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "France",
-        "rank": 122,
+        "rank": 143,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -766,16 +756,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Canada",
-        "rank": 130,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -930,7 +910,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
