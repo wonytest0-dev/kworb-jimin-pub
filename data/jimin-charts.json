@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/11/2026, 15:01:02 KST",
+  "updatedAt": "04/11/2026, 16:01:09 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 70,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Who",
@@ -337,21 +337,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Belarus",
-      "rank": 12,
+      "country": "Russia",
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
-      "rank": 18,
+      "country": "Belarus",
+      "rank": 12,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "-5"
     },
     {
       "title": "MUSE",
@@ -668,7 +668,7 @@
         "rank": 70,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -790,21 +790,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 12,
+        "country": "Russia",
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
-        "rank": 18,
+        "country": "Belarus",
+        "rank": 12,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "-5"
       },
       {
         "title": "MUSE",
