@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/11/2026, 10:00:56 KST",
+  "updatedAt": "04/11/2026, 11:00:59 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Niger",
-      "rank": 29,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -351,7 +351,7 @@
       "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+5"
     },
     {
       "title": "MUSE",
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 45,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -408,10 +408,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 83,
+      "rank": 82,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     }
   ],
   "byService": {
@@ -695,10 +695,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Niger",
-        "rank": 29,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -715,10 +715,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 45,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -745,10 +745,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 83,
+        "rank": 82,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       }
     ],
     "Shazam": [
@@ -804,7 +804,7 @@
         "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+5"
       },
       {
         "title": "MUSE",
