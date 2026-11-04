@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05/11/2026, 02:01:05 KST",
-  "totalEntries": 40,
+  "updatedAt": "05/11/2026, 03:02:03 KST",
+  "totalEntries": 41,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -377,6 +377,16 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
+      "country": "Finland",
+      "rank": 8,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
       "country": "Kyrgyzstan",
       "rank": 44,
       "isTop1": false,
@@ -714,6 +724,16 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
+        "country": "Finland",
+        "rank": 8,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
         "country": "Kyrgyzstan",
         "rank": 44,
         "isTop1": false,
@@ -913,7 +933,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
