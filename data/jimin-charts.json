@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/11/2026, 05:01:02 KST",
+  "updatedAt": "06/11/2026, 06:01:01 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -407,21 +407,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Finland",
-      "rank": 47,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-29"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Micronesia",
       "rank": 48,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Finland",
+      "rank": 56,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-38"
     },
     {
       "title": "MUSE",
@@ -774,21 +774,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Finland",
-        "rank": 47,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-29"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 48,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-1"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Finland",
+        "rank": 56,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-38"
       },
       {
         "title": "MUSE",
