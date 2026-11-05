@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/11/2026, 00:01:06 KST",
+  "updatedAt": "06/11/2026, 01:06:27 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -156,20 +156,10 @@
       "type": "single",
       "service": "Deezer",
       "country": "Argentina",
-      "rank": 28,
+      "rank": 3,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
-      "country": "Japan",
-      "rank": 63,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+25"
     },
     {
       "title": "Be Mine",
@@ -217,6 +207,16 @@
       "service": "iTunes",
       "country": "Bahrain",
       "rank": 9,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Deezer",
+      "country": "Argentina",
+      "rank": 89,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -368,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 8,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -839,20 +839,20 @@
         "type": "single",
         "service": "Deezer",
         "country": "Argentina",
-        "rank": 28,
+        "rank": 3,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+25"
       },
       {
-        "title": "Who",
+        "title": "Be Mine",
         "type": "single",
         "service": "Deezer",
-        "country": "Japan",
-        "rank": 63,
+        "country": "Argentina",
+        "rank": 89,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "NE"
       }
     ],
     "Apple Music": [
@@ -891,10 +891,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 8,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -945,7 +945,7 @@
       "title": "Who",
       "type": "single",
       "service": "Deezer",
-      "totalEntries": 2,
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -969,6 +969,14 @@
       "title": "Be Mine",
       "type": "single",
       "service": "iTunes",
+      "totalEntries": 1,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "service": "Deezer",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
