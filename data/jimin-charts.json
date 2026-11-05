@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/11/2026, 08:01:02 KST",
+  "updatedAt": "05/11/2026, 09:01:05 KST",
   "totalEntries": 40,
   "totalTop1": 0,
   "services": [
@@ -368,7 +368,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Finland",
-      "rank": 24,
+      "rank": 27,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -695,7 +695,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Finland",
-        "rank": 24,
+        "rank": 27,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
