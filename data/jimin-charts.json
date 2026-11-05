@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/11/2026, 21:01:02 KST",
+  "updatedAt": "05/11/2026, 22:01:03 KST",
   "totalEntries": 44,
   "totalTop1": 0,
   "services": [
@@ -116,7 +116,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 6,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -216,7 +216,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 8,
+      "rank": 9,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -361,17 +361,17 @@
       "rank": 5,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+14"
+      "movement24h": "+11"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 8,
+      "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -448,7 +448,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Canada",
-      "rank": 169,
+      "rank": 173,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -675,7 +675,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 6,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -705,7 +705,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 8,
+        "rank": 9,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -815,7 +815,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Canada",
-        "rank": 169,
+        "rank": 173,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -884,17 +884,17 @@
         "rank": 5,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+14"
+        "movement24h": "+11"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 8,
+        "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
