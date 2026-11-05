@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05/11/2026, 15:01:01 KST",
-  "totalEntries": 42,
+  "updatedAt": "05/11/2026, 16:00:54 KST",
+  "totalEntries": 43,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -361,7 +361,7 @@
       "rank": 6,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+55"
+      "movement24h": "+36"
     },
     {
       "title": "MUSE",
@@ -371,7 +371,7 @@
       "rank": 7,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+11"
+      "movement24h": "+2"
     },
     {
       "title": "MUSE",
@@ -382,6 +382,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-120"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Singapore",
+      "rank": 2,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -734,6 +744,16 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
+        "country": "Singapore",
+        "rank": 2,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
         "country": "Finland",
         "rank": 31,
         "isTop1": false,
@@ -844,7 +864,7 @@
         "rank": 6,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+55"
+        "movement24h": "+36"
       },
       {
         "title": "MUSE",
@@ -854,7 +874,7 @@
         "rank": 7,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+11"
+        "movement24h": "+2"
       },
       {
         "title": "MUSE",
@@ -969,7 +989,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
