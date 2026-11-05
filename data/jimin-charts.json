@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06/11/2026, 06:01:01 KST",
-  "totalEntries": 44,
+  "updatedAt": "06/11/2026, 07:01:04 KST",
+  "totalEntries": 43,
   "totalTop1": 0,
   "services": [
     "Apple Music",
@@ -259,7 +259,7 @@
       "rank": 29,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -361,17 +361,17 @@
       "rank": 5,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+10"
+      "movement24h": "+11"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 8,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -388,7 +388,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "Singapore",
-      "rank": 2,
+      "rank": 5,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -421,7 +421,7 @@
       "rank": 56,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-38"
+      "movement24h": "-32"
     },
     {
       "title": "MUSE",
@@ -442,16 +442,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
-      "country": "Canada",
-      "rank": 176,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     }
   ],
   "byService": {
@@ -738,7 +728,7 @@
         "rank": 29,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -755,7 +745,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "Singapore",
-        "rank": 2,
+        "rank": 5,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -788,7 +778,7 @@
         "rank": 56,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-38"
+        "movement24h": "-32"
       },
       {
         "title": "MUSE",
@@ -809,16 +799,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-1"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
-        "country": "Canada",
-        "rank": 176,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ],
     "Shazam": [
@@ -884,17 +864,17 @@
         "rank": 5,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+10"
+        "movement24h": "+11"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 8,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -1017,7 +997,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
