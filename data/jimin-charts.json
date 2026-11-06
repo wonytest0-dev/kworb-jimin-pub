@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/11/2026, 10:01:00 KST",
+  "updatedAt": "06/11/2026, 11:01:01 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -371,7 +371,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-4"
     },
     {
       "title": "MUSE",
@@ -398,10 +398,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 42,
+      "rank": 40,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
@@ -418,30 +418,30 @@
       "type": "album",
       "service": "iTunes",
       "country": "Nepal",
-      "rank": 62,
+      "rank": 61,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Finland",
-      "rank": 69,
+      "rank": 77,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-39"
+      "movement24h": "-47"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Laos",
-      "rank": 83,
+      "rank": 82,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "+1"
     }
   ],
   "byService": {
@@ -755,10 +755,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 42,
+        "rank": 40,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
@@ -775,30 +775,30 @@
         "type": "album",
         "service": "iTunes",
         "country": "Nepal",
-        "rank": 62,
+        "rank": 61,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
         "country": "Finland",
-        "rank": 69,
+        "rank": 77,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-39"
+        "movement24h": "-47"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
         "country": "Laos",
-        "rank": 83,
+        "rank": 82,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "+1"
       }
     ],
     "Shazam": [
@@ -874,7 +874,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-4"
       },
       {
         "title": "MUSE",
