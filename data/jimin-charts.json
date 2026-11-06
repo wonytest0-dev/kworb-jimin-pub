@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/11/2026, 19:01:09 KST",
+  "updatedAt": "06/11/2026, 20:01:05 KST",
   "totalEntries": 43,
   "totalTop1": 0,
   "services": [
@@ -149,7 +149,7 @@
       "rank": 59,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-8"
     },
     {
       "title": "Who",
@@ -810,7 +810,7 @@
         "rank": 59,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-8"
       }
     ],
     "Deezer": [
