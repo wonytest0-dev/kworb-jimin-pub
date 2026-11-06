@@ -1,5 +1,5 @@
 {
-  "updatedAt": "07/11/2026, 07:01:02 KST",
+  "updatedAt": "07/11/2026, 08:01:03 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -427,21 +427,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Singapore",
-      "rank": 48,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-43"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Micronesia",
       "rank": 49,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-1"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Singapore",
+      "rank": 51,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-46"
     },
     {
       "title": "MUSE",
@@ -468,10 +468,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Finland",
-      "rank": 120,
+      "rank": 124,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-51"
+      "movement24h": "-55"
     }
   ],
   "byService": {
@@ -784,21 +784,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Singapore",
-        "rank": 48,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-43"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Micronesia",
         "rank": 49,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-1"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Singapore",
+        "rank": 51,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-46"
       },
       {
         "title": "MUSE",
@@ -825,10 +825,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Finland",
-        "rank": 120,
+        "rank": 124,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-51"
+        "movement24h": "-55"
       }
     ],
     "Shazam": [
