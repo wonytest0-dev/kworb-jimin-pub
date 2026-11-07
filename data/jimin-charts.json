@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08/11/2026, 03:00:55 KST",
-  "totalEntries": 46,
+  "updatedAt": "08/11/2026, 04:00:58 KST",
+  "totalEntries": 45,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -119,7 +119,7 @@
       "rank": 15,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "Who",
@@ -219,7 +219,7 @@
       "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "Be Mine",
@@ -358,30 +358,30 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Belarus",
-      "rank": 8,
+      "rank": 4,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "+4"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Norway",
-      "rank": 11,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-8"
+      "movement24h": "-5"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 16,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "+11"
     },
     {
       "title": "MUSE",
@@ -392,16 +392,6 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-30"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
-      "country": "Venezuela",
-      "rank": 99,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
     },
     {
       "title": "MUSE",
@@ -451,14 +441,14 @@
       "rank": 96,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-60"
+      "movement24h": "-53"
     },
     {
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 110,
+      "rank": 119,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -471,7 +461,7 @@
       "rank": 165,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-66"
+      "movement24h": "-60"
     }
   ],
   "byService": {
@@ -698,7 +688,7 @@
         "rank": 15,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "Who",
@@ -718,7 +708,7 @@
         "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "Like Crazy",
@@ -808,14 +798,14 @@
         "rank": 96,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-60"
+        "movement24h": "-53"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 110,
+        "rank": 119,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -828,7 +818,7 @@
         "rank": 165,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-66"
+        "movement24h": "-60"
       }
     ],
     "Shazam": [
@@ -901,30 +891,30 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Belarus",
-        "rank": 8,
+        "rank": 4,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "+4"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Norway",
-        "rank": 11,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-8"
+        "movement24h": "-5"
       },
       {
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 16,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "+11"
       },
       {
         "title": "MUSE",
@@ -935,16 +925,6 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-30"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Venezuela",
-        "rank": 99,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
       }
     ]
   },
@@ -1043,7 +1023,7 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
