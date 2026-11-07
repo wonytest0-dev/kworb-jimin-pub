@@ -1,5 +1,5 @@
 {
-  "updatedAt": "07/11/2026, 22:01:04 KST",
+  "updatedAt": "07/11/2026, 23:01:00 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -381,7 +381,7 @@
       "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "+10"
     },
     {
       "title": "MUSE",
@@ -437,21 +437,11 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Thailand",
-      "rank": 66,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "iTunes",
       "country": "Singapore",
-      "rank": 80,
+      "rank": 83,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-46"
+      "movement24h": "-49"
     },
     {
       "title": "MUSE",
@@ -467,11 +457,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "iTunes",
-      "country": "Finland",
-      "rank": 145,
+      "country": "Thailand",
+      "rank": 88,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-54"
+      "movement24h": "NE"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "iTunes",
+      "country": "Finland",
+      "rank": 147,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-56"
     }
   ],
   "byService": {
@@ -794,21 +794,11 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Thailand",
-        "rank": 66,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "iTunes",
         "country": "Singapore",
-        "rank": 80,
+        "rank": 83,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-46"
+        "movement24h": "-49"
       },
       {
         "title": "MUSE",
@@ -824,11 +814,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "iTunes",
-        "country": "Finland",
-        "rank": 145,
+        "country": "Thailand",
+        "rank": 88,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-54"
+        "movement24h": "NE"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "iTunes",
+        "country": "Finland",
+        "rank": 147,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-56"
       }
     ],
     "Shazam": [
@@ -924,7 +924,7 @@
         "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "+10"
       },
       {
         "title": "MUSE",
