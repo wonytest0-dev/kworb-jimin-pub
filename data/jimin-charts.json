@@ -1,5 +1,5 @@
 {
-  "updatedAt": "07/11/2026, 11:00:59 KST",
+  "updatedAt": "07/11/2026, 12:00:58 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -378,10 +378,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 33,
+      "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-22"
+      "movement24h": "-21"
     },
     {
       "title": "MUSE",
@@ -438,10 +438,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Singapore",
-      "rank": 51,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-43"
+      "movement24h": "-47"
     },
     {
       "title": "MUSE",
@@ -468,10 +468,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Finland",
-      "rank": 126,
+      "rank": 131,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-49"
+      "movement24h": "-54"
     }
   ],
   "byService": {
@@ -795,10 +795,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Singapore",
-        "rank": 51,
+        "rank": 55,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-43"
+        "movement24h": "-47"
       },
       {
         "title": "MUSE",
@@ -825,10 +825,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Finland",
-        "rank": 126,
+        "rank": 131,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-49"
+        "movement24h": "-54"
       }
     ],
     "Shazam": [
@@ -921,10 +921,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 33,
+        "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-22"
+        "movement24h": "-21"
       },
       {
         "title": "MUSE",
