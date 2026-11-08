@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08/11/2026, 14:01:03 KST",
-  "totalEntries": 45,
+  "updatedAt": "08/11/2026, 15:01:11 KST",
+  "totalEntries": 46,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -130,6 +130,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+3"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Belgium",
+      "rank": 78,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -458,10 +468,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 129,
+      "rank": 132,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-96"
+      "movement24h": "-99"
     }
   ],
   "byService": {
@@ -701,6 +711,16 @@
         "movement24h": "+3"
       },
       {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Belgium",
+        "rank": 78,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
+      },
+      {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
@@ -795,10 +815,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 129,
+        "rank": 132,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-96"
+        "movement24h": "-99"
       }
     ],
     "Shazam": [
@@ -959,7 +979,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
