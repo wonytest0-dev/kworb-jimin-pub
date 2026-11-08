@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/11/2026, 02:01:03 KST",
+  "updatedAt": "09/11/2026, 03:00:59 KST",
   "totalEntries": 43,
   "totalTop1": 1,
   "services": [
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 27,
+      "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-11"
     },
     {
       "title": "Who",
@@ -206,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 29,
+      "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-11"
     },
     {
       "title": "Be Mine",
@@ -368,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 17,
+      "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-1"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -438,10 +438,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 158,
+      "rank": 169,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-55"
+      "movement24h": "-66"
     }
   ],
   "byService": {
@@ -665,10 +665,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 27,
+        "rank": 26,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-11"
       },
       {
         "title": "Who",
@@ -685,10 +685,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 29,
+        "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-11"
       },
       {
         "title": "Like Crazy",
@@ -775,10 +775,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 158,
+        "rank": 169,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-55"
+        "movement24h": "-66"
       }
     ],
     "Shazam": [
@@ -861,10 +861,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 17,
+        "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-1"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
