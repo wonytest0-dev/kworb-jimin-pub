@@ -1,5 +1,5 @@
 {
-  "updatedAt": "08/11/2026, 09:00:55 KST",
+  "updatedAt": "08/11/2026, 10:00:56 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -266,10 +266,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Cape Verde",
-      "rank": 31,
+      "rank": 30,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -279,7 +279,7 @@
       "rank": 28,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "="
     },
     {
       "title": "Like Crazy",
@@ -377,21 +377,21 @@
       "title": "MUSE",
       "type": "album",
       "service": "Apple Music",
-      "country": "Russia",
-      "rank": 19,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+16"
-    },
-    {
-      "title": "MUSE",
-      "type": "album",
-      "service": "Apple Music",
       "country": "Norway",
       "rank": 20,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-8"
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "service": "Apple Music",
+      "country": "Russia",
+      "rank": 20,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "+15"
     },
     {
       "title": "MUSE",
@@ -458,10 +458,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Thailand",
-      "rank": 129,
+      "rank": 130,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-99"
+      "movement24h": "-100"
     },
     {
       "title": "MUSE",
@@ -471,7 +471,7 @@
       "rank": 185,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-61"
+      "movement24h": "-59"
     }
   ],
   "byService": {
@@ -735,10 +735,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Cape Verde",
-        "rank": 31,
+        "rank": 30,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -748,7 +748,7 @@
         "rank": 28,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "="
       },
       {
         "title": "Like Crazy",
@@ -805,10 +805,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Thailand",
-        "rank": 129,
+        "rank": 130,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-99"
+        "movement24h": "-100"
       },
       {
         "title": "MUSE",
@@ -818,7 +818,7 @@
         "rank": 185,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-61"
+        "movement24h": "-59"
       }
     ],
     "Shazam": [
@@ -910,21 +910,21 @@
         "title": "MUSE",
         "type": "album",
         "service": "Apple Music",
-        "country": "Russia",
-        "rank": 19,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+16"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
         "country": "Norway",
         "rank": 20,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-8"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 20,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+15"
       },
       {
         "title": "MUSE",
