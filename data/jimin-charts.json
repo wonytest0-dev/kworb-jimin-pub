@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/11/2026, 00:01:08 KST",
+  "updatedAt": "10/11/2026, 01:01:05 KST",
   "totalEntries": 46,
   "totalTop1": 1,
   "services": [
@@ -115,8 +115,18 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
+      "country": "Bahrain",
+      "rank": 33,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-6"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
       "country": "Hungary",
-      "rank": 21,
+      "rank": 39,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -125,18 +135,8 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Bahrain",
-      "rank": 33,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-7"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Russia",
-      "rank": 41,
+      "rank": 51,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -239,7 +239,7 @@
       "rank": 35,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-6"
     },
     {
       "title": "Be Mine",
@@ -468,7 +468,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "India",
-      "rank": 146,
+      "rank": 154,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -694,8 +694,18 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
+        "country": "Bahrain",
+        "rank": 33,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-6"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
         "country": "Hungary",
-        "rank": 21,
+        "rank": 39,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -704,18 +714,8 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Bahrain",
-        "rank": 33,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-7"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Russia",
-        "rank": 41,
+        "rank": 51,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -738,7 +738,7 @@
         "rank": 35,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-6"
       },
       {
         "title": "Like Crazy",
@@ -825,7 +825,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "India",
-        "rank": 146,
+        "rank": 154,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
