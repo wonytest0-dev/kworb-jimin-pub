@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/11/2026, 22:01:00 KST",
-  "totalEntries": 45,
+  "updatedAt": "09/11/2026, 23:01:04 KST",
+  "totalEntries": 46,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -116,7 +116,7 @@
       "type": "single",
       "service": "iTunes",
       "country": "Hungary",
-      "rank": 14,
+      "rank": 21,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -130,6 +130,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "-7"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Russia",
+      "rank": 41,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -378,10 +388,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 12,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+1"
+      "movement24h": "+6"
     },
     {
       "title": "MUSE",
@@ -458,7 +468,7 @@
       "type": "album",
       "service": "iTunes",
       "country": "India",
-      "rank": 132,
+      "rank": 146,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -685,7 +695,7 @@
         "type": "single",
         "service": "iTunes",
         "country": "Hungary",
-        "rank": 14,
+        "rank": 21,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -699,6 +709,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "-7"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Russia",
+        "rank": 41,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "Who",
@@ -805,7 +825,7 @@
         "type": "album",
         "service": "iTunes",
         "country": "India",
-        "rank": 132,
+        "rank": 146,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "NE"
@@ -891,10 +911,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 12,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+1"
+        "movement24h": "+6"
       },
       {
         "title": "MUSE",
@@ -959,7 +979,7 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
