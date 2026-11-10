@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/11/2026, 16:04:39 KST",
+  "updatedAt": "10/11/2026, 17:01:05 KST",
   "totalEntries": 44,
   "totalTop1": 2,
   "services": [
@@ -146,30 +146,30 @@
       "type": "single",
       "service": "iTunes",
       "country": "Russia",
-      "rank": 123,
+      "rank": 144,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-33"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Shazam",
       "country": "Japan",
-      "rank": 50,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "+4"
     },
     {
       "title": "Who",
       "type": "single",
       "service": "Shazam",
       "country": "Bulgaria",
-      "rank": 197,
+      "rank": 183,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "+14"
     },
     {
       "title": "Who",
@@ -705,10 +705,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Russia",
-        "rank": 123,
+        "rank": 144,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-33"
       },
       {
         "title": "Be Mine",
@@ -807,20 +807,20 @@
         "type": "single",
         "service": "Shazam",
         "country": "Japan",
-        "rank": 50,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "+4"
       },
       {
         "title": "Who",
         "type": "single",
         "service": "Shazam",
         "country": "Bulgaria",
-        "rank": 197,
+        "rank": 183,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "+14"
       }
     ],
     "Deezer": [
