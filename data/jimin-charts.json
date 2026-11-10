@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/11/2026, 06:00:59 KST",
+  "updatedAt": "11/11/2026, 07:01:01 KST",
   "totalEntries": 39,
   "totalTop1": 1,
   "services": [
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 44,
+      "rank": 45,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-12"
     },
     {
       "title": "Who",
@@ -206,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 46,
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-12"
     },
     {
       "title": "Like Crazy",
@@ -236,10 +236,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Cape Verde",
-      "rank": 29,
+      "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-5"
     },
     {
       "title": "Like Crazy",
@@ -351,7 +351,7 @@
       "rank": 16,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+7"
     },
     {
       "title": "MUSE",
@@ -625,10 +625,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 44,
+        "rank": 45,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-12"
       },
       {
         "title": "Who",
@@ -645,10 +645,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 46,
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-12"
       },
       {
         "title": "Like Crazy",
@@ -665,10 +665,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Cape Verde",
-        "rank": 29,
+        "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-2"
+        "movement24h": "-5"
       },
       {
         "title": "Like Crazy",
@@ -794,7 +794,7 @@
         "rank": 16,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+7"
       },
       {
         "title": "MUSE",
