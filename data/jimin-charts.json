@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/11/2026, 13:01:38 KST",
+  "updatedAt": "10/11/2026, 14:03:16 KST",
   "totalEntries": 44,
   "totalTop1": 2,
   "services": [
@@ -265,21 +265,21 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "country": "Cape Verde",
-      "rank": 27,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "+1"
-    },
-    {
-      "title": "Like Crazy",
-      "type": "single",
-      "service": "iTunes",
       "country": "Guinea-Bissau",
       "rank": 19,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Like Crazy",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Cape Verde",
+      "rank": 29,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-1"
     },
     {
       "title": "Like Crazy",
@@ -391,7 +391,7 @@
       "rank": 23,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-4"
+      "movement24h": "-8"
     },
     {
       "title": "MUSE",
@@ -724,21 +724,21 @@
         "title": "Like Crazy",
         "type": "single",
         "service": "iTunes",
-        "country": "Cape Verde",
-        "rank": 27,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+1"
-      },
-      {
-        "title": "Like Crazy",
-        "type": "single",
-        "service": "iTunes",
         "country": "Guinea-Bissau",
         "rank": 19,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Cape Verde",
+        "rank": 29,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -884,7 +884,7 @@
         "rank": 23,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-4"
+        "movement24h": "-8"
       },
       {
         "title": "MUSE",
