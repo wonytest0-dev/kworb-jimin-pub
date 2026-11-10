@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/11/2026, 02:01:14 KST",
+  "updatedAt": "11/11/2026, 03:01:07 KST",
   "totalEntries": 41,
   "totalTop1": 2,
   "services": [
@@ -126,10 +126,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 43,
+      "rank": 44,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-11"
     },
     {
       "title": "Who",
@@ -216,10 +216,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 45,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-10"
+      "movement24h": "-11"
     },
     {
       "title": "Like Crazy",
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 11,
+      "rank": 13,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -388,10 +388,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 42,
+      "rank": 43,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -655,10 +655,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 43,
+        "rank": 44,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-11"
       },
       {
         "title": "Who",
@@ -675,10 +675,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 45,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-10"
+        "movement24h": "-11"
       },
       {
         "title": "Like Crazy",
@@ -725,10 +725,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 42,
+        "rank": 43,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
@@ -821,10 +821,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 11,
+        "rank": 13,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
