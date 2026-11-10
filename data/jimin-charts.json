@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/11/2026, 09:00:55 KST",
+  "updatedAt": "10/11/2026, 10:01:17 KST",
   "totalEntries": 45,
   "totalTop1": 1,
   "services": [
@@ -119,7 +119,7 @@
       "rank": 33,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-1"
     },
     {
       "title": "Who",
@@ -149,7 +149,7 @@
       "rank": 94,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-16"
     },
     {
       "title": "Who",
@@ -239,7 +239,7 @@
       "rank": 35,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-1"
     },
     {
       "title": "Be Mine",
@@ -269,7 +269,7 @@
       "rank": 27,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+3"
+      "movement24h": "+1"
     },
     {
       "title": "Like Crazy",
@@ -421,7 +421,7 @@
       "rank": 42,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "="
     },
     {
       "title": "MUSE",
@@ -461,7 +461,7 @@
       "rank": 200,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-110"
     }
   ],
   "byService": {
@@ -688,7 +688,7 @@
         "rank": 33,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-1"
       },
       {
         "title": "Who",
@@ -718,7 +718,7 @@
         "rank": 94,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-16"
       },
       {
         "title": "Be Mine",
@@ -728,7 +728,7 @@
         "rank": 35,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-1"
       },
       {
         "title": "Like Crazy",
@@ -738,7 +738,7 @@
         "rank": 27,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+3"
+        "movement24h": "+1"
       },
       {
         "title": "Like Crazy",
@@ -778,7 +778,7 @@
         "rank": 42,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "="
       },
       {
         "title": "MUSE",
@@ -818,7 +818,7 @@
         "rank": 200,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-110"
       }
     ],
     "Shazam": [
