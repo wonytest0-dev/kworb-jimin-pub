@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/11/2026, 12:01:02 KST",
+  "updatedAt": "11/11/2026, 13:01:02 KST",
   "totalEntries": 39,
   "totalTop1": 1,
   "services": [
@@ -119,7 +119,7 @@
       "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-4"
     },
     {
       "title": "Who",
@@ -209,7 +209,7 @@
       "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-12"
+      "movement24h": "-4"
     },
     {
       "title": "Like Crazy",
@@ -239,7 +239,7 @@
       "rank": 32,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-3"
     },
     {
       "title": "Like Crazy",
@@ -628,7 +628,7 @@
         "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-4"
       },
       {
         "title": "Who",
@@ -648,7 +648,7 @@
         "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-12"
+        "movement24h": "-4"
       },
       {
         "title": "Like Crazy",
@@ -668,7 +668,7 @@
         "rank": 32,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-3"
       },
       {
         "title": "Like Crazy",
