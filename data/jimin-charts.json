@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/11/2026, 10:01:02 KST",
+  "updatedAt": "11/11/2026, 11:01:06 KST",
   "totalEntries": 39,
   "totalTop1": 1,
   "services": [
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 45,
+      "rank": 46,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-12"
     },
     {
       "title": "Who",
@@ -206,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 47,
+      "rank": 48,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-11"
+      "movement24h": "-12"
     },
     {
       "title": "Like Crazy",
@@ -348,10 +348,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 16,
+      "rank": 24,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+7"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -625,10 +625,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 45,
+        "rank": 46,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-12"
       },
       {
         "title": "Who",
@@ -645,10 +645,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 47,
+        "rank": 48,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-11"
+        "movement24h": "-12"
       },
       {
         "title": "Like Crazy",
@@ -791,10 +791,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 16,
+        "rank": 24,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+7"
+        "movement24h": "-1"
       },
       {
         "title": "MUSE",
