@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/11/2026, 21:01:03 KST",
+  "updatedAt": "11/11/2026, 22:01:03 KST",
   "totalEntries": 40,
   "totalTop1": 1,
   "services": [
@@ -119,7 +119,7 @@
       "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-4"
     },
     {
       "title": "Who",
@@ -209,7 +209,7 @@
       "rank": 49,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-4"
     },
     {
       "title": "Be Mine",
@@ -638,7 +638,7 @@
         "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-4"
       },
       {
         "title": "Who",
@@ -658,7 +658,7 @@
         "rank": 49,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-4"
       },
       {
         "title": "Like Crazy",
