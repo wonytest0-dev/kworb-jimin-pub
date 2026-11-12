@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12/11/2026, 16:00:56 KST",
-  "totalEntries": 39,
+  "updatedAt": "12/11/2026, 17:00:59 KST",
+  "totalEntries": 40,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -116,10 +116,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 51,
+      "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-6"
     },
     {
       "title": "Who",
@@ -130,6 +130,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "+7"
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "Shazam",
+      "country": "Bulgaria",
+      "rank": 194,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     },
     {
       "title": "Who",
@@ -196,10 +206,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 53,
+      "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-6"
     },
     {
       "title": "Be Mine",
@@ -348,10 +358,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 12,
+      "rank": 10,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+6"
+      "movement24h": "+8"
     },
     {
       "title": "MUSE",
@@ -625,20 +635,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 51,
+        "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-6"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 53,
+        "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-6"
       },
       {
         "title": "Like Crazy",
@@ -731,6 +741,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+7"
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "Shazam",
+        "country": "Bulgaria",
+        "rank": 194,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       }
     ],
     "Deezer": [
@@ -791,10 +811,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 12,
+        "rank": 10,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+6"
+        "movement24h": "+8"
       },
       {
         "title": "MUSE",
@@ -847,7 +867,7 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 1,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
