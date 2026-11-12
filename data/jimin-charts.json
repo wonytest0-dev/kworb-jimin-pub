@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12/11/2026, 18:01:11 KST",
-  "totalEntries": 40,
+  "updatedAt": "12/11/2026, 19:01:07 KST",
+  "totalEntries": 38,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -119,7 +119,7 @@
       "rank": 52,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-5"
     },
     {
       "title": "Who",
@@ -137,26 +137,6 @@
       "service": "Shazam",
       "country": "Bulgaria",
       "rank": 194,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "NE"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
-      "country": "Argentina",
-      "rank": 18,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-12"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
-      "country": "Japan",
-      "rank": 98,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "NE"
@@ -209,17 +189,17 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-6"
+      "movement24h": "-5"
     },
     {
       "title": "Be Mine",
       "type": "single",
       "service": "Deezer",
       "country": "Argentina",
-      "rank": 41,
+      "rank": 55,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-14"
     },
     {
       "title": "Like Crazy",
@@ -358,10 +338,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 10,
+      "rank": 11,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+8"
+      "movement24h": "+12"
     },
     {
       "title": "MUSE",
@@ -638,7 +618,7 @@
         "rank": 52,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-5"
       },
       {
         "title": "Be Mine",
@@ -648,7 +628,7 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-6"
+        "movement24h": "-5"
       },
       {
         "title": "Like Crazy",
@@ -753,38 +733,6 @@
         "movement24h": "NE"
       }
     ],
-    "Deezer": [
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Argentina",
-        "rank": 18,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-12"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Japan",
-        "rank": 98,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      },
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Deezer",
-        "country": "Argentina",
-        "rank": 41,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "NE"
-      }
-    ],
     "Apple Music": [
       {
         "title": "Be Mine",
@@ -811,10 +759,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 10,
+        "rank": 11,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+8"
+        "movement24h": "+12"
       },
       {
         "title": "MUSE",
@@ -825,6 +773,18 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+21"
+      }
+    ],
+    "Deezer": [
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Deezer",
+        "country": "Argentina",
+        "rank": 55,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-14"
       }
     ]
   },
@@ -867,14 +827,6 @@
       "title": "Who",
       "type": "single",
       "service": "Shazam",
-      "totalEntries": 2,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "Deezer",
       "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
