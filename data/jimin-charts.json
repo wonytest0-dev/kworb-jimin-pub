@@ -1,10 +1,9 @@
 {
-  "updatedAt": "13/11/2026, 06:01:04 KST",
+  "updatedAt": "13/11/2026, 07:01:04 KST",
   "totalEntries": 38,
   "totalTop1": 1,
   "services": [
     "Apple Music",
-    "Apple  Music",
     "Deezer",
     "Shazam",
     "Spotify",
@@ -84,7 +83,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "country": "Belarus",
       "rank": 39,
       "isTop1": false,
@@ -119,7 +118,7 @@
       "rank": 54,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-4"
     },
     {
       "title": "Who",
@@ -189,7 +188,7 @@
       "rank": 56,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-7"
+      "movement24h": "-4"
     },
     {
       "title": "Be Mine",
@@ -338,10 +337,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 25,
+      "rank": 26,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-2"
+      "movement24h": "-1"
     },
     {
       "title": "MUSE",
@@ -577,16 +576,56 @@
         "movement24h": "+5"
       }
     ],
-    "Apple  Music": [
+    "Apple Music": [
       {
         "title": "Who",
         "type": "single",
-        "service": "Apple  Music",
+        "service": "Apple Music",
         "country": "Belarus",
         "rank": 39,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "+59"
+      },
+      {
+        "title": "Be Mine",
+        "type": "single",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 126,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+29"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Belarus",
+        "rank": 3,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "="
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Russia",
+        "rank": 26,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-1"
+      },
+      {
+        "title": "MUSE",
+        "type": "album",
+        "service": "Apple Music",
+        "country": "Costa Rica",
+        "rank": 72,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "+60"
       }
     ],
     "iTunes": [
@@ -618,7 +657,7 @@
         "rank": 54,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-4"
       },
       {
         "title": "Be Mine",
@@ -628,7 +667,7 @@
         "rank": 56,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-7"
+        "movement24h": "-4"
       },
       {
         "title": "Like Crazy",
@@ -733,48 +772,6 @@
         "movement24h": "NE"
       }
     ],
-    "Apple Music": [
-      {
-        "title": "Be Mine",
-        "type": "single",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 126,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+29"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Belarus",
-        "rank": 3,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "="
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Russia",
-        "rank": 25,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-2"
-      },
-      {
-        "title": "MUSE",
-        "type": "album",
-        "service": "Apple Music",
-        "country": "Costa Rica",
-        "rank": 72,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "+60"
-      }
-    ],
     "Deezer": [
       {
         "title": "Be Mine",
@@ -810,7 +807,7 @@
     {
       "title": "Who",
       "type": "single",
-      "service": "Apple  Music",
+      "service": "Apple Music",
       "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
