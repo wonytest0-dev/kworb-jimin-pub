@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/11/2026, 19:01:20 KST",
+  "updatedAt": "13/11/2026, 20:01:14 KST",
   "totalEntries": 39,
   "totalTop1": 1,
   "services": [
@@ -126,10 +126,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 61,
+      "rank": 65,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-13"
     },
     {
       "title": "Who",
@@ -139,7 +139,7 @@
       "rank": 34,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+5"
+      "movement24h": "+4"
     },
     {
       "title": "Who",
@@ -196,10 +196,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Bahrain",
-      "rank": 63,
+      "rank": 67,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-9"
+      "movement24h": "-13"
     },
     {
       "title": "Be Mine",
@@ -348,10 +348,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 11,
+      "rank": 14,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-3"
     },
     {
       "title": "MUSE",
@@ -635,20 +635,20 @@
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 61,
+        "rank": 65,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-13"
       },
       {
         "title": "Be Mine",
         "type": "single",
         "service": "iTunes",
         "country": "Bahrain",
-        "rank": 63,
+        "rank": 67,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-9"
+        "movement24h": "-13"
       },
       {
         "title": "Like Crazy",
@@ -740,7 +740,7 @@
         "rank": 34,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+5"
+        "movement24h": "+4"
       }
     ],
     "Deezer": [
@@ -791,10 +791,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 11,
+        "rank": 14,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-3"
       },
       {
         "title": "MUSE",
