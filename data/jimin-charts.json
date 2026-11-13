@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/11/2026, 10:01:02 KST",
+  "updatedAt": "13/11/2026, 11:01:09 KST",
   "totalEntries": 38,
   "totalTop1": 1,
   "services": [
@@ -106,10 +106,10 @@
       "type": "single",
       "service": "iTunes",
       "country": "Gambia",
-      "rank": 50,
+      "rank": 51,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "="
+      "movement24h": "-1"
     },
     {
       "title": "Who",
@@ -338,10 +338,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 30,
+      "rank": 29,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-5"
+      "movement24h": "-6"
     },
     {
       "title": "MUSE",
@@ -358,10 +358,10 @@
       "type": "album",
       "service": "iTunes",
       "country": "Kyrgyzstan",
-      "rank": 48,
+      "rank": 47,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-3"
+      "movement24h": "-2"
     },
     {
       "title": "MUSE",
@@ -605,10 +605,10 @@
         "type": "single",
         "service": "iTunes",
         "country": "Gambia",
-        "rank": 50,
+        "rank": 51,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "="
+        "movement24h": "-1"
       },
       {
         "title": "Who",
@@ -675,10 +675,10 @@
         "type": "album",
         "service": "iTunes",
         "country": "Kyrgyzstan",
-        "rank": 48,
+        "rank": 47,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-3"
+        "movement24h": "-2"
       },
       {
         "title": "MUSE",
@@ -759,10 +759,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 30,
+        "rank": 29,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-5"
+        "movement24h": "-6"
       },
       {
         "title": "MUSE",
