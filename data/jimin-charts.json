@@ -1,6 +1,6 @@
 {
-  "updatedAt": "14/11/2026, 20:01:03 KST",
-  "totalEntries": 42,
+  "updatedAt": "14/11/2026, 21:01:03 KST",
+  "totalEntries": 43,
   "totalTop1": 1,
   "services": [
     "Apple Music",
@@ -135,21 +135,21 @@
       "title": "Who",
       "type": "single",
       "service": "iTunes",
-      "country": "Argentina",
-      "rank": 49,
-      "isTop1": false,
-      "movementLive": null,
-      "movement24h": "-43"
-    },
-    {
-      "title": "Who",
-      "type": "single",
-      "service": "iTunes",
       "country": "Gambia",
       "rank": 51,
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Who",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Argentina",
+      "rank": 56,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "-50"
     },
     {
       "title": "Who",
@@ -300,6 +300,16 @@
       "isTop1": false,
       "movementLive": null,
       "movement24h": "="
+    },
+    {
+      "title": "Like Crazy",
+      "type": "single",
+      "service": "iTunes",
+      "country": "Indonesia",
+      "rank": 134,
+      "isTop1": false,
+      "movementLive": null,
+      "movement24h": "NE"
     }
   ],
   "albums": [
@@ -664,21 +674,21 @@
         "title": "Who",
         "type": "single",
         "service": "iTunes",
-        "country": "Argentina",
-        "rank": 49,
-        "isTop1": false,
-        "movementLive": null,
-        "movement24h": "-43"
-      },
-      {
-        "title": "Who",
-        "type": "single",
-        "service": "iTunes",
         "country": "Gambia",
         "rank": 51,
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Who",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Argentina",
+        "rank": 56,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "-50"
       },
       {
         "title": "Who",
@@ -739,6 +749,16 @@
         "isTop1": false,
         "movementLive": null,
         "movement24h": "="
+      },
+      {
+        "title": "Like Crazy",
+        "type": "single",
+        "service": "iTunes",
+        "country": "Indonesia",
+        "rank": 134,
+        "isTop1": false,
+        "movementLive": null,
+        "movement24h": "NE"
       },
       {
         "title": "MUSE",
@@ -963,7 +983,7 @@
       "title": "Like Crazy",
       "type": "single",
       "service": "iTunes",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
