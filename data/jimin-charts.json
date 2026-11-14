@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/11/2026, 15:00:59 KST",
+  "updatedAt": "14/11/2026, 16:01:15 KST",
   "totalEntries": 41,
   "totalTop1": 1,
   "services": [
@@ -139,7 +139,7 @@
       "rank": 33,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "NE"
+      "movement24h": "-28"
     },
     {
       "title": "Who",
@@ -159,7 +159,7 @@
       "rank": 79,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-23"
+      "movement24h": "-18"
     },
     {
       "title": "Who",
@@ -229,7 +229,7 @@
       "rank": 82,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "-24"
+      "movement24h": "-19"
     },
     {
       "title": "Be Mine",
@@ -368,10 +368,10 @@
       "type": "album",
       "service": "Apple Music",
       "country": "Russia",
-      "rank": 24,
+      "rank": 17,
       "isTop1": false,
       "movementLive": null,
-      "movement24h": "+2"
+      "movement24h": "-5"
     },
     {
       "title": "MUSE",
@@ -658,7 +658,7 @@
         "rank": 33,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "NE"
+        "movement24h": "-28"
       },
       {
         "title": "Who",
@@ -678,7 +678,7 @@
         "rank": 79,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-23"
+        "movement24h": "-18"
       },
       {
         "title": "Be Mine",
@@ -688,7 +688,7 @@
         "rank": 82,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "-24"
+        "movement24h": "-19"
       },
       {
         "title": "Like Crazy",
@@ -831,10 +831,10 @@
         "type": "album",
         "service": "Apple Music",
         "country": "Russia",
-        "rank": 24,
+        "rank": 17,
         "isTop1": false,
         "movementLive": null,
-        "movement24h": "+2"
+        "movement24h": "-5"
       },
       {
         "title": "MUSE",
